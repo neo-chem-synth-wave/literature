@@ -3,7 +3,7 @@
 Molecular Graph Convolutions: Moving Beyond Fingerprints
 
 **Authors:**
-Kearnes, S.,  McCloskey, K., Berndl, M., Pande, V., Riley, P.
+Kearnes, S.,  McCloskey, K., Berndl, M., Pande, V., and Riley, P.
 
 **Publication Date:**
 2016/08/24
