@@ -9,7 +9,7 @@ Schneider, N., Lowe, D.M., Sayle, R.A., and Landrum, G.A.
 2014/12/26
 
 **Publication Link:**
-`[ACS JCIM](https://pubs.acs.org/doi/10.1021/ci5006614)`
+[ACS JCIM](https://pubs.acs.org/doi/10.1021/ci5006614)
 
 **Alternative Publication Links:**
 Copy the alternative publication links here using the | symbol as a delimiter.
