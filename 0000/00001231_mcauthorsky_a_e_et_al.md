@@ -31,8 +31,9 @@ Please separate each sentence in a new row, so the document is readable even in 
 
 # Citation
 Copy the official publication citation in the BibTex format here.
-Please use the {} instead of the "" symbols as delimiters, and omit the abstract and keywords fields.
+Please use the "" instead of the {} symbols as delimiters, and omit the abstract and keywords fields.
 Indent every row instead of the first and last with a tab space.
 Title the citation with the surname of the first author followed by the year.
 If duplicates occur, distinguish them by adding a, b, c, etc. ordered by publication date.
+If a site does not offer the BibTex format, please download the available format (_e.g._, RIS) and convert it to BibTex.
 (_e.g._, `@article{mcauthorsky0000 ... }`)
