@@ -23,7 +23,7 @@ We invite the scientific community to contribute to the future extension and imp
 
 # Citation
 ```
-@phdthesis{kraut2013,
+@article{kraut2013,
     author = "Kraut, Hans and Eiblmaier, Josef and Grethe, Guenter and Löw, Peter and Matuszczyk, Heinz and Saller, Heinz",
     title = "Algorithm for Reaction Classification",
     journal = "Journal of Chemical Information and Modeling",

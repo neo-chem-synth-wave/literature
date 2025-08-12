@@ -25,7 +25,7 @@ The data sets used for training and primary validation as well as all python scr
 
 # Citation
 ```
-@phdthesis{schneider2014,
+@article{schneider2014,
     author = "Schneider, Nadine and Lowe, Daniel M. and Sayle, Roger A. and Landrum, Gregory A.",
     title = "Development of a Novel Fingerprint for Chemical Reactions and Its Application to Large-Scale Reaction Classification and Similarity",
     journal = "Journal of Chemical Information and Modeling",
