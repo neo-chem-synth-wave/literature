@@ -3,7 +3,7 @@
 Lessons Learnt from Assembling Screening Libraries for Drug Discovery for Neglected Diseases
 
 **Authors:**
-Brenk, R., Schipani, A., James, D., Krasowski, A., Gilbert, I.H., Frearson, J. and Wyatt, P.G.
+Brenk, R., Schipani, A., James, D., Krasowski, A., Gilbert, I.H., Frearson, J., and Wyatt, P.G.
 
 **Publication Date:**
 2008/03/07
