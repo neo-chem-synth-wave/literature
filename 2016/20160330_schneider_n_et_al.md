@@ -3,7 +3,7 @@
 Big Data from Pharmaceutical Patents: A Computational Analysis of Medicinal Chemists’ Bread and Butter
 
 **Authors:**
-Schneider, N., Lowe, D.M., Sayle, R.A., Tarselli, M.A., Landru, G.A.
+Schneider, N., Lowe, D.M., Sayle, R.A., Tarselli, M.A., and Landru, G.A.
 
 **Publication Date:**
 2016/03/30
