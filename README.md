@@ -23,12 +23,26 @@ yyyymmdd_mcauthorsky_a_e_and_de_machine_c_o_b.md
 yyyymmdd_mcauthorsky_a_e_et_al.md
 ```
 
-**Step 3.** Update the new file(s) according to the [instructions](0000/yyyymmdd_mcauthorsky_a_e_et_al.md).
+**Step 3.** Update the new file(s) according to the [instructions](0000/00001231_mcauthorsky_a_e_et_al.md).
 
-**Step 4.** Once 10 entries are added, please create a pull request for merging the branch, and assign a reviewer.
+**Step 4.** Once a reasonable number of entries are added (_e.g._, around ten for quicker reviews), please create a pull request for merging the branch, and assign a reviewer.
 
 **Step 5.** After the branch is successfully merged, please delete the branch.
 
+You can either modify the format of the [existing literature](notion_export_old_format) or add new entries, but please keep the literature relevant to computer-assisted chemical synthesis. 
+
 
 # Sources
-The reviewed literature is retrieved from ACS, arXiv, bioRxiv, ChemRxiv, Nature, PLOS ONE, RSC, ResearchGate, Science, ScienceDirect, Springer, and Wiley.
+The reviewed literature is retrieved from
+[ACS](https://pubs.acs.org/action/doSearch),
+[arXiv](https://arxiv.org/search/advanced),
+[bioRxiv](https://www.biorxiv.org/search),
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/search-dashboard),
+[Nature](https://www.nature.com/search/advanced),
+[PLOS ONE](https://journals.plos.org/plosone/search),
+[RSC](https://pubs.rsc.org/en/search/advancedsearch),
+[ResearchGate](https://www.researchgate.net/search.Search.html),
+[Science](https://www.science.org/search/advanced),
+[ScienceDirect](https://www.sciencedirect.com/search),
+[Springer](https://link.springer.com/advanced-search), and
+[Wiley](https://onlinelibrary.wiley.com/search/advanced).
