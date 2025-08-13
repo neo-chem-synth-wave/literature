@@ -20,19 +20,21 @@ The prediction task is factored into two stages comparable to manual expert appr
 By training on hundreds of thousands of reaction precedents covering a broad range of reaction types from the patent literature, the neural model makes informed predictions of chemical reactivity. 
 The model predicts the major product correctly over 85% of the time requiring around 100 ms per example, a significantly higher accuracy than achieved by previous machine learning approaches, and performs on par with expert chemists with years of formal training. 
 We gain additional insight into predictions via the design of the neural model, revealing an understanding of chemistry qualitatively consistent with manual approaches.
+
+
 # Citation
 ```
 @article{coley2018,
-author ="Coley, Connor W. and Jin, Wengong and Rogers, Luke and Jamison, Timothy F. and Jaakkola, Tommi S. and Green, William H. and Barzilay, Regina and Jensen, Klavs F.",
-title  ="A graph-convolutional neural network model for the prediction of chemical reactivity",
-journal  ="Chem. Sci.",
-year  ="2019",
-volume  ="10",
-issue  ="2",
-pages  ="370-377",
-publisher  ="The Royal Society of Chemistry",
-doi  ="10.1039/C8SC04228D",
-url  ="http://dx.doi.org/10.1039/C8SC04228D",
+  author = "Coley, Connor W. and Jin, Wengong and Rogers, Luke and Jamison, Timothy F. and Jaakkola, Tommi S. and Green, William H. and Barzilay, Regina and Jensen, Klavs F.",
+  title = "A graph-convolutional neural network model for the prediction of chemical reactivity",
+  journal = "Chem. Sci.",
+  year = "2019",
+  volume = "10",
+  issue = "2",
+  pages = "370-377",
+  publisher = "The Royal Society of Chemistry",
+  doi = "10.1039/C8SC04228D",
+  url = "http://dx.doi.org/10.1039/C8SC04228D",
 }
 ```
 
