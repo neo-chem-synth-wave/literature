@@ -3,7 +3,7 @@
 Planning Chemical Syntheses with Deep Neural Networks and Symbolic AI
 
 **Authors:**
-Segler, M.H.S., Preuss, M., and Waller, M.P
+Segler, M.H.S., Preuss, M., and Waller, M.P.
 
 **Publication Date:**
 2018/03/29
