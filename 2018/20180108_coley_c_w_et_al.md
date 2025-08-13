@@ -12,7 +12,7 @@ Coley, C.W., Rogers, L., Green, W.H., and Jensen, K.F.
 [ACS JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622)
 
 **Alternative Publication Links:**
-[Official GitHub Repository] (https://github.com/connorcoley/scscore)
+[Official GitHub Repository](https://github.com/connorcoley/scscore)
 
 # Abstract
 Several definitions of molecular complexity exist to facilitate prioritization of lead compounds, to identify diversity-inducing and complexifying reactions, and to guide retrosynthetic searches. In this work, we focus on synthetic complexity and reformalize its definition to correlate with the expected number of reaction steps required to produce a target molecule, with implicit knowledge about what compounds are reasonable starting materials. 
