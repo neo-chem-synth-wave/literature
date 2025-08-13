@@ -36,7 +36,7 @@ Finally, we found that today's typical product molecule is larger, more hydropho
   pages = "4385-4402",
   year = "2016",
   doi = "10.1021/acs.jmedchem.6b00153",
-  note ="PMID: 27028220",
+  note = "PMID: 27028220",
   URL = "https://doi.org/10.1021/acs.jmedchem.6b00153",
   eprint = "https://doi.org/10.1021/acs.jmedchem.6b00153"
 }
