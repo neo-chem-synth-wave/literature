@@ -3,7 +3,7 @@
 A Simple Representation of Three-dimensional Molecular Structure
 
 **Authors:**
-Axen, S.D., Huang, X., Cáceres, E.L., Gendelev, L., Roth, B.L. and Keiser, M.J.
+Axen, S.D., Huang, X., Cáceres, E.L., Gendelev, L., Roth, B.L., and Keiser, M.J.
 
 **Publication Date:**
 2017/07/21
