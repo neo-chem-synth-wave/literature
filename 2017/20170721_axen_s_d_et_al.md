@@ -22,20 +22,22 @@ Here we apply the logic of the extended connectivity fingerprint (ECFP) to devel
 By integrating E3FP with the similarity ensemble approach (SEA), we achieve higher precision-recall performance relative to SEA with ECFP on ChEMBL20 and equivalent receiver operating characteristic performance. 
 We identify classes of molecules for which E3FP is a better predictor of similarity in bioactivity than is ECFP. 
 Finally, we report novel drug-to-target binding predictions inaccessible by 2D fingerprints and confirm three of them experimentally with ligand efficiencies from 0.442–0.637 kcal/mol/heavy atom.
+
+
 # Citation
 ```
 @article{axen2017,
-author = "Axen, Seth D. and Huang, Xi-Ping and Cáceres, Elena L. and Gendelev, Leo and Roth, Bryan L. and Keiser, Michael J.",
-title = "A Simple Representation of Three-Dimensional Molecular Structure",
-journal = "Journal of Medicinal Chemistry",
-volume = "60",
-number = "17",
-pages = "7393-7409",
-year = "2017",
-doi = "10.1021/acs.jmedchem.7b00696",
-note ="PMID: 28731335",
-URL = "https://doi.org/10.1021/acs.jmedchem.7b00696",
-eprint = "https://doi.org/10.1021/acs.jmedchem.7b00696"
+  author = "Axen, Seth D. and Huang, Xi-Ping and Cáceres, Elena L. and Gendelev, Leo and Roth, Bryan L. and Keiser, Michael J.",
+  title = "A Simple Representation of Three-Dimensional Molecular Structure",
+  journal = "Journal of Medicinal Chemistry",
+  volume = "60",
+  number = "17",
+  pages = "7393-7409",
+  year = "2017",
+  doi = "10.1021/acs.jmedchem.7b00696",
+  note ="PMID: 28731335",
+  URL = "https://doi.org/10.1021/acs.jmedchem.7b00696",
+  eprint = "https://doi.org/10.1021/acs.jmedchem.7b00696"
 }
 ```
 
