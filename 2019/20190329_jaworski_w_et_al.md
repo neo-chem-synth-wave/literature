@@ -12,7 +12,7 @@ Jaworski, W., SzymkuÄ‡, S., Mikulak-Klucznik, B., Piecuch, K., Klucznik, T., KaÅ
 [Nature Communications](https://www.nature.com/articles/s41467-019-09440-2#citeas)
 
 **Alternative Publication Link:**
-[Official GitHub Repository] (https://github.com/w-jaworski/AtomMap) 
+[Official GitHub Repository](https://github.com/w-jaworski/AtomMap) 
 
 
 # Abstract
