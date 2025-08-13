@@ -11,7 +11,6 @@ Segler, M.H.S., and Waller, M.P.
 **Publication Link:**
 [Chemistry Europe](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201605499)
 
-**Alternative Publication Links:**
 
 # Abstract
 Reaction prediction and retrosynthesis are the cornerstones of organic chemistry. 
