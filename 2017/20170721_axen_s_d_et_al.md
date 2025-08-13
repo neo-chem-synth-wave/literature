@@ -12,7 +12,8 @@ Axen, S.D., Huang, X., Cáceres, E.L., Gendelev, L., Roth, B.L. and Keiser, M.J.
 [ACS JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.7b00696)
 
 **Alternative Publication Links:**
-[PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC6075869/) | [Official GitHub Repository] (https://github.com/keiserlab/e3fp/tree/1.1)
+[PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC6075869/) | 
+[GitHub](https://github.com/keiserlab/e3fp/tree/1.1)
 
 # Abstract
 Statistical and machine learning approaches predict drug-to-target relationships from 2D small-molecule topology patterns. 
