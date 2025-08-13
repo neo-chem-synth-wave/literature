@@ -3,7 +3,7 @@
 Modelling Chemical Reasoning to Predict and Invent Reactions
 
 **Authors:**
-Segler, M.H.S., and Waller, M.P.
+Segler, M.H.S. and Waller, M.P.
 
 **Publication Date:**
 2016/11/11
