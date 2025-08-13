@@ -41,18 +41,18 @@ When ranking diverse structures or carrying out a virtual screen, we find that t
 # Citation
 ```
 @article{o’boyle2016,
-  author="O'Boyle, Noel M. and Sayle, Roger A.",
-  title="Comparing structural fingerprints using a literature-based similarity benchmark",
-  journal="Journal of Cheminformatics",
-  year="2016",
-  month="Jul",
-  day="05",
-  volume="8",
-  number="1",
-  pages="36",
-  issn="1758-2946",
-  doi="10.1186/s13321-016-0148-0",
-  url="https://doi.org/10.1186/s13321-016-0148-0"
+  author = "O'Boyle, Noel M. and Sayle, Roger A.",
+  title = "Comparing structural fingerprints using a literature-based similarity benchmark",
+  journal = "Journal of Cheminformatics",
+  year = "2016",
+  month = "Jul",
+  day = "05",
+  volume = "8",
+  number = "1",
+  pages = "36",
+  issn = "1758-2946",
+  doi = "10.1186/s13321-016-0148-0",
+  url = "https://doi.org/10.1186/s13321-016-0148-0"
 }
 ```
 
