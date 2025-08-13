@@ -21,18 +21,18 @@ Molecular “fingerprints” encoding structural information are the workhorse o
 # Citation
 ```
 @article{kearnes2016,
-  author="Kearnes, Steven and McCloskey, Kevin and Berndl, Marc and Pande, Vijay and Riley, Patrick",
-  title="Molecular graph convolutions: moving beyond fingerprints",
-  journal="Journal of Computer-Aided Molecular Design",
-  year="2016",
-  month="Aug",
-  day="01",
-  volume="30",
-  number="8",
-  pages="595-608",
-  issn="1573-4951",
-  doi="10.1007/s10822-016-9938-8",
-  url="https://doi.org/10.1007/s10822-016-9938-8"
+  author = "Kearnes, Steven and McCloskey, Kevin and Berndl, Marc and Pande, Vijay and Riley, Patrick",
+  title = "Molecular graph convolutions: moving beyond fingerprints",
+  journal = "Journal of Computer-Aided Molecular Design",
+  year = "2016",
+  month = "Aug",
+  day = "01",
+  volume = "30",
+  number = "8",
+  pages = "595-608",
+  issn = "1573-4951",
+  doi = "10.1007/s10822-016-9938-8",
+  url = "https://doi.org/10.1007/s10822-016-9938-8"
 }
 ```
 
