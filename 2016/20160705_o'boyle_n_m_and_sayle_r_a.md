@@ -3,7 +3,7 @@
 Comparing Structural Fingerprints using a Literature-based Similarity Benchmark
 
 **Authors:**
-O’Boyle, N.M., and Sayle, R.A.
+O’Boyle, N.M. and Sayle, R.A.
 
 **Publication Date:**
 2016/07/05
