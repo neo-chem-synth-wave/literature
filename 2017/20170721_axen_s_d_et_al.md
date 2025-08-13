@@ -35,7 +35,7 @@ Finally, we report novel drug-to-target binding predictions inaccessible by 2D f
   pages = "7393-7409",
   year = "2017",
   doi = "10.1021/acs.jmedchem.7b00696",
-  note ="PMID: 28731335",
+  note = "PMID: 28731335",
   URL = "https://doi.org/10.1021/acs.jmedchem.7b00696",
   eprint = "https://doi.org/10.1021/acs.jmedchem.7b00696"
 }
