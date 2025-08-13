@@ -3,7 +3,7 @@
 Neural-symbolic Machine Learning for Retrosynthesis and Reaction Prediction
 
 **Authors:**
-Segler, Marwin H.S., and Waller, Mark P.
+Segler, M.H.S., and Waller, M.P.
 
 **Publication Date:**
 2017/01/30
