@@ -27,7 +27,7 @@ science book
 # Citation
 ```
 @article{jaworski2019,
-    author = "Jaworski, Wojciech and Szymku{\'{c}}, Sara and Mikulak-Klucznik, Barbara and Piecuch, Krzysztof and Klucznik, Tomasz and Ka{\'{z}}mierowski, Micha{\l} and Rydzewski, Jan and Gambin, Anna and Grzybowski, Bartosz A.",
+    author = "Jaworski, Wojciech and Szymkuć, Sara and Mikulak-Klucznik, Barbara and Piecuch, Krzysztof and Klucznik, Tomasz and Kaźmierowski, Michał and Rydzewski, Jan and Gambin, Anna and Grzybowski, Bartosz A.",
     title = "Automatic mapping of atoms across both simple and complex chemical reactions",
     journal = "Nature Communications",
     year = "2019",
