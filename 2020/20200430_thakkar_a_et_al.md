@@ -12,7 +12,7 @@ Thakkar, A., Selmi, N., Reymond, J.L., Engkvist, O., and Bjerrum, E.J.
 [ACS Journal of Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b01919)
 
 **Alternative Publication Links:**
-[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74a97702a9b4a6d18b2a8)|
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74a97702a9b4a6d18b2a8) |
 [Official GitHub Repository](https://github.com/reymond-group/RingBreaker)
 
 
