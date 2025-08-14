@@ -37,8 +37,7 @@ Finally, the software is well documented to make it suitable for beginners. The 
   volume       = { 12 },
   number       = { 1 },
   publisher    = { Springer Science and Business Media LLC },
-  keywords     = { CASP; Monte Carlo tree-search; Neural network; Retrosynthesis;
-               Retrosynthesis planning software },
+  keywords     = { CASP; Monte Carlo tree-search; Neural network; Retrosynthesis; Retrosynthesis planning software },
   copyright    = { http://creativecommons.org/licenses/by/4.0/ },
   language     = { en }
 }
