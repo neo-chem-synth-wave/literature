@@ -13,7 +13,7 @@ Schwaller, P., Petraglia, R., Zullo, V., Nair, V.H., Haeuselmann, R.A., Pisoni, 
 
 **Alternative Publication Links:**
 [arXiv](https://arxiv.org/abs/1910.08036) |
-[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c7453df96a0026a5286b6a)|
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c7453df96a0026a5286b6a) |
 [Official GitHub Repository](https://github.com/pschwllr/MolecularTransformer)
 
 
