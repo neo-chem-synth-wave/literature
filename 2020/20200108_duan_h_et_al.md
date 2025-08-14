@@ -13,7 +13,7 @@ Duan, H., Wang, L., Zhang, C., Guo, L., and Li, J.
 
 **Alternative Publication Links:**
 [arXiv](https://arxiv.org/abs/1908.00727) |
-[ResearchGate](https://www.researchgate.net/publication/338465368_Retrosynthesis_with_attention-based_NMT_model_and_chemical_analysis_of_wrong_predictions)|
+[ResearchGate](https://www.researchgate.net/publication/338465368_Retrosynthesis_with_attention-based_NMT_model_and_chemical_analysis_of_wrong_predictions) |
 [Official GitHub Repository](https://github.com/hongliangduan/RetroSynthesisT2T)
 
 
