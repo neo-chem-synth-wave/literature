@@ -1,0 +1,42 @@
+# Overview
+**Title:**
+GTA: Graph Truncated Attention for Retrosynthesis
+
+**Authors:**
+Seo, S.W., Song, Y.Y., Yang, J.Y., Bae, S., Lee, H., Shin, J., Hwang, S.J., and Yang, E.
+
+**Publication Date:**
+2021/05/18
+
+**Publication Link:**
+[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16131)
+
+**Alternative Publication Links:**
+[Official GitHub Repository](https://github.com/sw32-seo/GTA)
+
+
+# Abstract
+Retrosynthesis is the task of predicting reactant molecules from a given product molecule and is, important in organic chemistry because the identification of a synthetic path is as demanding as the discovery of new chemical compounds. 
+Recently, the retrosynthesis task has been solved automatically without human expertise using powerful deep learning models. 
+Recent deep models are primarily based on seq2seq or graph neural networks depending on the function of molecular representation, sequence, or graph. 
+Current state-of-the-art models represent a molecule as a graph, but they require joint training with auxiliary prediction tasks, such as the most probable reaction template or reaction center prediction. Furthermore, they require additional labels by experienced chemists, thereby incurring additional cost. 
+Herein, we propose a novel template-free model, i.e., Graph Truncated Attention (GTA), which leverages both sequence and graph representations by inserting graphical information into a seq2seq model. 
+The proposed GTA model masks the self-attention layer using the adjacency matrix of product molecule in the encoder and applies a new loss using atom mapping acquired from an automated algorithm to the cross-attention layer in the decoder. 
+Our model achieves new state-of-the-art records, i.e., exact match top-1 and top-10 accuracies of 51.1% and 81.6% on the USPTO-50k benchmark dataset, respectively, and 46.0% and 70.0% on the USPTO-full dataset, respectively, both without any reaction class information. 
+The GTA model surpasses prior graph-based template-free models by 2% and 7% in terms of the top-1 and top-10 accuracies on the USPTO-50k dataset, respectively, and by over 6% for both the top-1 and top-10 accuracies on the USPTO-full dataset.
+
+
+# Citation
+```
+@article {seo2021,
+  author       = { Seung-Woo Seo and You Young Song and June Yong Yang and Bae Seohui and Hankook Lee and Jinwoo Shin and Sung Ju Hwang and Eunho Yang },
+  title        = { {GTA}: Graph Truncated Attention for Retrosynthesis },
+  journal      = { Proc. Conf. AAAI Artif. Intell. },
+  year         = { 2021 },
+  pages        = { 531--539 },
+  month        = { may },
+  volume       = { 35 },
+  number       = { 1 },
+  publisher    = { Association for the Advancement of Artificial Intelligence (AAAI) }
+}
+```
