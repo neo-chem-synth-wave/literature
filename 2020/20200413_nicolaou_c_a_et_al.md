@@ -21,7 +21,7 @@ We introduce a chemical context aware data-driven method built upon millions of 
 
 # Citation
 ```
-@article{nicolau2020,
+@article{nicolaou2020,
     author = "Nicolaou, Christos A. and Watson, Ian A. and LeMasters, Mark and Masquelin, Thierry and Wang, Jibo",
     title = "Context Aware Data-Driven Retrosynthetic Analysis",
     journal = "Journal of Chemical Information and Modeling",
