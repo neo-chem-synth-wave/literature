@@ -12,7 +12,7 @@ Chen, S. and Jung, Y.
 [JACS Au](https://pubs.acs.org/doi/10.1021/jacsau.1c00246)
 
 **Alternative Publication Links:**
-[researchGate](https://www.researchgate.net/publication/353723283_Deep_Retrosynthetic_Reaction_Prediction_using_Local_Reactivity_and_Global_Attention) |
+[ResearchGate](https://www.researchgate.net/publication/353723283_Deep_Retrosynthetic_Reaction_Prediction_using_Local_Reactivity_and_Global_Attention) |
 [Official GitHub Repository](https://github.com/kaist-amsg/LocalRetro)
 
 
