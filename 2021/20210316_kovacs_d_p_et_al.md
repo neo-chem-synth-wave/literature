@@ -32,7 +32,7 @@ We present a new debiased dataset that provides a more realistic assessment of m
 # Citation
 ```
 @article {kovacs2021,
-  author       = { D{\'a}vid P{\'e}ter Kov{\'a}cs and William McCorkindale and Alpha A Lee },
+  author       = { Dávid Péter Kovács and William McCorkindale and Alpha A Lee }, 
   title        = { Quantitative interpretation explains machine learning models for chemical reaction prediction and uncovers bias },
   journal      = { Nat. Commun. },
   year         = { 2021 },
