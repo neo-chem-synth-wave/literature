@@ -44,5 +44,4 @@ Specifically, our approach predicts highly similar reactant molecules with an ac
   copyright    = { http://creativecommons.org/licenses/by/4.0/ },
   language     = { en }
 }
-
 ```
