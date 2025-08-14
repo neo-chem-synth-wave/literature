@@ -11,11 +11,6 @@ Nicolaou, C.A., Watson, I.A., LeMasters, M., Masquelin, T., and Wang, J.
 **Publication Link:**
 [ACS JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01141)
 
-**Alternative Publication Links:**
-[arXiv](https://arxiv.org/abs/1910.08036) |
-[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c7453df96a0026a5286b6a)|
-[Official GitHub Repository](https://github.com/pschwllr/MolecularTransformer)
-
 
 # Abstract
 Modern drug discovery is an iterative process relying on hypothesis generation through exploitation of available data and hypothesis testing that produces informative results necessary for subsequent rounds of exploration. 
