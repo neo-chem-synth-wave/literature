@@ -9,7 +9,7 @@ Qiao, H., Wu, Y., Zhang, Y., Zhang, C., Wu, X., Wu, Z., Zhao, Q., Wang, X., Li, 
 2022/11/08
 
 **Publication Link:**
-[RSC Advances ](https://pubs.rsc.org/en/content/articlelanding/2022/ra/d2ra05349g)
+[RSC Advances](https://pubs.rsc.org/en/content/articlelanding/2022/ra/d2ra05349g)
 
 **Alternative Publication Links:**
 [ResearchGate](https://www.researchgate.net/publication/365257056_Transformer-based_multitask_learning_for_reaction_prediction_under_low-resource_circumstances) |
