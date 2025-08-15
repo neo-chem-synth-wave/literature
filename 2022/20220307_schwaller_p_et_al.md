@@ -11,10 +11,6 @@ Schwaller, P., Vaucher, A.C., Laplaza, R., Bunne, C., Krause, A., Corminboeuf, C
 **Publication Link:**
 [WIREs Computational Molecular Science](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1604)
 
-**Alternative Publication Links:**
-[ResearchGate](https://www.researchgate.net/publication/359023755_Retrosynthetic_reaction_pathway_prediction_through_neural_machine_translation_of_atomic_environments) |
-[Official GitHub Repository](https://github.com/knu-lcbc/RetroTRAE)
-
 
 # Abstract
 Discovering new reactions, optimizing their performance, and extending the synthetically accessible chemical space are critical drivers for major technological advances and more sustainable processes. 
