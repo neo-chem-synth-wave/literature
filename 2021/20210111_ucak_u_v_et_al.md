@@ -39,8 +39,6 @@ Specifically, our approach predicts highly similar reactant molecules with an ac
   volume       = { 13 },
   number       = { 1 },
   publisher    = { Springer Science and Business Media LLC },
-  keywords     = { Attention; Neural machine translation; Retrosynthesis planning;
-               Seq-to-seq },
   copyright    = { http://creativecommons.org/licenses/by/4.0/ },
   language     = { en }
 }
