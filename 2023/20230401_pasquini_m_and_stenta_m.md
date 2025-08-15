@@ -13,7 +13,7 @@ Pasquini, M. and Stenta, M.
 
 **Alternative Publication Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6376222e53ab80ebb2290281) |
-[ReearchGate](https://www.researchgate.net/publication/369750453_LinChemIn_SynGraph-a_data_model_and_a_toolkit_to_analyze_and_compare_synthetic_routes) |
+[ResearchGate](https://www.researchgate.net/publication/369750453_LinChemIn_SynGraph-a_data_model_and_a_toolkit_to_analyze_and_compare_synthetic_routes) |
 [Official GitHub Repository](https://github.com/syngenta/linchemin)
 
 
