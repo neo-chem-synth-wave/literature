@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Extraction of Organic Chemistry Grammar from Unsupervised Learning of Chemical Reactions
+Extraction of Organic Chemistry Grammar From Unsupervised Learning of Chemical Reactions
 
 **Authors:**
 Schwaller, P., Hoover, B., Reymond, J., Strobelt, H., and Laino, T.
@@ -16,6 +16,9 @@ Schwaller, P., Hoover, B., Reymond, J., Strobelt, H., and Laino, T.
 [GitHub](https://github.com/rxn4chemistry/rxnmapper) |
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8026122) |
 [ResearchGate](https://www.researchgate.net/publication/350712225_Extraction_of_organic_chemistry_grammar_from_unsupervised_learning_of_chemical_reactions)
+
+**Impact:**
+False
 
 **Tags:**
 atom-to-atom-mapping, transformer-model, rxnmapper

@@ -8,6 +8,7 @@ Please prioritize the following publications while contributing to this reposito
   - [ ] https://doi.org/10.1021/jo01299a001
   - [ ] https://doi.org/10.1021/ci00023a005
   - [ ] https://doi.org/10.1021/ci00023a005
+  - [ ] https://doi.org/10.1002/anie.199302011
   - [ ] https://doi.org/10.1002/anie.201909987
   - [ ] https://doi.org/10.1002/anie.201909989
 

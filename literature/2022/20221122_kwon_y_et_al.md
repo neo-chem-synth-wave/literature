@@ -14,6 +14,9 @@ Kwon, Y., Kim, S., Choi, Y., and Kang, S.
 **Alternative Links:**
 [GitHub](https://github.com/seokhokang/reaction_condition_vae)
 
+**Impact:**
+False
+
 **Tags:**
 reaction-condition-prediction, variational-autoencoder, graph-neural-network
 

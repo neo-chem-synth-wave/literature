@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Computer-assisted Retrosynthesis based on Molecular Similarity
+Computer-Assisted Retrosynthesis Based on Molecular Similarity
 
 **Authors:**
 Coley, C.W., Rogers, L., Green, W.H., and Jensen, K.F.
@@ -16,6 +16,9 @@ Coley, C.W., Rogers, L., Green, W.H., and Jensen, K.F.
 [GitHub](https://github.com/connorcoley/retrosim) |
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746854) |
 [ResearchGate](https://www.researchgate.net/publication/321114070_Computer-Assisted_Retrosynthesis_Based_on_Molecular_Similarity)
+
+**Impact:**
+True
 
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, retrosim

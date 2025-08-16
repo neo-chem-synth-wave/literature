@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Single-step Retrosynthesis Prediction based on the Identification of Potential Disconnection Sites using Molecular Substructure Fingerprints
+Single-Step Retrosynthesis Prediction Based on the Identification of Potential Disconnection Sites Using Molecular Substructure Fingerprints
 
 **Authors:**
 Hasic, H. and Ishida, T.
@@ -14,6 +14,9 @@ Hasic, H. and Ishida, T.
 **Alternative Links:**
 [GitHub](https://github.com/hasic-haris/one_step_retrosynth_ai) |
 [ResearchGate](https://www.researchgate.net/publication/349040662_Single-Step_Retrosynthesis_Prediction_Based_on_the_Identification_of_Potential_Disconnection_Sites_Using_Molecular_Substructure_Fingerprints)
+
+**Impact:**
+False
 
 **Tags:**
 single-step-retrosynthesis, semi-template-based

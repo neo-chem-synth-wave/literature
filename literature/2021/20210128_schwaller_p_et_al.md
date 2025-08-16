@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Mapping the Space of Chemical Reactions using Attention-based Neural Networks
+Mapping the Space of Chemical Reactions Using Attention-Based Neural Networks
 
 **Authors:**
 Schwaller, P., Probst, D., Vaucher, A.C., Nair, V.H., Kreutter, D., Laino, T., and Reymond, J.
@@ -17,6 +17,9 @@ Schwaller, P., Probst, D., Vaucher, A.C., Nair, V.H., Kreutter, D., Laino, T., a
 [GitHub](https://github.com/rxn4chemistry/rxnfp) |
 [ResearchGate](https://www.researchgate.net/publication/348851156_Mapping_the_space_of_chemical_reactions_using_attention-based_neural_networks) |
 [Springer Nature SharedIt](http://rdcu.be/cenmd)
+
+**Impact:**
+False
 
 **Tags:**
 reaction-classification, fingerprint, transformer, rxnfp, uspto-1k-tpl

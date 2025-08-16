@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Estimation of Synthetic Accessibility Score of Drug-like Molecules based on Molecular Complexity and Fragment Contributions
+Estimation of Synthetic Accessibility Score of Drug-Like Molecules Based on Molecular Complexity and Fragment Contributions
 
 **Authors:**
 Ertl, P. and Schuffenhauer, A.
@@ -15,16 +15,21 @@ Ertl, P. and Schuffenhauer, A.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC3225829) |
 [ResearchGate](https://www.researchgate.net/publication/42344111_Estimation_of_Synthetic_Accessibility_Score_of_Drug-Like_Molecules_Based_on_Molecular_Complexity_and_Fragment_Contributions)
 
+**Impact:**
+True
+
 **Tags:**
-synthesizability, sa-score
+synthesizability, synthetic-accessibility, sa-score
 
 
 # Abstract
 Background
+
 A method to estimate ease of synthesis (synthetic accessibility) of drug-like molecules is needed in many areas of the drug discovery process.
 The development and validation of such a method that is able to characterize molecule synthetic accessibility as a score between 1 (easy to make) and 10 (very difficult to make) is described in this article.
 
 Results
+
 The method for estimation of the synthetic accessibility score (SAscore) described here is based on a combination of fragment contributions and a complexity penalty.
 Fragment contributions have been calculated based on the analysis of one million representative molecules from PubChem and therefore one can say that they capture historical synthetic knowledge stored in this database.
 The molecular complexity score takes into account the presence of non-standard structural features, such as large rings, non-standard ring fusions, stereocomplexity and molecule size.
@@ -32,6 +37,7 @@ The method has been validated by comparing calculated SAscores with ease of synt
 The agreement between calculated and manually estimated synthetic accessibility is very good with r2 = 0.89.
 
 Conclusion
+
 A novel method to estimate synthetic accessibility of molecules has been developed.
 This method uses historical synthetic knowledge obtained by analyzing information from millions of already synthesized chemicals and considers also molecule complexity.
 The method is sufficiently fast and provides results consistent with estimation of ease of synthesis by experienced medicinal chemists.

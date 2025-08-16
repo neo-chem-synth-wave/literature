@@ -16,6 +16,9 @@ Deng, Y., Zhao, X., Sun, H., Chen, Y., Wang, X., Xue, X., Li, L., Song, J., Hsie
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12314115) |
 [ResearchGate](https://www.researchgate.net/publication/394173109_RSGPT_a_generative_transformer_model_for_retrosynthesis_planning_pre-trained_on_ten_billion_datapoints)
 
+**Impact:**
+False
+
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, semi-template-based, rsgpt
 

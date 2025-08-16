@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Prediction of Organic Reaction Outcomes using Machine Learning
+Prediction of Organic Reaction Outcomes Using Machine Learning
 
 **Authors:**
 Coley, C.W., Barzilay, R., Jaakkola, T.S., Green, W.H., and Jensen, K.F.
@@ -17,6 +17,9 @@ Coley, C.W., Barzilay, R., Jaakkola, T.S., Green, W.H., and Jensen, K.F.
 [GitHub - USPTO (15k)](https://github.com/wengong-jin/nips17-rexgen) |
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445544) |
 [ResearchGate](https://www.researchgate.net/publication/316354788_Prediction_of_Organic_Reaction_Outcomes_Using_Machine_Learning)
+
+**Impact:**
+True
 
 **Tags:**
 single-step-synthesis, template-based, data-source, uspto-15k
