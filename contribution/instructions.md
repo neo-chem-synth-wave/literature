@@ -2,33 +2,28 @@
 To contribute to this repository, please adhere to the following instructions:
 
 1. Check out a **new branch** with an appropriate title.
-For example:
 
-    ```
-    20001231_contribution_by_mcauthorsky_a_e
-    ```
-
-2. Add the new literature files in the **appropriate publication year directories**.
+2. Add the **new literature files** in the appropriate **publication year directories**.
 If a publication year directory does not exist, create it yourself.
-Prioritize adding publications from the [contribution wishlist](/contribution/wishlist.md). 
-Only add officially published peer-reviewed literature relevant to computer-assisted chemical synthesis, and avoid adding pre-print publications.
-Refer to the section outlining the [relevant literature sources](#relevant-literature-sources) for more information.
+Prioritize literature from the [contribution wishlist](/contribution/wishlist.md).
+Only add officially published peer-reviewed literature relevant to computer-assisted chemical synthesis.
+Refer to the subsection outlining the [relevant literature sources](#relevant-literature-sources) for more information.
 Adhere to the following literature file naming conventions:
 
-    ```
-    # One Author (Author Ęugene McAuthórśky):
+    ```markdown
+    # One Author (e.g., Author Ęugene McAuthórśky):
     yyyymmdd_mcauthorsky_a_e.md
-    
-    # Two Authors (Author Ęugene McAuthórśky and Coauthor Oliver Bradshaw de Machine):
+
+    # Two Authors (e.g., Author Ęugene McAuthórśky and Coauthor Oliver Bradshaw de Machine):
     yyyymmdd_mcauthorsky_a_e_and_de_machine_c_o_b.md
-    
-    # Three or More Authors (Author Ęugene McAuthórśky, Coauthor Oliver Bradshaw de Machine, and Mentor Complainson):
+
+    # Three or More Authors (e.g., Author Ęugene McAuthórśky, Coauthor Oliver Bradshaw de Machine, and Mentor Complainson):
     yyyymmdd_mcauthorsky_a_e_et_al.md
     ```
 
-3. Format the literature files referring to the section outlining the [formatting instructions](#formatting-instructions).
+3. Format the new literature files in accordance with the subsection outlining the [formatting instructions](#formatting-instructions).
 
-4. Once a reasonable number (_e.g._, ~10) of literature files are added, **create a pull request and assign a reviewer**.
+4. Once a reasonable number of new literature files (_e.g._, ~10) are added, **create a pull request and assign a reviewer**. 
 
 5. After the pull request is approved and the branch is successfully merged, **delete the branch**.
 
@@ -61,12 +56,12 @@ The relevant literature sources are as follows:
 - **Others**:
   - [DSpace@MIT](https://dspace.mit.edu/discover)
   - [GitHub](https://github.com/search/advanced)
-  - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/advanced)
+  - [PubMed Central](https://ncbi.nlm.nih.gov/pmc/advanced)
   - [ResearchGate](https://researchgate.net/search.Search.html)
 
 
 ## Formatting Instructions
-To format a literature file, please adhere to the following instructions:
+While formatting a new literature file, please adhere to the following instructions:
 
 
 ### Overview
@@ -75,15 +70,18 @@ Copy the **official publication title** in this [title format converter](https:/
 Convert and copy the modified title here.
 For example:
 
-```
-Title of the Publication About a Relevant Topic
+```markdown
+# Overview
+**Title:**
+Title of a Publication About a Relevant Computer-Assisted Chemical Synthesis Topic
 ```
 
 **Authors:**
 Copy the **official publication author information** in the **Vancouver referencing format** with periods and special symbols here.
 For example:
 
-```
+```markdown
+**Authors:**
 McAuthórśky, A.Ę., de Machine, C.O.B., and Complainson, M.
 ```
 
@@ -91,7 +89,8 @@ McAuthórśky, A.Ę., de Machine, C.O.B., and Complainson, M.
 Copy the **official publication date** in the **yyyy/mm/dd date format** here.
 For example:
 
-```
+```markdown
+**Publication Date:**
 2000/12/31
 ```
 
@@ -99,45 +98,52 @@ For example:
 Copy the **official publication link** here.
 For example:
 
-```
+```markdown
+**Publication Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
 ```
 
 **Alternative Links:**
-Copy the **alternative links** (_e.g._, alternative publication, pre-print, web page, data source, and code) here using the **|** symbol as a delimiter with each link in a new row.
+Copy the **alternative links** (_e.g._, alternative publication, pre-print, web page, data source, code, etc.) here using the **|** symbol as a delimiter.
+Write each link in a new row.
 Avoid adding links to illegal sources.
 If there are no alternative links, write **None**.
 For example:
 
-```
+```markdown
+**Alternative Links:**
 [arXiv](https://arxiv.org) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov) |
 [ResearchGate](https://researchgate.net)
 ```
 
 **Impact:**
-Add **True** or **False** here depending on whether the **official publication is impactful or not**.
+Write **True** or **False** here depending on whether the **official publication is impactful or not**.
 For example:
 
-```
+```markdown
+**Impact:**
 True
 ```
 
 **Tags:**
-Add the **tags** that summarize the contents of the **official publication** here using the **-** symbol as a delimiter.
+Write the **tags that summarize the contents of the official publication** here using the **-** symbol as a delimiter.
 For example:
 
-```
-single-step-retrosynthesis, template-based, data-source
+```markdown
+**Tags:**
+single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 ```
 
 
 ### Abstract
-Copy the **official publication abstract** here.
-Separate each sentence in a new row and remove any **special symbols and curly quotation symbols**.
+Copy the **official publication abstract text** here.
+Write each sentence in a new row.
+Remove any unrecognized symbols and curly quotation (_i.e._, **‘’** and **“”**) symbols.
 For example:
 
-```
+```markdown
+# Abstract
 The first sentence of the abstract text.
 The second sentence of the abstract text containing the 'curly quotation symbols'.
 The third sentence of the abstract text containing the "curly quotation symbols".
@@ -146,15 +152,17 @@ The third sentence of the abstract text containing the "curly quotation symbols"
 
 
 ### Citation
-Copy the **official publication citation** in the **BibTex citation format** here.
-If the download of the citation is only available in the **RIS citation format**, please convert it to the **BibTex citation format** using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
+Copy the **official publication citation** in the **BibTex format** here.
+If the download of the citation is only available in the **RIS format**, please convert it to the **BibTex format** using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
 Format the citation using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
-This normalizer formats the citation using the **{ ** and ** }** symbols as delimiters, but it omits them for some fields. (_e.g._, year)
+This normalizer formats the citation using the **{ ** and ** }** symbols as delimiters, but it omits them for some fields. (_e.g._, year, volume, number, etc.)
 Add the **{ ** and ** }** symbols as delimiters wherever they are missing after the formatting.
 Delete the **abstract** and **keywords** fields, if included.
 Title the citation with the **lowercase surname of the first author followed by the year of publication**.
 For example:
 
+````markdown
+# Citation
 ```
 @article {mcauthorsky2000,
   author       = { ... },
@@ -165,3 +173,4 @@ For example:
   url          = { ... }
 }
 ```
+````
