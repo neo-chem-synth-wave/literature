@@ -97,7 +97,7 @@ Add the **tags** that summarize the contents of the **official publication** her
 
 
 ### Abstract (NOTE: Use the # symbol instead of the ### symbol.)
-Copy the **official publication abstract** here separating each sentence in a new row.
+Copy the **official publication abstract** here, separating each sentence in a new row.
 (_e.g._, `The first sentence of the abstract text.\nThe second sentence of the abstract text.\n...`)
 
 
