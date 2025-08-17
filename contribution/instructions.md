@@ -103,12 +103,13 @@ Copy the **official publication abstract** here, separating each sentence in a n
 
 ### Citation (NOTE: Use the # symbol instead of the ### symbol.)
 Copy the **official publication citation** in the **BibTex citation format** here.
-If the download of the citation file is only available in the **RIS citation format**, please convert it to the BibTex citation format using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
-Format the citation file using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
-This normalizer formats the citation file using the **{ ** and ** }** delimiter symbols, but it omits them for some fields. (_e.g._, year)
-Add the **{ ** and ** }** delimiter symbols wherever they are missing after the normalization.
+If the download of the citation is only available in the **RIS citation format**, please convert it to the **BibTex citation format** using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
+Format the citation using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
+This normalizer formats the citation using the **{ ** and ** }** symbols as delimiters, but it omits them for some fields. (_e.g._, year)
+Add the **{ ** and ** }** symbols as delimiters wherever they are missing after the formatting.
 Delete the **abstract** and **keywords** fields, if included.
-Title the citation with the lowercase surname of the first author followed by the year of publication.
+Title the citation with the **lowercase surname of the first author followed by the year of publication**.
+An example of an appropriately formatted BibTex citation is as follows:
 
 ```
 @article {mcauthorsky2000,
@@ -117,6 +118,6 @@ Title the citation with the lowercase surname of the first author followed by th
   journal      = { ... },
   year         = { ... },
   ...,
-  url          = { https://doi.org/10.1038/s41467-025-62308-6 }
+  url          = { ... }
 }
 ```
