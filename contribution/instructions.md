@@ -10,7 +10,7 @@ Only add officially published peer-reviewed literature relevant to computer-assi
 Refer to the subsection outlining the [relevant literature sources](#relevant-literature-sources) for more information.
 Adhere to the following literature file naming conventions:
 
-    ```markdown
+    ```
     # One Author (e.g., Author Ęugene McAuthórśky):
     yyyymmdd_mcauthorsky_a_e.md
 
@@ -155,8 +155,8 @@ The third sentence of the abstract text containing the "curly quotation symbols"
 Copy the **official publication citation** in the **BibTex format** here.
 If the download of the citation is only available in the **RIS format**, please convert it to the **BibTex format** using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
 Format the citation using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
-This normalizer formats the citation using the **{ ** and ** }** symbols as delimiters, but it omits them for some fields. (_e.g._, year, volume, number, etc.)
-Add the **{ ** and ** }** symbols as delimiters wherever they are missing after the formatting.
+This normalizer formats the citation using the **{** and **}** symbols as delimiters, but it omits them for some fields. (_e.g._, year, volume, number, etc.)
+Add the **{** and **}** symbols as delimiters wherever they are missing after the formatting.
 Delete the **abstract** and **keywords** fields, if included.
 Title the citation with the **lowercase surname of the first author followed by the year of publication**.
 For example:
