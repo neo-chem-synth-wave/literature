@@ -1,9 +1,9 @@
 # Contribution Instructions
 To contribute to this repository, please adhere to the following instructions:
 
-1. Check out a **new branch** with an appropriate title.
+1. **Check out a new branch** with an appropriate title.
 
-2. Add the **new literature files** in the appropriate **publication year directories**.
+2. **Add the new literature files** in the appropriate **publication year directories**.
 If a publication year directory does not exist, create it yourself.
 Prioritize literature from the [contribution wishlist](/contribution/wishlist.md).
 Only add officially published peer-reviewed literature relevant to computer-assisted chemical synthesis.
@@ -21,7 +21,7 @@ Adhere to the following literature file naming conventions:
     yyyymmdd_mcauthorsky_a_e_et_al.md
     ```
 
-3. Format the new literature files in accordance with the subsection outlining the [formatting instructions](#formatting-instructions).
+3. **Format the new literature files** in accordance with the subsection outlining the [formatting instructions](#formatting-instructions).
 
 4. Once a reasonable number of new literature files (_e.g._, ~10) are added, **create a pull request and assign a reviewer**. 
 
@@ -137,7 +137,7 @@ single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 
 
 ### Abstract
-Copy the **official publication abstract text** here.
+Copy the **official publication abstract** here.
 Write each sentence in a new row.
 Remove any unrecognized symbols and curly quotation (_i.e._, **‘’** and **“”**) symbols.
 For example:
@@ -157,7 +157,7 @@ If the download of the citation is only available in the **RIS format**, please 
 Format the citation using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
 This normalizer formats the citation using the **{** and **}** symbols as delimiters, but it omits them for some fields. (_e.g._, year, volume, number, etc.)
 Add the **{** and **}** symbols as delimiters wherever they are missing after the formatting.
-Delete the **abstract** and **keywords** fields, if included.
+Delete the **abstract** and **keywords** fields, if originally included.
 Title the citation with the **lowercase surname of the first author followed by the year of publication**.
 For example:
 
