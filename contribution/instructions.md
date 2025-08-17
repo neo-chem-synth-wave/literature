@@ -1,10 +1,16 @@
 # Contribution Instructions
 To contribute to this repository, please adhere to the following instructions:
 
-1. Check out a **new branch** with an appropriate title. (_e.g._, `20001231_contribution_by_mcauthorsky_a_e`)
+1. Check out a **new branch** with an appropriate title.
+For example:
+
+    ```
+    20001231_contribution_by_mcauthorsky_a_e
+    ```
 
 2. Add the new literature files in the **appropriate publication year directories**.
 If a publication year directory does not exist, create it yourself.
+Prioritize adding publications from the [contribution wishlist](/contribution/wishlist.md). 
 Only add officially published peer-reviewed literature relevant to computer-assisted chemical synthesis, and avoid adding pre-print publications.
 Refer to the section outlining the [relevant literature sources](#relevant-literature-sources) for more information.
 Adhere to the following literature file naming conventions:
@@ -63,45 +69,83 @@ The relevant literature sources are as follows:
 To format a literature file, please adhere to the following instructions:
 
 
-### Overview (NOTE: Use the # symbol instead of the ### symbol.)
+### Overview
 **Title:**
 Copy the **official publication title** in this [title format converter](https://titlecaseconverter.com) with the **APA**, **Keep Words in All Caps**, and **Use Straight Quotes** options toggled on.
 Convert and copy the modified title here.
-(_e.g._, `Title of the Publication About a Relevant Topic`)
+For example:
+
+```
+Title of the Publication About a Relevant Topic
+```
 
 **Authors:**
 Copy the **official publication author information** in the **Vancouver referencing format** with periods and special symbols here.
-(_e.g._, `McAuthórśky, A.Ę., de Machine, C.O.B., and Complainson, M.`)
+For example:
+
+```
+McAuthórśky, A.Ę., de Machine, C.O.B., and Complainson, M.
+```
 
 **Publication Date:**
 Copy the **official publication date** in the **yyyy/mm/dd date format** here.
-(_e.g._, `2000/12/31`)
+For example:
+
+```
+2000/12/31
+```
 
 **Publication Link:**
 Copy the **official publication link** here.
-(_e.g._, `[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)`)
+For example:
+
+```
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
+```
 
 **Alternative Links:**
 Copy the **alternative links** (_e.g._, alternative publication, pre-print, web page, data source, and code) here using the **|** symbol as a delimiter with each link in a new row.
 Avoid adding links to illegal sources.
 If there are no alternative links, write **None**.
-(_e.g._, `[arXiv](https://arxiv.org) |\n[PubMed Central](https://pmc.ncbi.nlm.nih.gov)` or `None`)
+For example:
+
+```
+[arXiv](https://arxiv.org) |
+[PubMed Central](https://pmc.ncbi.nlm.nih.gov) |
+[ResearchGate](https://researchgate.net)
+```
 
 **Impact:**
 Add **True** or **False** here depending on whether the **official publication is impactful or not**.
-(_e.g._, `True` or `False`)
+For example:
+
+```
+True
+```
 
 **Tags:**
 Add the **tags** that summarize the contents of the **official publication** here using the **-** symbol as a delimiter.
-(_e.g._, `single-step-retrosynthesis, template-based, data-source`)
+For example:
+
+```
+single-step-retrosynthesis, template-based, data-source
+```
 
 
-### Abstract (NOTE: Use the # symbol instead of the ### symbol.)
-Copy the **official publication abstract** here, separating each sentence in a new row.
-(_e.g._, `The first sentence of the abstract text.\nThe second sentence of the abstract text.\n...`)
+### Abstract
+Copy the **official publication abstract** here.
+Separate each sentence in a new row and remove any **special symbols and curly quotation symbols**.
+For example:
+
+```
+The first sentence of the abstract text.
+The second sentence of the abstract text containing the 'curly quotation symbols'.
+The third sentence of the abstract text containing the "curly quotation symbols".
+...
+```
 
 
-### Citation (NOTE: Use the # symbol instead of the ### symbol.)
+### Citation
 Copy the **official publication citation** in the **BibTex citation format** here.
 If the download of the citation is only available in the **RIS citation format**, please convert it to the **BibTex citation format** using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
 Format the citation using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
@@ -109,7 +153,7 @@ This normalizer formats the citation using the **{ ** and ** }** symbols as deli
 Add the **{ ** and ** }** symbols as delimiters wherever they are missing after the formatting.
 Delete the **abstract** and **keywords** fields, if included.
 Title the citation with the **lowercase surname of the first author followed by the year of publication**.
-An example of an appropriately formatted BibTex citation is as follows:
+For example:
 
 ```
 @article {mcauthorsky2000,
