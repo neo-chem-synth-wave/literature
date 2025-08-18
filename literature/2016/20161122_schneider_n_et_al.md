@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-What’s What: The (Nearly) Definitive Guide to Reaction Role Assignment
+What's What: The (Nearly) Definitive Guide to Reaction Role Assignment
 
 **Authors:**
 Schneider, N., Stiefl, N., and Landrum, G.A.
@@ -8,17 +8,26 @@ Schneider, N., Stiefl, N., and Landrum, G.A.
 **Publication Date:**
 2016/11/22
 
-**Publication Link:**
-[ACS JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.6b00564)
+**Link:**
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/full/10.1021/acs.jcim.6b00564)
+
+**Alternative Links:**
+None
+
+**Starred:**
+True
+
+**Tags:**
+reaction-role-assignment, fingerprint, data-source, uspto-50k
 
 
 # Abstract
 When analyzing chemical reactions it is essential to know which molecules are actively involved in the reaction and which educts will form the product molecules.
-Assigning reaction roles, like reactant, reagent, or product, to the molecules of a chemical reaction might be a trivial problem for hand-curated reaction schemes but it is more difficult to automate, an essential step when handling large amounts of reaction data.
+Assigning reaction roles, like reactant, reagent, or product, to the molecules of a chemical reaction might be a trivial problem for hand-curated reaction schemes, but it is more difficult to automate, an essential step when handling large amounts of reaction data.
 Here, we describe a new fingerprint-based and data-driven approach to assign reaction roles which is also applicable to rather unbalanced and noisy reaction schemes.
 Given a set of molecules involved and knowing the product(s) of a reaction we assign the most probable reactants and sort out the remaining reagents.
 Our approach was validated using two different data sets: one hand-curated data set comprising about 680 diverse reactions extracted from patents which span more than 200 different reaction types and include up to 18 different reactants.
-A second set consists of 50 000 randomly picked reactions from US patents.
+A second set consists of 50,000 randomly picked reactions from US patents.
 The results of the second data set were compared to results obtained using two different atom-to-atom mapping algorithms.
 For both data sets our method assigns the reaction roles correctly for the vast majority of the reactions, achieving an accuracy of 88% and 97% respectively.
 The median time needed, about 8 ms, indicates that the algorithm is fast enough to be applied to large collections.
@@ -27,17 +36,17 @@ The new method is available as part of the RDKit toolkit and the data sets and J
 
 # Citation
 ```
-@article{schneider2016,
-    author = "Schneider, Nadine and Stiefl, Nikolaus and Landrum, Gregory A.",
-    title = "What’s What: The (Nearly) Definitive Guide to Reaction Role Assignment",
-    journal = "Journal of Chemical Information and Modeling",
-    volume = "56",
-    number = "12",
-    pages = "2336-2346",
-    year = "2016",
-    doi = "10.1021/acs.jcim.6b00564",
-    note = "PMID: 28024398",
-    url = "https://doi.org/10.1021/acs.jcim.6b00564",
-    eprint = "https://doi.org/10.1021/acs.jcim.6b00564"
+@article {schneider2016b,
+  author       = { Nadine Schneider and Nikolaus Stiefl and Gregory A. Landrum },
+  title        = { What’s What: The (Nearly) Definitive Guide to Reaction Role Assignment },
+  journal      = { Journal of Chemical Information and Modeling },
+  year         = { 2016 },
+  note         = { PMID: 28024398 },
+  pages        = { 2336-2346 },
+  volume       = { 56 },
+  number       = { 12 },
+  doi          = { 10.1021/acs.jcim.6b00564 },
+  url          = { https://doi.org/10.1021/acs.jcim.6b00564 },
+  eprint       = { https://doi.org/10.1021/acs.jcim.6b00564 }
 }
 ```
