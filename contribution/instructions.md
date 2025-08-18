@@ -81,8 +81,9 @@ Acronym - A Relevant Computer-Assisted Chemical Synthesis Topic: The 'Official' 
 ```
 
 **Authors:**
-Write the **long and short versions of the official author information** in the **Vancouver referencing format including periods and special symbols** here using the **' |\n'** symbol combination as a delimiter.
+Write the **long and short versions of the official author information** in the **Vancouver referencing format, including periods and special symbols** here using the **' |\n'** symbol combination as a delimiter.
 The short official author is formatted as follows: **McAuthórśky, A.Ę.**, **McAuthórśky, A.Ę. and de Machine, C.O.B.**, and **McAuthórśky, A.Ę. et al.** in the case of one, two, and three or more authors, respectively.
+Skip the short version of the official author information if the long and short versions are identical.
 For example:
 
 ```markdown
@@ -133,7 +134,7 @@ True
 
 **Tags:**
 Write the **tags that summarize the official contents** here using the **' ,'** symbol combination as a delimiter.
-Use the hyphen instead of space symbols for tags with more than one word.
+Use the hyphen instead of the space symbol for tags with more than one word.
 For example:
 
 ```markdown
