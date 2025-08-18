@@ -35,8 +35,8 @@ The relevant literature sources are as follows:
   - [Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence](https://aaai.org/conference/aaai)
   - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc)
   - [International Joint Conferences on Artificial Intelligence (IJCAI)](https://ijcai.org)
-  - [International Conference on Learning Representations (ICLR)](https://icml.cc)
-  - [International Conference on Machine Learning (ICML)](https://iclr.cc)
+  - [International Conference on Learning Representations (ICLR)](https://iclr.cc)
+  - [International Conference on Machine Learning (ICML)](https://icml.cc)
 
 - **Journals**:
   - [American Chemical Society (ACS)](https://pubs.acs.org/action/doSearch)
@@ -45,7 +45,7 @@ The relevant literature sources are as follows:
   - [Public Library of Science (PLOS)](https://journals.plos.org/plosone/search)
   - [Royal Society of Chemistry (RSC)](https://pubs.rsc.org/en/search/advancedsearch)
   - [Science](https://science.org/search/advanced)
-  - [Elsevier ScienceDirect](https://sciencedirect.com/search)
+  - [ScienceDirect](https://sciencedirect.com/search)
   - [Springer](https://link.springer.com/advanced-search)
   - [Thieme](https://thieme-connect.com/products/all/search)
   - [Wiley](https://onlinelibrary.wiley.com/search/advanced)
@@ -77,11 +77,11 @@ For example:
 ```markdown
 # Overview
 **Title:**
-A Relevant Computer-Assisted Chemical Synthesis Topic: The 'Official' Title
+Acronym - A Relevant Computer-Assisted Chemical Synthesis Topic: The 'Official' "Title"
 ```
 
 **Authors:**
-Write the long and short versions of the **official author information** in the **Vancouver referencing format including periods and special symbols** here using the **' |\n'** symbol combination as a delimiter.
+Write the **long and short versions of the official author information** in the **Vancouver referencing format including periods and special symbols** here using the **' |\n'** symbol combination as a delimiter.
 The short official author is formatted as follows: **McAuthórśky, A.Ę.**, **McAuthórśky, A.Ę. and de Machine, C.O.B.**, and **McAuthórśky, A.Ę. et al.** in the case of one, two, and three or more authors, respectively.
 For example:
 
@@ -123,7 +123,7 @@ For example:
 ```
 
 **Starred:**
-Write **True** or **False** here depending on whether **the literature is starred or not**, respectively.
+Write **True** or **False** here depending on whether the **literature is starred or not**, respectively.
 For example:
 
 ```markdown
@@ -132,8 +132,8 @@ True
 ```
 
 **Tags:**
-Write **the tags that summarize the official contents** here using the **' ,'** symbol combination as a delimiter.
-Use the hyphen instead of the space symbols for tags with more than one word.
+Write the **tags that summarize the official contents** here using the **' ,'** symbol combination as a delimiter.
+Use the hyphen instead of space symbols for tags with more than one word.
 For example:
 
 ```markdown
@@ -143,8 +143,8 @@ single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 
 
 ### Abstract
-Write the **official abstract** here, separating each sentence in a new row.
-Replace any unrecognized and curly quotation symbols with appropriate alternative and straight quotation symbols, respectively. 
+Write the **official abstract text** here, separating each sentence in a new row.
+Replace any em dash, curly quotation, or otherwise unrecognized symbols with appropriate alternative symbols. 
 For example:
 
 ```markdown
@@ -161,15 +161,15 @@ Copy the **official citation** in the **BibTex format** here.
 If the download of the citation is only available in the **RIS format**, please convert it to the **BibTex format** using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
 Format the citation using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
 This normalizer formats the citation using the **{** and **}** symbols as delimiters, but it omits them for some fields. (_e.g._, year, volume, number, etc.)
-Add the **{** and **}** symbols as delimiters wherever they are missing after the formatting.
+Add the delimiter symbols wherever they are missing after the formatting.
 Delete the **abstract** and **keywords** fields, if originally included.
-Title the citation with the **lowercase surname of the first author followed by the year of publication**.
+Title the citation with the **lowercase surname of the first author followed by the year of publication and a letter of the alphabet depending on the publication date**.
 For example:
 
 ````markdown
 # Citation
 ```
-@article {mcauthorsky2000,
+@article {mcauthorsky2000a,
   author       = { ... },
   title        = { ... },
   journal      = { ... },
