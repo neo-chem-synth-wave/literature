@@ -43,7 +43,7 @@ if __name__ == "__main__":
                 file_text = file_path.read_text()
 
                 timeline_markdown_table_rows.append(
-                    "| {publication_date:s} | [{authors:s} {title:s}.]({file_path:s}) | {tags:s} | {starred:s} |".format(
+                    "| {publication_date:s} | [{authors:s} {title:s}]({file_path:s}) | {tags:s} | {starred:s} |".format(
                         publication_date=search(r"Publication Date:\*\*\n(.+)", file_text).group(1),
                         authors=search(r"Authors:\*\*\n(.+?)(?=\n\*)", file_text, DOTALL).group(1).strip().split(" |\n")[-1],
                         title=search(r"Title:\*\*\n(.+)", file_text).group(1),
