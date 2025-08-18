@@ -8,7 +8,7 @@ If a publication year directory does not exist, create it yourself.
 Prioritize literature from the [contribution wishlist](/contribution/wishlist.md).
 Only add officially published peer-reviewed literature relevant to computer-assisted chemical synthesis.
 Refer to the subsection outlining the [relevant literature sources](#relevant-literature-sources) for more information.
-Adhere to the following literature file naming conventions:
+Adhere to the following file naming conventions:
 
     ```
     # One Author (e.g., Author Ęugene McAuthórśky):
@@ -32,9 +32,11 @@ Adhere to the following literature file naming conventions:
 The relevant literature sources are as follows:
 
 - **Conferences**:
-  - [NeurIPS](https://nips.cc)
-  - [ICLR](https://icml.cc)
-  - [ICML](https://iclr.cc)
+  - [Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence](https://aaai.org/conference/aaai)
+  - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc)
+  - [International Joint Conferences on Artificial Intelligence (IJCAI)](https://ijcai.org)
+  - [International Conference on Learning Representations (ICLR)](https://icml.cc)
+  - [International Conference on Machine Learning (ICML)](https://iclr.cc)
 
 - **Journals**:
   - [American Chemical Society (ACS)](https://pubs.acs.org/action/doSearch)
@@ -70,7 +72,6 @@ While formatting a new file, please adhere to the following instructions:
 **Title:**
 Format the **official title** using this [title format converter](https://titlecaseconverter.com) with the **APA**, **Keep Words in All Caps**, and **Use Straight Quotes** options toggled on.
 Replace any em dash (_i.e._, **—**) and curly quotation (_i.e._, **‘’** and **“”**) symbols with hyphen (_i.e._, **-**) and straight quotation (_i.e._, **''** and **""**) symbols, respectively. 
-Convert and copy the formatted title here.
 For example:
 
 ```markdown
@@ -81,7 +82,7 @@ A Relevant Computer-Assisted Chemical Synthesis Topic: The 'Official' Title
 
 **Authors:**
 Write the long and short versions of the **official author information** in the **Vancouver referencing format including periods and special symbols** here using the **' |\n'** symbol combination as a delimiter.
-The short official author is formatted as follows: McAuthórśky, A.Ę. in the case of one author, McAuthórśky, A.Ę. and de Machine, C.O.B. in the case of two authors, and McAuthórśky, A.Ę. et al. in the case of three or more authors.
+The short official author is formatted as follows: **McAuthórśky, A.Ę.**, **McAuthórśky, A.Ę. and de Machine, C.O.B.**, and **McAuthórśky, A.Ę. et al.** in the case of one, two, and three or more authors, respectively.
 For example:
 
 ```markdown
@@ -121,8 +122,8 @@ For example:
 [ResearchGate](https://researchgate.net)
 ```
 
-**Recommended:**
-Write **True** or **False** here depending on whether **it is recommended or not**.
+**Starred:**
+Write **True** or **False** here depending on whether **the literature is starred or not**, respectively.
 For example:
 
 ```markdown
@@ -131,7 +132,8 @@ True
 ```
 
 **Tags:**
-Write the **tags that summarize the official contents** here using the **-** symbol as a delimiter.
+Write **the tags that summarize the official contents** here using the **' ,'** symbol combination as a delimiter.
+Use the hyphen instead of the space symbols for tags with more than one word.
 For example:
 
 ```markdown
@@ -141,16 +143,15 @@ single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 
 
 ### Abstract
-Copy the **official abstract** here.
-Write each sentence in a new row.
-Replace any unrecognized symbols and curly quotation (_i.e._, **‘’** and **“”**) symbols with appropriate alternative and straight quotation (_i.e._, **''** and **""**) symbols, respectively. 
+Write the **official abstract** here, separating each sentence in a new row.
+Replace any unrecognized and curly quotation symbols with appropriate alternative and straight quotation symbols, respectively. 
 For example:
 
 ```markdown
 # Abstract
-The first sentence of the abstract text.
-The second sentence of the abstract text containing the 'curly quotation symbols'.
-The third sentence of the abstract text containing the "curly quotation symbols".
+The first sentence of the official abstract text.
+The 'second' sentence of the official abstract text.
+The "third" sentence of the official abstract text.
 ...
 ```
 
