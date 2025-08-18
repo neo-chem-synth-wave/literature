@@ -1,32 +1,4 @@
 # Contribution Wishlist
-- 1967:
-  - [ ] https://doi.org/10.1016/B978-0-08-020741-4.50004-X
-
-- 1969:
-  - [ ] https://doi.org/10.1126/science.166.3902.178
-
-- 1977:
-  - [ ] https://doi.org/10.1021/bk-1977-0061.ch001
-
-- 1980:
-  - [ ] https://doi.org/10.1021/jo01299a001
-
-- 1993:
-  - [ ] https://doi.org/10.1002/anie.199302011
-
-- 1995:
-  - [ ] https://doi.org/10.1021/ci00023a005
-
-- 2012:
-  - [ ] https://doi.org/10.1371/journal.pcbi.1002380
-
-- 2018:
-  - [ ] https://doi.org/10.1021/acs.jcim.7b00622
-
-- 2019:
-  - [ ] https://doi.org/10.1002/anie.201909987
-  - [ ] https://doi.org/10.1002/anie.201909989
-
 - 2020:
   - [ ] https://doi.org/10.1007/978-3-030-58219-7_18
   - [ ] https://proceedings.mlr.press/v119/chen20k.html
@@ -65,6 +37,7 @@
   - [ ] https://doi.org/10.1002/cmtd.202400024
   - [ ] https://doi.org/10.1021/jacs.4c00098
   - [ ] https://doi.org/10.1039/D3DD00252G
+  - [ ] https://doi.org/10.1021/acs.jcim.4c00138
 
 - 2025:
   - [ ] https://doi.org/10.1038/s41467-025-61803-0
@@ -75,3 +48,5 @@
   - [ ] https://doi.org/10.1016/j.gce.2024.06.003
   - [ ] https://doi.org/10.1021/acscentsci.5c00055
   - [ ] https://doi.org/10.1021/acs.jcim.4c01982
+  - [ ] https://doi.org/10.1039/D4DD00412D
+  - [ ] https://doi.org/10.1186/s13321-025-00981-x

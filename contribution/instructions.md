@@ -1,9 +1,9 @@
 # Contribution Instructions
 To contribute to this repository, please adhere to the following instructions:
 
-1. **Check out a new branch** with an appropriate title.
+1. **Check out a new branch** with an appropriate name.
 
-2. **Add the new literature files** in the appropriate **publication year directories**.
+2. **Add the new files** in the appropriate **publication year directories**.
 If a publication year directory does not exist, create it yourself.
 Prioritize literature from the [contribution wishlist](/contribution/wishlist.md).
 Only add officially published peer-reviewed literature relevant to computer-assisted chemical synthesis.
@@ -21,11 +21,11 @@ Adhere to the following literature file naming conventions:
     yyyymmdd_mcauthorsky_a_e_et_al.md
     ```
 
-3. **Format the new literature files** in accordance with the subsection outlining the [formatting instructions](#formatting-instructions).
+3. **Format the new files** in accordance with the subsection outlining the [formatting instructions](#formatting-instructions).
 
-4. Once a reasonable number of new literature files (_e.g._, ~10) are added, **create a pull request and assign a reviewer**. 
+4. Once a reasonable number of new files (_e.g._, ~10) are added, **create a pull request and assign a reviewer**.
 
-5. After the pull request is approved and the branch is successfully merged, **delete the branch**.
+5. After the pull request is approved by the assigned reviewer and the branch is successfully merged, **delete the branch**.
 
 
 ## Relevant Literature Sources
@@ -40,10 +40,10 @@ The relevant literature sources are as follows:
   - [American Chemical Society (ACS)](https://pubs.acs.org/action/doSearch)
   - [Multidisciplinary Digital Publishing Institute (MDPI)](https://mdpi.com/search)
   - [Nature](https://nature.com/search/advanced)
-  - [PLOS ONE](https://journals.plos.org/plosone/search)
-  - [Royal Society of Chemistry (RCS)](https://pubs.rsc.org/en/search/advancedsearch)
+  - [Public Library of Science (PLOS)](https://journals.plos.org/plosone/search)
+  - [Royal Society of Chemistry (RSC)](https://pubs.rsc.org/en/search/advancedsearch)
   - [Science](https://science.org/search/advanced)
-  - [ScienceDirect](https://sciencedirect.com/search)
+  - [Elsevier ScienceDirect](https://sciencedirect.com/search)
   - [Springer](https://link.springer.com/advanced-search)
   - [Thieme](https://thieme-connect.com/products/all/search)
   - [Wiley](https://onlinelibrary.wiley.com/search/advanced)
@@ -54,6 +54,8 @@ The relevant literature sources are as follows:
   - [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/search-dashboard)
 
 - **Others**:
+  - [Academia](https://academia.edu)
+  - [CORE](https://core.ac.uk)
   - [DSpace@MIT](https://dspace.mit.edu/discover)
   - [GitHub](https://github.com/search/advanced)
   - [PubMed Central](https://ncbi.nlm.nih.gov/pmc/advanced)
@@ -61,32 +63,35 @@ The relevant literature sources are as follows:
 
 
 ## Formatting Instructions
-While formatting a new literature file, please adhere to the following instructions:
+While formatting a new file, please adhere to the following instructions:
 
 
 ### Overview
 **Title:**
-Copy the **official publication title** in this [title format converter](https://titlecaseconverter.com) with the **APA**, **Keep Words in All Caps**, and **Use Straight Quotes** options toggled on.
-Convert and copy the modified title here.
+Format the **official title** using this [title format converter](https://titlecaseconverter.com) with the **APA**, **Keep Words in All Caps**, and **Use Straight Quotes** options toggled on.
+Replace any em dash (_i.e._, **—**) and curly quotation (_i.e._, **‘’** and **“”**) symbols with hyphen (_i.e._, **-**) and straight quotation (_i.e._, **''** and **""**) symbols, respectively. 
+Convert and copy the formatted title here.
 For example:
 
 ```markdown
 # Overview
 **Title:**
-Title of a Publication About a Relevant Computer-Assisted Chemical Synthesis Topic
+A Relevant Computer-Assisted Chemical Synthesis Topic: The 'Official' Title
 ```
 
 **Authors:**
-Copy the **official publication author information** in the **Vancouver referencing format** with periods and special symbols here.
+Write the long and short versions of the **official author information** in the **Vancouver referencing format including periods and special symbols** here using the **' |\n'** symbol combination as a delimiter.
+The short official author is formatted as follows: McAuthórśky, A.Ę. in the case of one author, McAuthórśky, A.Ę. and de Machine, C.O.B. in the case of two authors, and McAuthórśky, A.Ę. et al. in the case of three or more authors.
 For example:
 
 ```markdown
 **Authors:**
-McAuthórśky, A.Ę., de Machine, C.O.B., and Complainson, M.
+McAuthórśky, A.Ę., de Machine, C.O.B., and Complainson, M. |
+McAuthórśky, A.Ę. et al.
 ```
 
 **Publication Date:**
-Copy the **official publication date** in the **yyyy/mm/dd date format** here.
+Write the **official publication date** in the **yyyy/mm/dd date format** here.
 For example:
 
 ```markdown
@@ -94,18 +99,17 @@ For example:
 2000/12/31
 ```
 
-**Publication Link:**
-Copy the **official publication link** here.
+**Link:**
+Copy the **official link** here.
 For example:
 
 ```markdown
-**Publication Link:**
+**Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
 ```
 
 **Alternative Links:**
-Copy the **alternative links** (_e.g._, alternative publication, pre-print, web page, data source, code, etc.) here using the **|** symbol as a delimiter.
-Write each link in a new row.
+Write the **alternative links** (_e.g._, alternative, pre-print, web page, data source, code, etc.) here using the **' |\n'** symbol combination as a delimiter.
 Avoid adding links to illegal sources.
 If there are no alternative links, write **None**.
 For example:
@@ -117,17 +121,17 @@ For example:
 [ResearchGate](https://researchgate.net)
 ```
 
-**Impact:**
-Write **True** or **False** here depending on whether the **official publication is impactful or not**.
+**Recommended:**
+Write **True** or **False** here depending on whether **it is recommended or not**.
 For example:
 
 ```markdown
-**Impact:**
+**Starred:**
 True
 ```
 
 **Tags:**
-Write the **tags that summarize the contents of the official publication** here using the **-** symbol as a delimiter.
+Write the **tags that summarize the official contents** here using the **-** symbol as a delimiter.
 For example:
 
 ```markdown
@@ -137,9 +141,9 @@ single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 
 
 ### Abstract
-Copy the **official publication abstract** here.
+Copy the **official abstract** here.
 Write each sentence in a new row.
-Remove any unrecognized symbols and curly quotation (_i.e._, **‘’** and **“”**) symbols.
+Replace any unrecognized symbols and curly quotation (_i.e._, **‘’** and **“”**) symbols with appropriate alternative and straight quotation (_i.e._, **''** and **""**) symbols, respectively. 
 For example:
 
 ```markdown
@@ -152,7 +156,7 @@ The third sentence of the abstract text containing the "curly quotation symbols"
 
 
 ### Citation
-Copy the **official publication citation** in the **BibTex format** here.
+Copy the **official citation** in the **BibTex format** here.
 If the download of the citation is only available in the **RIS format**, please convert it to the **BibTex format** using this [RIS2BibTex citation format converter](https://www.bruot.org/ris2bib).
 Format the citation using this [BibTex citation format normalizer](https://hsborges.github.io/bibtex-normalizer).
 This normalizer formats the citation using the **{** and **}** symbols as delimiters, but it omits them for some fields. (_e.g._, year, volume, number, etc.)
