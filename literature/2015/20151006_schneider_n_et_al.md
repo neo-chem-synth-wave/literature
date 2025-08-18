@@ -3,18 +3,19 @@
 Get Your Atoms in Order - An Open-Source Implementation of a Novel and Robust Molecular Canonicalization Algorithm
 
 **Authors:**
-Schneider, N., Sayle, R.A., and Landrum, G.A.
+Schneider, N., Sayle, R.A., and Landrum, G.A. |
+Schneider, N. et al.
 
 **Publication Date:**
 2015/10/06
 
-**Publication Link:**
+**Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.5b00543)
 
 **Alternative Links:**
 None
 
-**Impact:**
+**Starred:**
 True
 
 **Tags:**
@@ -37,7 +38,7 @@ This provides a first step toward a common standard for canonical atom ordering 
 
 # Citation
 ```
-@article {schneider2015,
+@article {schneider2015a,
   author       = { Nadine Schneider and Roger A. Sayle and Gregory A. Landrum },
   title        = { Get Your Atoms in Order—An Open-Source Implementation of a Novel and Robust Molecular Canonicalization Algorithm },
   journal      = { Journal of Chemical Information and Modeling },

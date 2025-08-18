@@ -3,12 +3,13 @@
 RSGPT: A Generative Transformer Model for Retrosynthesis Planning Pre-trained on Ten Billion Datapoints
 
 **Authors:**
-Deng, Y., Zhao, X., Sun, H., Chen, Y., Wang, X., Xue, X., Li, L., Song, J., Hsieh, C., Hou, T., Pan, X., Alomar, T.S., Ji, X., and Wang, X.
+Deng, Y., Zhao, X., Sun, H., Chen, Y., Wang, X., Xue, X., Li, L., Song, J., Hsieh, C., Hou, T., Pan, X., Alomar, T.S., Ji, X., and Wang, X. |
+Deng, Y. et al.
 
 **Publication Date:**
 2025/07/31
 
-**Publication Link:**
+**Link:**
 [Nature Communications](https://www.nature.com/articles/s41467-025-62308-6)
 
 **Alternative Links:**
@@ -16,7 +17,7 @@ Deng, Y., Zhao, X., Sun, H., Chen, Y., Wang, X., Xue, X., Li, L., Song, J., Hsie
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12314115) |
 [ResearchGate](https://www.researchgate.net/publication/394173109_RSGPT_a_generative_transformer_model_for_retrosynthesis_planning_pre-trained_on_ten_billion_datapoints)
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
@@ -35,7 +36,7 @@ Experiments demonstrate that our model achieves state-of-the-art performance on 
 
 # Citation
 ```
-@article {deng2025,
+@article {deng2025a,
   author       = { Yafeng Deng and Xinda Zhao and Hanyu Sun and Yu Chen and Xiaorui Wang and Xi Xue and Liangning Li and Jianfei Song and Chang-Yu Hsieh and Tingjun Hou and Xiandao Pan and Taghrid Saad Alomar and Xiangyang Ji and Xiaojian Wang },
   title        = { RSGPT: a generative transformer model for retrosynthesis planning pre-trained on ten billion datapoints },
   journal      = { Nature Communications },

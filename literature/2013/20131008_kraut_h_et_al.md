@@ -3,22 +3,23 @@
 Algorithm for Reaction Classification
 
 **Authors:**
-Kraut, H., Eiblmaier, J., Grethe, G., Löw, P., Matuszczyk, H., and Saller, H.
+Kraut, H., Eiblmaier, J., Grethe, G., Löw, P., Matuszczyk, H., and Saller, H. |
+Kraut, H. et al.
 
 **Publication Date:**
 2013/10/08
 
-**Publication Link:**
+**Link:**
 [ACS JCIM](https://pubs.acs.org/doi/full/10.1021/ci400442f)
 
 **Alternative Links:**
 None
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
-reaction-classification, maximum-common-substructure, data-source
+reaction-classification, data-source
 
 
 # Abstract
@@ -32,7 +33,7 @@ We invite the scientific community to contribute to the future extension and imp
 
 # Citation
 ```
-@article {kraut2013,
+@article {kraut2013a,
   author       = { Hans Kraut and Josef Eiblmaier and Guenter Grethe and Peter Löw and Heinz Matuszczyk and Heinz Saller },
   title        = { Algorithm for Reaction Classification },
   journal      = { Journal of Chemical Information and Modeling },

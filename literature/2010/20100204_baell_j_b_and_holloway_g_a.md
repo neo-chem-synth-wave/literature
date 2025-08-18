@@ -8,17 +8,17 @@ Baell, J.B. and Holloway, G.A.
 **Publication Date:**
 2010/02/04
 
-**Publication Link:**
+**Link:**
 [ACS Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/jm901137j)
 
 **Alternative Links:**
 [University of Bristol](https://www.chm.bris.ac.uk/sillymolecules/pains.pdf)
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
-data-source, filter, pains
+data-source, compound-pattern, pains
 
 
 # Abstract
@@ -30,7 +30,7 @@ In fact, these compounds are increasingly prevalent in the literature as potenti
 
 # Citation
 ```
-@article {baell2010,
+@article {baell2010a,
   author       = { Jonathan B. Baell and Georgina A. Holloway },
   title        = { New Substructure Filters for Removal of Pan Assay Interference Compounds (PAINS) from Screening Libraries and for Their Exclusion in Bioassays },
   journal      = { Journal of Medicinal Chemistry },

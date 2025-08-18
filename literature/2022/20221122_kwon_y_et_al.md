@@ -3,22 +3,23 @@
 Generative Modeling to Predict Multiple Suitable Conditions for Chemical Reactions
 
 **Authors:**
-Kwon, Y., Kim, S., Choi, Y., and Kang, S.
+Kwon, Y., Kim, S., Choi, Y., and Kang, S. |
+Kwon, Y. et al.
 
 **Publication Date:**
 2022/11/22
 
-**Publication Link:**
+**Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01085)
 
 **Alternative Links:**
 [GitHub](https://github.com/seokhokang/reaction_condition_vae)
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
-reaction-condition-prediction, variational-autoencoder, graph-neural-network
+reaction-condition
 
 
 # Abstract
@@ -35,7 +36,7 @@ Through experimental investigation on the reaction datasets of four major types 
 
 # Citation
 ```
-@article {kwon2022,
+@article {kwon2022a,
   author       = { Youngchun Kwon and Sun Kim and Youn-Suk Choi and Seokho Kang },
   title        = { Generative Modeling to Predict Multiple Suitable Conditions for Chemical Reactions },
   journal      = { Journal of Chemical Information and Modeling },

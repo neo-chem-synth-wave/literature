@@ -3,12 +3,13 @@
 Convolutional Networks on Graphs for Learning Molecular Fingerprints
 
 **Authors:**
-Duvenaud, D., Maclaurin, D., Aguilera-Iparraguirre, J., Gómez-Bombarelli, R., Hirzel, T., Aspuru-Guzik, A., and Adams, R.P.
+Duvenaud, D., Maclaurin, D., Aguilera-Iparraguirre, J., Gómez-Bombarelli, R., Hirzel, T., Aspuru-Guzik, A., and Adams, R.P. |
+Duvenaud, D. et al.
 
 **Publication Date:**
 2015/12/07
 
-**Publication Link:**
+**Link:**
 [NeurIPS 2015](https://papers.nips.cc/paper/2015/hash/f9be311e65d81a9ad8150a60844bb94c-Abstract.html)
 
 **Alternative Links:**
@@ -16,7 +17,7 @@ Duvenaud, D., Maclaurin, D., Aguilera-Iparraguirre, J., Gómez-Bombarelli, R., H
 [GitHub](https://github.com/HIPS/neural-fingerprint) |
 [Princeton University](https://www.cs.princeton.edu/~rpa/pubs/duvenaud2015fingerprints.pdf)
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
@@ -32,7 +33,7 @@ We show that these data-driven features are more interpretable, and have better 
 
 # Citation
 ```
-@inproceedings {duvenaud2015,
+@inproceedings {duvenaud2015a,
   author       = { David K. Duvenaud and Dougal Maclaurin and Jorge Iparraguirre and Rafael Bombarell and Timothy Hirzel and Alan Aspuru-Guzik and Ryan P. Adams },
   title        = { Convolutional Networks on Graphs for Learning Molecular Fingerprints },
   booktitle    = { Advances in Neural Information Processing Systems },

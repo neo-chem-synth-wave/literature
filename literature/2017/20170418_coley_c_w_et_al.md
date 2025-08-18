@@ -3,12 +3,13 @@
 Prediction of Organic Reaction Outcomes Using Machine Learning
 
 **Authors:**
-Coley, C.W., Barzilay, R., Jaakkola, T.S., Green, W.H., and Jensen, K.F.
+Coley, C.W., Barzilay, R., Jaakkola, T.S., Green, W.H., and Jensen, K.F. |
+Coley, C.W. et al.
 
 **Publication Date:**
 2017/04/18
 
-**Publication Link:**
+**Link:**
 [ACS Central Science](https://pubs.acs.org/doi/10.1021/acscentsci.7b00064)
 
 **Alternative Links:**
@@ -18,11 +19,11 @@ Coley, C.W., Barzilay, R., Jaakkola, T.S., Green, W.H., and Jensen, K.F.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445544) |
 [ResearchGate](https://www.researchgate.net/publication/316354788_Prediction_of_Organic_Reaction_Outcomes_Using_Machine_Learning)
 
-**Impact:**
+**Starred:**
 True
 
 **Tags:**
-single-step-synthesis, template-based, data-source, uspto-15k
+single-step-synthesis, template-based, data-source, reaction, uspto-15k
 
 
 # Abstract

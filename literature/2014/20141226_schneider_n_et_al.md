@@ -3,22 +3,23 @@
 Development of a Novel Fingerprint for Chemical Reactions and Its Application to Large-Scale Reaction Classification and Similarity
 
 **Authors:**
-Schneider, N., Lowe, D.M., Sayle, R.A., and Landrum, G.A.
+Schneider, N., Lowe, D.M., Sayle, R.A., and Landrum, G.A. |
+Schneider, N. et al.
 
 **Publication Date:**
 2014/12/26
 
-**Publication Link:**
+**Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/ci5006614)
 
 **Alternative Links:**
 [ACS Journal of Chemical Information and Modeling Correction Notice](https://pubs.acs.org/doi/10.1021/acs.jcim.5b00046)
 
-**Impact:**
+**Starred:**
 True
 
 **Tags:**
-fingerprint, reaction-classification, data-source, uspto-50k
+reaction-descriptor, reaction-classification, fingerprint, data-source, uspto-50k
 
 
 # Abstract
@@ -34,7 +35,7 @@ The data sets used for training and primary validation as well as all python scr
 
 # Citation
 ```
-@article {schneider2014,
+@article {schneider2014a,
   author       = { Nadine Schneider and Daniel M. Lowe and Roger A. Sayle and Gregory A. Landrum },
   title        = { Development of a Novel Fingerprint for Chemical Reactions and Its Application to Large-Scale Reaction Classification and Similarity },
   journal      = { Journal of Chemical Information and Modeling },

@@ -3,23 +3,24 @@
 Stereo Signature Molecular Descriptor
 
 **Authors:**
-Carbonell, P., Carlsson, L., and Faulon, J.
+Carbonell, P., Carlsson, L., and Faulon, J. |
+Carbonell, P. et al.
 
 **Publication Date:**
 2013/03/25
 
-**Publication Link:**
+**Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/ci300584r)
 
 **Alternative Links:**
 [ResearchGate](https://www.researchgate.net/publication/236079381_Stereo_Signature_Molecular_Descriptor) |
 [SourceForge](https://sourceforge.net/projects/molsig)
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
-compound-descriptor, graph, stereochemistry
+compound-descriptor, graph
 
 
 # Abstract
@@ -31,7 +32,7 @@ The complete source code of the stereo signature molecular descriptor is availab
 
 # Citation
 ```
-@article {carbonell2013,
+@article {carbonell2013a,
   author       = { Pablo Carbonell and Lars Carlsson and Jean-Loup Faulon },
   title        = { Stereo Signature Molecular Descriptor },
   journal      = { Journal of Chemical Information and Modeling },

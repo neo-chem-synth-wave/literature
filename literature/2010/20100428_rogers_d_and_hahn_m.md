@@ -8,17 +8,17 @@ Rogers, D. and Hahn, M.
 **Publication Date:**
 2010/04/28
 
-**Publication Link:**
+**Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/ci100050t)
 
 **Alternative Links:**
-[Batista Lab. @ Yale University](https://files.batistalab.com/teaching/attachments/chem584/ci100050t.pdf)
+[Yale University, Batista Laboratory](https://files.batistalab.com/teaching/attachments/chem584/ci100050t.pdf)
 
-**Impact:**
+**Starred:**
 True
 
 **Tags:**
-compound-representation, fingerprint, ecfp
+compound-descriptor, fingerprint, ecfp
 
 
 # Abstract
@@ -31,7 +31,7 @@ While the use of ECFPs has been widely adopted and validated, a description of t
 
 # Citation
 ```
-@article {rogers2010,
+@article {rogers2010a,
   author       = { David Rogers and Mathew Hahn },
   title        = { Extended-Connectivity Fingerprints },
   journal      = { Journal of Chemical Information and Modeling },

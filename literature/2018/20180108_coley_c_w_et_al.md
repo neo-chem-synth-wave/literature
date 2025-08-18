@@ -1,0 +1,47 @@
+# Overview
+**Title:**
+SCScore: Synthetic Complexity Learned From a Reaction Corpus
+
+**Authors:**
+Coley, C.W., Rogers, L., Green, W.H., and Jensen, K.F. |
+Coley, C.W. et al.
+
+**Publication Date:**
+2018/01/08
+
+**Link:**
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622)
+
+**Alternative Links:**
+[GitHub](https://github.com/connorcoley/scscore)
+
+**Starred:**
+True
+
+**Tags:**
+synthesizability, synthetic-complexity, fingerprint, sc-score
+
+
+# Abstract
+Several definitions of molecular complexity exist to facilitate prioritization of lead compounds, to identify diversity-inducing and complexifying reactions, and to guide retrosynthetic searches.
+In this work, we focus on synthetic complexity and reformalize its definition to correlate with the expected number of reaction steps required to produce a target molecule, with implicit knowledge about what compounds are reasonable starting materials.
+We train a neural network model on 12 million reactions from the Reaxys database to impose a pairwise inequality constraint enforcing the premise of this definition: that on average, the products of published chemical reactions should be more synthetically complex than their corresponding reactants.
+The learned metric (SCScore) exhibits highly desirable nonlinear behavior, particularly in recognizing increases in synthetic complexity throughout a number of linear synthetic routes.
+
+
+# Citation
+```
+@article {coley2018a,
+  author       = { Connor W. Coley and Luke Rogers and William H. Green and Klavs F. Jensen },
+  title        = { SCScore: Synthetic Complexity Learned from a Reaction Corpus },
+  journal      = { Journal of Chemical Information and Modeling },
+  year         = { 2018 },
+  note         = { PMID: 29309147 },
+  pages        = { 252-261 },
+  volume       = { 58 },
+  number       = { 2 },
+  doi          = { 10.1021/acs.jcim.7b00622 },
+  url          = { https://doi.org/10.1021/acs.jcim.7b00622 },
+  eprint       = { https://doi.org/10.1021/acs.jcim.7b00622 }
+}
+```

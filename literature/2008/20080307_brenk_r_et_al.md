@@ -3,23 +3,24 @@
 Lessons Learnt From Assembling Screening Libraries for Drug Discovery for Neglected Diseases
 
 **Authors:**
-Brenk, R., Schipani, A., James, D., Krasowski, A., Gilbert, I.H., Frearson, J., and Wyatt, P.G.
+Brenk, R., Schipani, A., James, D., Krasowski, A., Gilbert, I.H., Frearson, J., and Wyatt, P.G. |
+Brenk, R. et al.
 
 **Publication Date:**
 2008/03/07
 
-**Publication Link:**
+**Link:**
 [Chemistry Europe ChemMedChem](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.200700139)
 
 **Alternative Links:**
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2628535) |
 [ResearchGate](https://www.researchgate.net/publication/5782923_Lessons_Learnt_from_Assembling_Screening_Libraries_for_Drug_Discovery_for_Neglected_Diseases)
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
-data-source, filter
+data-source, compound-pattern
 
 
 # Abstract
@@ -33,7 +34,7 @@ The implications of this study for compound selection, especially in an academic
 
 # Citation
 ```
-@article {brenk2008,
+@article {brenk2008a,
   author       = { Ruth Brenk and Alessandro Schipani and Daniel James and Agata Krasowski and Ian Hugh Gilbert and Julie Frearson and Paul Graham Wyatt },
   title        = { Lessons Learnt from Assembling Screening Libraries for Drug Discovery for Neglected Diseases },
   journal      = { ChemMedChem },

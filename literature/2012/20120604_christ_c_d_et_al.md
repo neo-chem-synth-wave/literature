@@ -3,22 +3,23 @@
 Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration
 
 **Authors:**
-Christ, C.D., Zentgraf, M., and Kriegl, J.M.
+Christ, C.D., Zentgraf, M., and Kriegl, J.M. |
+Christ, C.D. et al.
 
 **Publication Date:**
 2012/06/04
 
-**Publication Link:**
+**Link:**
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/ci300116p)
 
 **Alternative Links:**
 None
 
-**Impact:**
+**Starred:**
 False
 
 **Tags:**
-reaction-extraction, reaction-classification, eln, retrosynthesis
+reaction-extraction, reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis
 
 
 # Abstract
@@ -35,7 +36,7 @@ Reaction based enumeration along the top ranked route yielded a library of 29 92
 
 # Citation
 ```
-@article {christ2012,
+@article {christ2012a,
   author       = { Clara D. Christ and Matthias Zentgraf and Jan M. Kriegl },
   title        = { Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration },
   journal      = { Journal of Chemical Information and Modeling },
