@@ -7,7 +7,7 @@ Welcome to the computer-assisted chemical synthesis **literature** research proj
 
 
 ## Utilization
-The purpose of the [scripts](/scripts) directory is to illustrate how to search the available computer-assisted chemical synthesis literature.
+The purpose of the [scripts](/scripts) directory is to illustrate how to utilize the available computer-assisted chemical synthesis literature.
 The [generate_timeline_markdown_table](/scripts/generate_timeline_markdown_table.py) script can be utilized as follows:
 
 ```shell
@@ -18,9 +18,9 @@ python scripts/generate_timeline_markdown_table.py \
 The [search_literature](/scripts/search_literature.py) script can be utilized as follows:
 
 ```shell
-python scripts/download_extract_and_format_data.py \
+python scripts/search_literature.py \
   --input_directory_path "literature" \
-  --tags "single-step-retrosynthesis" "template-based"
+  --search_tags "single-step-retrosynthesis" "template-based"
 ```
 
 
@@ -55,7 +55,7 @@ python scripts/download_extract_and_format_data.py \
 |    2019/09/25    | [Coley, C.W. et al. Autonomous Discovery in the Chemical Sciences Part II: Outlook.](literature/2019/20190925_coley_c_w_et_al_b.md)                                                                                                      |                                                      review                                                       |         |
 |    2021/01/28    | [Schwaller, P. et al. Mapping the Space of Chemical Reactions Using Attention-Based Neural Networks.](literature/2021/20210128_schwaller_p_et_al.md)                                                                                     |             reaction-classification, fingerprint, rxnfp, data-source, reaction-pattern, uspto-1k-tpl              |         |
 |    2021/02/03    | [Hasic, H. and Ishida, T. Single-Step Retrosynthesis Prediction Based on the Identification of Potential Disconnection Sites Using Molecular Substructure Fingerprints.](literature/2021/20210203_hasic_h_and_ishida_t.md)               |                           single-step-retrosynthesis, semi-template-based, fingerprint                            |         |
-|    2021/04/07    | [Schwaller, P. et al. Extraction of Organic Chemistry Grammar From Unsupervised Learning of Chemical Reactions.](literature/2021/20210407_schwaller_p_et_al.md)                                                                          |                                          atom-to-atom-mapping, rxnmapper                                          |         |
+|    2021/04/07    | [Schwaller, P. et al. Extraction of Organic Chemistry Grammar From Unsupervised Learning of Chemical Reactions.](literature/2021/20210407_schwaller_p_et_al.md)                                                                          |                                          atom-to-atom-mapping, rxnmapper                                          | :star:  |
 |    2022/11/22    | [Kwon, Y. et al. Generative Modeling to Predict Multiple Suitable Conditions for Chemical Reactions.](literature/2022/20221122_kwon_y_et_al.md)                                                                                          |                                                reaction-condition                                                 |         |
 |    2025/07/31    | [Deng, Y. et al. RSGPT: A Generative Transformer Model for Retrosynthesis Planning Pre-trained on Ten Billion Datapoints.](literature/2025/20250731_deng_y_et_al.md)                                                                     |                 single-step-retrosynthesis, multi-step-retrosynthesis, semi-template-based, rsgpt                 |         |
 

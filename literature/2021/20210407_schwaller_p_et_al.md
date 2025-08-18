@@ -19,7 +19,7 @@ Schwaller, P. et al.
 [ResearchGate](https://www.researchgate.net/publication/350712225_Extraction_of_organic_chemistry_grammar_from_unsupervised_learning_of_chemical_reactions)
 
 **Starred:**
-False
+True
 
 **Tags:**
 atom-to-atom-mapping, rxnmapper

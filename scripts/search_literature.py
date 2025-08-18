@@ -17,20 +17,21 @@ def get_script_arguments() -> Namespace:
     argument_parser = ArgumentParser()
 
     argument_parser.add_argument(
-        "-ldp",
-        "--literature_directory_path",
-        default="../literature",
+        "-idp",
+        "--input_directory_path",
+        # default="../literature",
         type=str,
-        help="The path to the directory where the literature is stored."
+        help="The path to the input directory where the literature is stored."
     )
 
     argument_parser.add_argument(
         "-st",
         "--search_tags",
         nargs="+",
-        default=None,  # ["uspto"],
+        default=None,
+        # default=["fingerprint"],
         type=str,
-        help="The search tags."
+        help="The tags of the search."
     )
 
     return argument_parser.parse_args()
@@ -39,48 +40,48 @@ def get_script_arguments() -> Namespace:
 if __name__ == "__main__":
     script_arguments = get_script_arguments()
 
-    search_results = list()
+    file_paths = list()
     search_tags = list() if script_arguments.search_tags is None else script_arguments.search_tags
 
-    for literature_year_directory_path, _, literature_file_names in walk(
-        top=script_arguments.literature_directory_path
+    for publication_year_directory_path, _, file_names in walk(
+        top=script_arguments.input_directory_path
     ):
-        for literature_file_name in literature_file_names:
-            if literature_file_name.endswith(".md"):
-                literature_file_text = Path(literature_year_directory_path, literature_file_name).read_text()
+        for file_name in file_names:
+            if file_name.endswith(".md"):
+                file_path = Path(publication_year_directory_path, file_name)
 
-                literature_file_tags = search(r"\*\*Tags:\*\*\s*\n(.+)", literature_file_text).group(1).split(", ")
+                file_text = file_path.read_text()
+
+                file_tags = search(r"Tags:\*\*\n(.+)", file_text).group(1).split(", ")
 
                 if all(
-                    any(search_tag in literature_file_tag for literature_file_tag in literature_file_tags)
+                    any(search_tag in file_tag for file_tag in file_tags)
                     for search_tag in search_tags
                 ):
-                    search_results.append(
-                        literature_file_name
+                    file_paths.append(
+                        file_path.as_posix()
                     )
 
-    print("The search results for the tags [{search_tags:s}] are as follows:".format(
-        search_tags=", ".join(
-            "'{search_tag:s}'".format(
-                search_tag=search_tag
-            ) for search_tag in search_tags
-        )
+    print("The search for the tags [{search_tags:s}] returned the following literature:".format(
+        search_tags=", ".join("'{search_tag:s}'".format(
+            search_tag=search_tag
+        ) for search_tag in search_tags)
     ))
 
-    if search_results:
-        search_results_by_year = defaultdict(list)
+    if file_paths:
+        publication_year_to_file_paths = defaultdict(list)
 
-        for literature_file_name in sorted(search_results):
-            search_results_by_year[literature_file_name[:4]].append(
-                literature_file_name
+        for file_path in sorted(file_paths):
+            publication_year_to_file_paths[file_path.split("/")[-2]].append(
+                file_path
             )
 
-        for year in search_results_by_year.keys():
+        for publication_year in publication_year_to_file_paths.keys():
             print()
-            print(year)
+            print(publication_year)
 
-            for literature_file_name in search_results_by_year[year]:
-                print(literature_file_name)
+            for file_path in publication_year_to_file_paths[publication_year]:
+                print(file_path)
 
     else:
-        print("\nNo results.")
+        print("\nNone")
