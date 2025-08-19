@@ -1,18 +1,26 @@
 # Overview
 **Title:**
-A large-scale reaction dataset of mechanistic pathways of organic reactions
+A Large-Scale Reaction Dataset of Mechanistic Pathways of Organic Reactions
 
 **Authors:**
-Chen, S., Babazade, R., Kim, T., Han, S., and Jung, Y.
+Chen, S., Babazade, R., Kim, T., Han, S., and Jung, Y. |
+Chen, S. et al.
 
 **Publication Date:**
 2024/08/10
 
-**Publication Link:**
+**Link:**
 [Nature Scientific Data](https://www.nature.com/articles/s41597-024-03709-y)
 
-**Alternative Publication Links:**
+**Alternative Links:**
+[GitHub](https://github.com/snu-micc/MechFinder) |
 [ResearchGate](https://www.researchgate.net/publication/383023679_A_large-scale_reaction_dataset_of_mechanistic_pathways_of_organic_reactions)
+
+**Starred:**
+False
+
+**Tags:**
+data-source, reaction, mech-uspto-31k
 
 
 # Abstract
@@ -24,18 +32,18 @@ We envision this dataset curated by applying a simple and flexible method that a
 
 # Citation
 ```
-@article{chen2024c,
-    author = "Chen, Shuan and Babazade, Ramil and Kim, Taewan and Han, Sunkyu and Jung, Yousung",
-    title = "A large-scale reaction dataset of mechanistic pathways of organic reactions",
-    journal = "Scientific Data",
-    year = "2024",
-    month = "Aug",
-    day = "10",
-    volume = "11",
-    number = "1",
-    pages = "863",
-    issn = "2052-4463",
-    doi = "10.1038/s41597-024-03709-y",
-    url = "https://doi.org/10.1038/s41597-024-03709-y"
+@article {chen2024d,
+  author       = { Shuan Chen and Ramil Babazade and Taewan Kim and Sunkyu Han and Yousung Jung },
+  title        = { A large-scale reaction dataset of mechanistic pathways of organic reactions },
+  journal      = { Scientific Data },
+  year         = { 2024 },
+  pages        = { 863 },
+  month        = { Aug },
+  volume       = { 11 },
+  number       = { 1 },
+  day          = { 10 },
+  issn         = { 2052-4463 },
+  doi          = { 10.1038/s41597-024-03709-y },
+  url          = { https://doi.org/10.1038/s41597-024-03709-y }
 }
 ```

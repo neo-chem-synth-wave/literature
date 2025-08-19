@@ -1,19 +1,27 @@
 # Overview
 **Title:**
-Precise atom-to-atom mapping for organic reactions via human-in-the-loop machine learning
+Precise Atom-to-Atom Mapping for Organic Reactions via Human-in-the-Loop Machine Learning
 
 **Authors:**
-Chen, S., An, S., Babazade, R., and Jung, Y.
+Chen, S., An, S., Babazade, R., and Jung, Y. |
+Chen, S. et al.
 
 **Publication Date:**
 2024/03/13
 
-**Publication Links:**
+**Link:**
 [Nature Communications](https://www.nature.com/articles/s41467-024-46364-y)
 
-**Alternative Publication Links:**
+**Alternative Links:**
+[GitHub](https://github.com/snu-micc/LocalMapper) |
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10937625) |
 [ResearchGate](https://www.researchgate.net/publication/378939425_Precise_atom-to-atom_mapping_for_organic_reactions_via_human-in-the-loop_machine_learning)
+
+**Starred:**
+False
+
+**Tags:**
+atom-to-atom-mapping, local-retro
 
 
 # Abstract
@@ -21,26 +29,26 @@ Atom-to-atom mapping (AAM) is a task of identifying the position of each atom in
 As more machine learning (ML) models were developed for retrosynthesis and reaction outcome prediction recently, the quality of these models is highly dependent on the quality of the AAM in reaction datasets.
 Although there are algorithms using graph theory or unsupervised learning to label the AAM for reaction datasets, existing methods map the atoms based on substructure alignments instead of chemistry knowledge.
 Here, we present LocalMapper, an ML model that learns correct AAM from chemist-labeled reactions via human-in-the-loop machine learning.
-We show that LocalMapper can predict the AAM for 50 K reactions with 98.5% calibrated accuracy by learning from only 2% of the human-labeled reactions from the entire dataset.
-More importantly, the confident predictions given by LocalMapper, which cover 97% of 50 K reactions, show 100% accuracy for 3,000 randomly sampled reactions.
+We show that LocalMapper can predict the AAM for 50K reactions with 98.5% calibrated accuracy by learning from only 2% of the human-labeled reactions from the entire dataset.
+More importantly, the confident predictions given by LocalMapper, which cover 97% of 50K reactions, show 100% accuracy for 3,000 randomly sampled reactions.
 In an out-of-distribution experiment, LocalMapper shows favorable performance over other existing methods.
 We expect LocalMapper can be used to generate more precise reaction AAM and improve the quality of future ML-based reaction prediction models.
 
 
 # Citation
 ```
-@article{chen2024a,
-    author = "Chen, Shuan and An, Sunggi and Babazade, Ramil and Jung, Yousung",
-    title = "Precise atom-to-atom mapping for organic reactions via human-in-the-loop machine learning",
-    journal = "Nature Communications",
-    year = "2024",
-    month = "Mar",
-    day = "13",
-    volume = "15",
-    number = "1",
-    pages = "2250",
-    issn = "2041-1723",
-    doi = "10.1038/s41467-024-46364-y",
-    url = "https://doi.org/10.1038/s41467-024-46364-y"
+@article {chen2024b,
+  author       = { Shuan Chen and Sunggi An and Ramil Babazade and Yousung Jung },
+  title        = { Precise atom-to-atom mapping for organic reactions via human-in-the-loop machine learning },
+  journal      = { Nature Communications },
+  year         = { 2024 },
+  pages        = { 2250 },
+  month        = { Mar },
+  volume       = { 15 },
+  number       = { 1 },
+  day          = { 13 },
+  issn         = { 2041-1723 },
+  doi          = { 10.1038/s41467-024-46364-y },
+  url          = { https://doi.org/10.1038/s41467-024-46364-y }
 }
 ```

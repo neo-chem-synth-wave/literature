@@ -3,18 +3,26 @@
 ORDerly: Data Sets and Benchmarks for Chemical Reaction Data
 
 **Authors:**
-Wigh, D.S., Arrowsmith, J., Pomberger, A., Felton, K.C., and Lapkin, A.A.
+Wigh, D.S., Arrowsmith, J., Pomberger, A., Felton, K.C., and Lapkin, A.A. |
+Wigh, D.S. et al.
 
 **Publication Date:**
 2024/04/22
 
-**Publication Link:**
-[ACS JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00292)
+**Link:**
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00292)
 
-**Alternative Publication Links:**
+**Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64ca5d3e4a3f7d0c0d78ca42) |
+[GitHub](https://github.com/sustainable-processes/orderly) |
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11094788) |
 [ResearchGate](https://www.researchgate.net/publication/372903934_ORDerly_Datasets_and_benchmarks_for_chemical_reaction_data)
+
+**Starred:**
+False
+
+**Tags:**
+data-source, orderly
 
 
 # Abstract
@@ -29,17 +37,17 @@ By providing a customizable open-source solution for cleaning and preparing larg
 
 # Citation
 ```
-@article{wigh2024,
-    author = "Wigh, Daniel S. and Arrowsmith, Joe and Pomberger, Alexander and Felton, Kobi C. and Lapkin, Alexei A.",
-    title = "ORDerly: Data Sets and Benchmarks for Chemical Reaction Data",
-    journal = "Journal of Chemical Information and Modeling",
-    volume = "64",
-    number = "9",
-    pages = "3790-3798",
-    year = "2024",
-    doi = "10.1021/acs.jcim.4c00292",
-    note = "PMID: 38648077",
-    url = "https://doi.org/10.1021/acs.jcim.4c00292",
-    eprint = "https://doi.org/10.1021/acs.jcim.4c00292"
+@article {wigh2024a,
+  author       = { Daniel S. Wigh and Joe Arrowsmith and Alexander Pomberger and Kobi C. Felton and Alexei A. Lapkin },
+  title        = { ORDerly: Data Sets and Benchmarks for Chemical Reaction Data },
+  journal      = { Journal of Chemical Information and Modeling },
+  year         = { 2024 },
+  note         = { PMID: 38648077 },
+  pages        = { 3790-3798 },
+  volume       = { 64 },
+  number       = { 9 },
+  doi          = { 10.1021/acs.jcim.4c00292 },
+  url          = { https://doi.org/10.1021/acs.jcim.4c00292 },
+  eprint       = { https://doi.org/10.1021/acs.jcim.4c00292 }
 }
 ```

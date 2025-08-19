@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-AutoTemplate: enhancing chemical reaction datasets for machine learning applications in organic chemistry
+AutoTemplate: Enhancing Chemical Reaction Datasets for Machine Learning Applications in Organic Chemistry
 
 **Authors:**
 Chen, L. and Li, Y.
@@ -8,13 +8,20 @@ Chen, L. and Li, Y.
 **Publication Date:**
 2024/06/27
 
-**Publication Link:**
+**Link:**
 [BMC Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00869-2)
 
-**Alternative Publication Links:**
+**Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/65f4089c66c1381729098d48) |
+[GitHub](https://github.com/Lung-Yi/AutoTemplate) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11212196) |
 [ResearchGate](https://www.researchgate.net/publication/381795697_AutoTemplate_enhancing_chemical_reaction_datasets_for_machine_learning_applications_in_organic_chemistry)
+
+**Starred:**
+False
+
+**Tags:**
+data-source, optimization, auto-template
 
 
 # Abstract
@@ -35,18 +42,18 @@ AutoTemplate marks a significant progression in the preprocessing of chemical re
 
 # Citation
 ```
-@article{chen2024b,
-    author = "Chen, Lung-Yi and Li, Yi-Pei",
-    title = "AutoTemplate: enhancing chemical reaction datasets for machine learning applications in organic chemistry",
-    journal = "Journal of Cheminformatics",
-    year = "2024",
-    month = "Jun",
-    day = "27",
-    volume = "16",
-    number = "1",
-    pages = "74",
-    issn = "1758-2946",
-    doi = "10.1186/s13321-024-00869-2",
-    url = "https://doi.org/10.1186/s13321-024-00869-2"
+@article {chen2024c,
+  author       = { Lung-Yi Chen and Yi-Pei Li },
+  title        = { AutoTemplate: enhancing chemical reaction datasets for machine learning applications in organic chemistry },
+  journal      = { Journal of Cheminformatics },
+  year         = { 2024 },
+  pages        = { 74 },
+  month        = { Jun },
+  volume       = { 16 },
+  number       = { 1 },
+  day          = { 27 },
+  issn         = { 1758-2946 },
+  doi          = { 10.1186/s13321-024-00869-2 },
+  url          = { https://doi.org/10.1186/s13321-024-00869-2 }
 }
 ```
