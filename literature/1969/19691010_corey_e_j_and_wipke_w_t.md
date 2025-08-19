@@ -15,7 +15,7 @@ Corey, E.J. and Wipke, W.T.
 [JSTOR](https://www.jstor.org/stable/1727162)
 
 **Starred:**
-True
+False
 
 **Tags:**
 history

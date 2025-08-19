@@ -10,7 +10,7 @@ Ucak, U.V. et al.
 2023/05/29
 
 **Link:**
-[BMC Journal of Chemoinformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00725-9)
+[BMC Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00725-9)
 
 **Alternative Links:**
 [BMC Journal of Chemoinformatics Correction](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00740-w) |

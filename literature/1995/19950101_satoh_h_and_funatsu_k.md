@@ -15,7 +15,7 @@ Satoh, K. and Funatsu, K.
 None
 
 **Starred:**
-True
+False
 
 **Tags:**
 history, sophia

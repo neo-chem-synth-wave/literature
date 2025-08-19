@@ -9,7 +9,7 @@ Pasquini, M. and Stenta, M.
 2023/04/01
 
 **Link:**
-[BMC Journal of Chemoinformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00714-y)
+[BMC Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00714-y)
 
 **Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6376222e53ab80ebb2290281) |

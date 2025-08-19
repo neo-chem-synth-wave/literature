@@ -10,7 +10,7 @@ Skoraczyński, G. et al.
 2023/01/14
 
 **Link:**
-[BMC Journal of Chemoinformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00678-z)
+[BMC Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00678-z)
 
 **Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6366a53fecdad5512dfbd055) |

@@ -15,7 +15,7 @@ Salatin, T.D. and Jorgensen, W.L.
 [Purdue University](https://docs.lib.purdue.edu/dissertations/AAI8113748)
 
 **Starred:**
-True
+False
 
 **Tags:**
 history, cameo

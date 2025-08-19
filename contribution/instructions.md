@@ -42,6 +42,7 @@ The relevant literature sources are as follows:
   - [American Chemical Society (ACS)](https://pubs.acs.org/action/doSearch)
   - [Multidisciplinary Digital Publishing Institute (MDPI)](https://mdpi.com/search)
   - [Nature](https://nature.com/search/advanced)
+  - [Oxford Academic](https://academic.oup.com/journals/search-results)
   - [Public Library of Science (PLOS)](https://journals.plos.org/plosone/search)
   - [Royal Society of Chemistry (RSC)](https://pubs.rsc.org/en/search/advancedsearch)
   - [Science](https://science.org/search/advanced)

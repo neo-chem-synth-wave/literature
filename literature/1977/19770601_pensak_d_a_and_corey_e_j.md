@@ -15,7 +15,7 @@ Pensak, D.A. and Corey, E.J.
 [Academia](https://www.academia.edu/50313328/LHASA_logic_and_heuristics_applied_to_synthetic_analysis)
 
 **Starred:**
-True
+False
 
 **Tags:**
 history, lhasa

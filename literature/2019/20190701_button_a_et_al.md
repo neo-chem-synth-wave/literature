@@ -1,18 +1,26 @@
 # Overview
 **Title:**
-Automated de novo molecular design by hybrid machine intelligence and rule-driven chemical synthesis
+Automated De Novo Molecular Design by Hybrid Machine Intelligence and Rule-Driven Chemical Synthesis
 
 **Authors:**
-Button, A., Merk, D., Hiss, J.A., and Schneider, G.
+Button, A., Merk, D., Hiss, J.A., and Schneider, G. |
+Button, A. et al.
 
 **Publication Date:**
 2019/07/01
 
-**Publication Link:**
+**Link:**
 [Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0067-7)
 
-**Alternative Publication Links:**
+**Alternative Links:**
+[Code Ocean](https://codeocean.com/capsule/8271554) |
 [ETH Zürich Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/377338)
+
+**Starred:**
+False
+
+**Tags:**
+single-step-synthesis, template-based, data-source, compound, reaction, dingos
 
 
 # Abstract
@@ -28,18 +36,18 @@ The results of this study demonstrate the capability of machine learning models 
 
 # Citation
 ```
-@article{button2019,
-    author = "Button, Alexander and Merk, Daniel and Hiss, Jan A. and Schneider, Gisbert",
-    title = "Automated de novo molecular design by hybrid machine intelligence and rule-driven chemical synthesis",
-    journal = "Nature Machine Intelligence",
-    year = "2019",
-    month = "Jul",
-    day = "01",
-    volume = "1",
-    number = "7",
-    pages = "307-315",
-    issn = "2522-5839",
-    doi = "10.1038/s42256-019-0067-7",
-    url = "https://doi.org/10.1038/s42256-019-0067-7"
+@article {button2019a,
+  author       = { Alexander Button and Daniel Merk and Jan A. Hiss and Gisbert Schneider },
+  title        = { Automated de novo molecular design by hybrid machine intelligence and rule-driven chemical synthesis },
+  journal      = { Nature Machine Intelligence },
+  year         = { 2019 },
+  pages        = { 307-315 },
+  month        = { Jul },
+  volume       = { 1 },
+  number       = { 7 },
+  day          = { 01 },
+  issn         = { 2522-5839 },
+  doi          = { 10.1038/s42256-019-0067-7 },
+  url          = { https://doi.org/10.1038/s42256-019-0067-7 }
 }
 ```

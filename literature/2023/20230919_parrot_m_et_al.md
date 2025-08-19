@@ -10,7 +10,7 @@ Parrot, M. et al.
 2023/09/19
 
 **Link:**
-[BMC Journal of Chemoinformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00742-8)
+[BMC Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00742-8)
 
 **Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/61c19ee67f367e034f5adb11) |

@@ -10,7 +10,7 @@ Wang, S. et al.
 2023/11/02
 
 **Link:**
-[BMC Journal of Chemoinformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00771-3)
+[BMC Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00771-3)
 
 **Alternative Links:**
 [GitHub](https://github.com/Shihang-Wang-58/DeepSA) |

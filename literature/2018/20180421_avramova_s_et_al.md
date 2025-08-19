@@ -3,16 +3,23 @@
 RetroTransformDB: A Dataset of Generic Transforms for Retrosynthetic Analysis
 
 **Authors:**
-Avramova, S., Kochev, N., and Angelov, P.
+Avramova, S., Kochev, N., and Angelov, P. |
+Avramova, S. et al.
 
 **Publication Date:**
 2018/04/21
 
-**Publication Link:**
+**Link:**
 [MDPI Data](https://www.mdpi.com/2306-5729/3/2/14)
 
-**Alternative Publication Links:**
+**Alternative Links:**
 [ResearchGate](https://www.researchgate.net/publication/324724046_RetroTransformDB_A_Dataset_of_Generic_Transforms_for_Retrosynthetic_Analysis)
+
+**Starred:**
+False
+
+**Tags:**
+data-source, compound, retro-transform-db
 
 
 # Abstract
@@ -28,16 +35,16 @@ The RetroTransformDB dataset may be used by open-source and commercial software 
 
 # Citation
 ```
-@article{avramova2018,
-    author = "Avramova, Svetlana and Kochev, Nikolay and Angelov, Plamen",
-    title = "RetroTransformDB: A Dataset of Generic Transforms for Retrosynthetic Analysis",
-    journal = "Data",
-    volume = "3",
-    year = "2018",
-    number = "2",
-    article-number = "14",
-    url = "https://www.mdpi.com/2306-5729/3/2/14",
-    issn = "2306-5729",
-    doi = "10.3390/data3020014"
+@article {avramova2018a,
+  author       = { Svetlana Avramova and Nikolay Kochev and Plamen Angelov },
+  title        = { RetroTransformDB: A Dataset of Generic Transforms for Retrosynthetic Analysis },
+  journal      = { Data },
+  year         = { 2018 },
+  volume       = { 3 },
+  number       = { 2 },
+  article-number = { 14 },
+  url          = { https://www.mdpi.com/2306-5729/3/2/14 },
+  issn         = { 2306-5729 },
+  doi          = { 10.3390/data3020014 }
 }
 ```

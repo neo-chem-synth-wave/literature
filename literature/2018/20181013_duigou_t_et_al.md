@@ -1,19 +1,26 @@
 # Overview
 **Title:**
-RetroRules: a database of reaction rules for engineering biology
+RetroRules: A Database of Reaction Rules for Engineering Biology
 
 **Authors:**
-Duigou, T., du Lac, M., Carbonell, P., and Faulon, J.
+Duigou, T., du Lac, M., Carbonell, P., and Faulon, J. |
+Duigou, T. et al.
 
 **Publication Date:**
 2018/10/13
 
 **Publication Link:**
-[Nucleic Acids Research](https://academic.oup.com/nar/article/47/D1/D1229/5128930)
+[Oxford Academic Nucleic Acids Research](https://academic.oup.com/nar/article/47/D1/D1229/5128930)
 
 **Alternative Publication Links:**
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323975) |
 [HAL INRAE](https://hal.inrae.fr/hal-02619044)
+
+**Starred:**
+False
+
+**Tags:**
+data-source, reaction-pattern, retro-rules
 
 
 # Abstract
@@ -26,18 +33,18 @@ Such numerous representations of reactions expand natural chemical diversity by 
 
 # Citation
 ```
-@article{duigou2018,
-    author = "Duigou, Thomas and du Lac, Melchior and Carbonell, Pablo and Faulon, Jean-Loup",
-    title = "RetroRules: a database of reaction rules for engineering biology",
-    journal = "Nucleic Acids Research",
-    volume = "47",
-    number = "D1",
-    pages = "D1229-D1235",
-    year = "2018",
-    month = "10",
-    issn = "0305-1048",
-    doi = "10.1093/nar/gky940",
-    url = "https://doi.org/10.1093/nar/gky940",
-    eprint = "https://academic.oup.com/nar/article-pdf/47/D1/D1229/27436292/gky940.pdf"
+@article {duigou2018a,
+  author       = { Thomas Duigou and Melchior du Lac and Pablo Carbonell and Jean-Loup Faulon },
+  title        = { RetroRules: a database of reaction rules for engineering biology },
+  journal      = { Nucleic Acids Research },
+  year         = { 2018 },
+  pages        = { D1229-D1235 },
+  month        = { 10 },
+  volume       = { 47 },
+  number       = { D1 },
+  issn         = { 0305-1048 },
+  doi          = { 10.1093/nar/gky940 },
+  url          = { https://doi.org/10.1093/nar/gky940 },
+  eprint       = { https://academic.oup.com/nar/article-pdf/47/D1/D1229/27436292/gky940.pdf }
 }
 ```

@@ -1,20 +1,27 @@
 # Overview
 **Title:**
-“Found in Translation”: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models
+"Found in Translation": Predicting Outcomes of Complex Organic Chemistry Reactions Using Neural Sequence-to-Sequence Models
 
 **Authors:**
-Schwaller, P., Gaudin, T., Lányi, D., Bekas, C., and Laino, T.
+Schwaller, P., Gaudin, T., Lányi, D., Bekas, C., and Laino, T. |
+Schwaller, P. et al.
 
 **Publication Date:**
 2018/06/22
 
-**Publication Link:**
+**Link:**
 [RSC Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc02339e)
 
-**Alternative Publication Links:**
+**Alternative Links:**
 [arXiv](https://arxiv.org/abs/1711.04810) |
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6053976) |
 [ResearchGate](https://www.researchgate.net/publication/321095915_Found_in_Translation_Predicting_Outcomes_of_Complex_Organic_Chemistry_Reactions_using_Neural_Sequence-to-Sequence_Models)
+
+**Starred:**
+False
+
+**Tags:**
+single-step-retrosynthesis, template-free
 
 
 # Abstract
@@ -28,16 +35,16 @@ Also, a top-1 accuracy of 65.4% is reached on a larger and noisier dataset.
 
 # Citation
 ```
-@article{schwaller2018,
-    author = "Schwaller, Philippe and Gaudin, Théophile and Lányi, Dávid and Bekas, Costas and Laino, Teodoro",
-    title = "“Found in Translation”: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models",
-    journal = "Chem. Sci.",
-    year = "2018",
-    volume = "9",
-    issue = "28",
-    pages = "6091-6098",
-    publisher = "The Royal Society of Chemistry",
-    doi = "10.1039/C8SC02339E",
-    url = "https://dx.doi.org/10.1039/C8SC02339E"
+@article {schwaller2018a,
+  author       = { Philippe Schwaller and Théophile Gaudin and Dávid Lányi and Costas Bekas and Teodoro Laino },
+  title        = { “Found in Translation”: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models },
+  journal      = { Chem. Sci. },
+  year         = { 2018 },
+  pages        = { 6091-6098 },
+  volume       = { 9 },
+  issue        = { 28 },
+  publisher    = { The Royal Society of Chemistry },
+  doi          = { 10.1039/C8SC02339E },
+  url          = { https://dx.doi.org/10.1039/C8SC02339E }
 }
 ```
