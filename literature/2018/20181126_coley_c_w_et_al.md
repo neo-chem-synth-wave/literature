@@ -33,7 +33,7 @@ We gain additional insight into predictions via the design of the neural model, 
 
 # Citation
 ```
-@article {coley2018b,
+@article {coley2018c,
   author       = { Connor W. Coley and Wengong Jin and Luke Rogers and Timothy F. Jamison and Tommi S. Jaakkola and William H. Green and Regina Barzilay and Klavs F. Jensen },
   title        = { A graph-convolutional neural network model for the prediction of chemical reactivity },
   journal      = { Chem. Sci. },

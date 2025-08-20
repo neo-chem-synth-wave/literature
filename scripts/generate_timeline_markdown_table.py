@@ -18,7 +18,7 @@ def get_script_arguments() -> Namespace:
     argument_parser.add_argument(
         "-idp",
         "--input_directory_path",
-        # default="../literature",
+        default="../literature",
         type=str,
         help="The path to the input directory where the literature is stored."
     )
