@@ -32,7 +32,7 @@ We envision this dataset curated by applying a simple and flexible method that a
 
 # Citation
 ```
-@article {chen2024d,
+@article {chen2024e,
   author       = { Shuan Chen and Ramil Babazade and Taewan Kim and Sunkyu Han and Yousung Jung },
   title        = { A large-scale reaction dataset of mechanistic pathways of organic reactions },
   journal      = { Scientific Data },
