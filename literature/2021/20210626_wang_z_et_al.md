@@ -9,7 +9,7 @@ Wang, Z. et al.
 **Publication Date:**
 2021/06/26
 
-**Links:**
+**Link:**
 [Wiley Chinese Journal of Chemistry](https://onlinelibrary.wiley.com/doi/10.1002/cjoc.202100273)
 
 **Alternative Links:**

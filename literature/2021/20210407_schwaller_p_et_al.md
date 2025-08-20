@@ -9,14 +9,15 @@ Schwaller, P. et al.
 **Publication Date:**
 2021/04/07
 
-**Links:**
+**Link:**
 [Science Advances](https://www.science.org/doi/10.1126/sciadv.abe4166)
 
 **Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74b2aee301c3c2cc79dac) |
 [GitHub](https://github.com/rxn4chemistry/rxnmapper) |
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8026122) |
-[ResearchGate](https://www.researchgate.net/publication/350712225_Extraction_of_organic_chemistry_grammar_from_unsupervised_learning_of_chemical_reactions)
+[ResearchGate](https://www.researchgate.net/publication/350712225_Extraction_of_organic_chemistry_grammar_from_unsupervised_learning_of_chemical_reactions) |
+[RXNMapper](https://rxnmapper.ai)
 
 **Starred:**
 True

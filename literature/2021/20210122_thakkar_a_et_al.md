@@ -3,13 +3,13 @@
 Retrosynthetic Accessibility Score (RAscore) - Rapid Machine Learned Synthesizability Classification From AI Driven Retrosynthetic Planning
 
 **Authors:**
-Thakkar A., Chadimová, V., Bjerrum, E.J., Engkvist, O., and Reymond, J. |
-Thakkar A. et al.
+Thakkar, A., Chadimová, V., Bjerrum, E.J., Engkvist, O., and Reymond, J. |
+Thakkar, A. et al.
 
 **Publication Date:**
 2021/01/22
 
-**Links:**
+**Link:**
 [RSC Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05401a)
 
 **Alternative Links:**

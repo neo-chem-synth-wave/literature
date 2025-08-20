@@ -10,7 +10,7 @@ Chen, B. et al.
 2020/07/13
 
 **Link:**
-[ICML](https://proceedings.mlr.press/v119/chen20k.html)
+[ICML 2020](https://proceedings.mlr.press/v119/chen20k.html)
 
 **Alternative Links:**
 [ACM Digital Library](https://dl.acm.org/doi/10.5555/3524938.3525088) |
