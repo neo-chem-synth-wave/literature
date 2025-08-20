@@ -37,7 +37,7 @@ if __name__ == "__main__":
         top=script_arguments.input_directory_path
     ):
         for file_name in file_names:
-            if file_name.endswith(".md"):
+            if file_name.endswith(".md") and file_name != "format.md":
                 file_path = Path(publication_year_directory_path, file_name)
 
                 file_text = file_path.read_text()
@@ -53,6 +53,12 @@ if __name__ == "__main__":
                     )
                 )
 
+    print()
+    print(
+        "Total number of files: {total_number_of_files:d}".format(
+            total_number_of_files=len(timeline_markdown_table_rows)
+        )
+    )
     print()
     print(
         "{timeline_markdown_table_header_row:s}\n{timeline_markdown_table_rows:s}".format(
