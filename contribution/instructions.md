@@ -40,13 +40,15 @@ The relevant literature sources are as follows:
 
 - **Journals**:
   - [American Chemical Society (ACS)](https://pubs.acs.org/action/doSearch)
+  - [Elsevier ScienceDirect](https://sciencedirect.com/search)
+  - [Frontiers](https://www.frontiersin.org/search)
+  - [IOPscience](https://iopscience.iop.org/nsearch)
   - [Multidisciplinary Digital Publishing Institute (MDPI)](https://mdpi.com/search)
   - [Nature](https://nature.com/search/advanced)
   - [Oxford Academic](https://academic.oup.com/journals/search-results)
   - [Public Library of Science (PLOS)](https://journals.plos.org/plosone/search)
   - [Royal Society of Chemistry (RSC)](https://pubs.rsc.org/en/search/advancedsearch)
   - [Science](https://science.org/search/advanced)
-  - [ScienceDirect](https://sciencedirect.com/search)
   - [Springer](https://link.springer.com/advanced-search)
   - [Thieme](https://thieme-connect.com/products/all/search)
   - [Wiley](https://onlinelibrary.wiley.com/search/advanced)
