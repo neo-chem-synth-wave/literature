@@ -1,11 +1,4 @@
 # Contribution Wishlist
-- 2022:
-  - [ ] https://doi.org/10.18653/v1/2022.emnlp-demos.31
-  - [ ] https://doi.org/10.1038/s41597-022-01317-2
-  - [ ] https://doi.org/10.3390/molecules27031039
-  - [ ] https://doi.org/10.1021/acs.jcim.1c01476
-  - [ ] https://doi.org/10.1021/acs.jcim.2c00038
-
 - 2024:
   - [ ] https://doi.org/10.1186/s13321-024-00834-z
   - [ ] https://doi.org/10.1039/D4SC05946H
