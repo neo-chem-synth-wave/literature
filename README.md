@@ -1,10 +1,15 @@
 # Literature
-[![Static Badge](https://img.shields.io/badge/literature-190-%23FFFFFF)](#timeline)
 [![Static Badge](https://img.shields.io/badge/Institute%20of%20Science%20Tokyo-%231C3177?style=flat)](https://www.isct.ac.jp)
 [![Static Badge](https://img.shields.io/badge/Elix%2C%20Inc.-%235EB6B3?style=flat)](https://www.elix-inc.com)
 [![Static Badge](https://img.shields.io/badge/Faculty%20of%20Electrical%20Engineering%2C%20University%20of%20Sarajevo-%23275D91?style=flat)](https://www.etf.unsa.ba)
 
 Welcome to the computer-assisted chemical synthesis **literature** research project !!!
+
+Over the past decade, computer-assisted chemical synthesis has re-emerged as a prominent research subject.
+Even though the idea of utilizing computers to assist chemical synthesis has existed for nearly as long as computers themselves, the inherent complexity repeatedly exceeded the available resources.
+However, recent machine learning approaches have exhibited the potential to break this tendency.
+While learning about such approaches may seem daunting at first, access to a concise and up-to-date overview of the state-of-the-art literature is the consensus foundation for furthering understanding and expertise, especially for novice researchers.
+Consequently, the primary objective of the Literature research project is to systematically curate and facilitate access to relevant computer-assisted chemical synthesis literature.
 
 
 ## Utilization
@@ -24,8 +29,35 @@ python scripts/search_literature.py \
   --search_tags "single-step-retrosynthesis" "template-based"
 ```
 
+All scripts are utilizing a base environment.
+
 
 ## Timeline
+[![Static Badge](https://img.shields.io/badge/total-190-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1966-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1969-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1977-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1980-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1993-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1995-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2008-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2009-2-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2010-2-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2012-3-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2013-2-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2014-1-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2015-3-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2016-6-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2017-6-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2018-8-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2019-14-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2020-19-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2021-26-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2022-29-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2023-27-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2024-24-%23FFFFFF)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-11-%23FFFFFF)](#timeline)
+
 | Publication Date | Publication                                                                                                                                                                                                                                      |                                                       Tags                                                        | Starred |
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|:-------:|
 |    1966/06/26    | [Corey, E.J. General Methods for the Construction of Complex Molecules](literature/1966/19660626_corey_e_j.md)                                                                                                                                   |                                                      history                                                      |         |
