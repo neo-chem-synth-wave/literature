@@ -5,7 +5,6 @@ To contribute to this repository, please adhere to the following instructions:
 
 2. **Add the new files** in the appropriate **publication year directories**.
 If a publication year directory does not exist, create it yourself.
-Prioritize literature from the [contribution wishlist](/contribution/wishlist.md).
 Only add officially published peer-reviewed literature relevant to computer-assisted chemical synthesis.
 Refer to the subsection outlining the [relevant literature sources](#relevant-literature-sources) for more information.
 Adhere to the following file naming conventions:
