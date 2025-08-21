@@ -19,7 +19,6 @@ def get_script_arguments() -> Namespace:
     argument_parser.add_argument(
         "-idp",
         "--input_directory_path",
-        # default="../literature",
         type=str,
         help="The path to the input directory where the literature is stored."
     )
@@ -29,7 +28,6 @@ def get_script_arguments() -> Namespace:
         "--search_tags",
         nargs="+",
         default=None,
-        # default=["fingerprint"],
         type=str,
         help="The tags of the search."
     )
@@ -47,7 +45,7 @@ if __name__ == "__main__":
         top=script_arguments.input_directory_path
     ):
         for file_name in file_names:
-            if file_name.endswith(".md"):
+            if file_name.endswith(".md") and file_name != "format.md":
                 file_path = Path(publication_year_directory_path, file_name)
 
                 file_text = file_path.read_text()

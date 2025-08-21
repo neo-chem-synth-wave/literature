@@ -19,7 +19,6 @@ def get_script_arguments() -> Namespace:
     argument_parser.add_argument(
         "-idp",
         "--input_directory_path",
-        # default="../literature",
         type=str,
         help="The path to the input directory where the literature is stored."
     )
@@ -59,16 +58,17 @@ if __name__ == "__main__":
                 )
 
     print(
-        "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_markdown_table_rows:d}-%23FFFFFF)](#timeline)".format(
+        "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_markdown_table_rows:d}-white)](#timeline)".format(
             number_of_timeline_markdown_table_rows=len(timeline_markdown_table_rows)
         )
     )
 
     for publication_year, file_names in publication_year_to_file_names.items():
         print(
-            "[![Static Badge](https://img.shields.io/badge/{publication_year:s}-{number_of_file_names:d}-%23FFFFFF)](#timeline)".format(
+            "[![Static Badge](https://img.shields.io/badge/{publication_year:s}-{number_of_file_names:d}-{color:s})](#timeline)".format(
                 publication_year=publication_year,
-                number_of_file_names=len(file_names)
+                number_of_file_names=len(file_names),
+                color="red" if len(file_names) < 10 else "yellow" if 10 < len(file_names) < 20 else "green"
             )
         )
 
