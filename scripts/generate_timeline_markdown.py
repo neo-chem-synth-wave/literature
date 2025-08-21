@@ -75,6 +75,6 @@ if __name__ == "__main__":
     print(
         "\n{timeline_markdown_table_header_row:s}\n{timeline_markdown_table_rows:s}".format(
             timeline_markdown_table_header_row=timeline_markdown_table_header_row,
-            timeline_markdown_table_rows="\n".join(sorted(timeline_markdown_table_rows))
+            timeline_markdown_table_rows="\n".join(sorted(timeline_markdown_table_rows, reverse=True))
         )
     )
