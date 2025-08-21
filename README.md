@@ -33,7 +33,7 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-190-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-190-blue)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1966-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#timeline)

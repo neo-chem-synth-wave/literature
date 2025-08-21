@@ -58,7 +58,7 @@ if __name__ == "__main__":
                 )
 
     print(
-        "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_markdown_table_rows:d}-white)](#timeline)".format(
+        "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_markdown_table_rows:d}-blue)](#timeline)".format(
             number_of_timeline_markdown_table_rows=len(timeline_markdown_table_rows)
         )
     )
