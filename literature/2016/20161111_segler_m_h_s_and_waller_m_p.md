@@ -9,7 +9,7 @@ Segler, M.H.S. and Waller, M.P.
 2016/11/11
 
 **Link:**
-[Chemistry Europe Chemistry - A European Journal](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201604556)
+[Chemistry Europe Chemistry A European Journal](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201604556)
 
 **Alternative Links:**
 [arXiv](https://arxiv.org/abs/1608.07117)

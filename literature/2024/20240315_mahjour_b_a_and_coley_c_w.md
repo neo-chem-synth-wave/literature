@@ -9,7 +9,7 @@ Mahjour, B.A. and Coley, C.W.
 2024/03/15
 
 **Link:**
-[ACS Journal of Chemical Information and Modeling](https://www.nature.com/articles/s41467-024-46364-y)
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00138)
 
 **Alternative Links:**
 [GitHub](https://github.com/coleygroup/rdcanon)

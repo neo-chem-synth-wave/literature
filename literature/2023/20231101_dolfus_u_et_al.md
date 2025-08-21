@@ -10,7 +10,7 @@ Dolfus, U. et al.
 2023/11/01
 
 **Link:**
-[ACS JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01155)
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01155)
 
 **Alternative Links:**
 None

@@ -10,7 +10,7 @@ Westerlund, A.M. et al.
 2025/07/14
 
 **Link:**
-[RSC Chemical Science](https://www.nature.com/articles/s41467-025-61803-0)
+[RSC Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc00927h)
 
 **Alternative Links:**
 [Elsevier ScienceDirect](https://www.sciencedirect.com/org/science/article/pii/S2041652025011010)

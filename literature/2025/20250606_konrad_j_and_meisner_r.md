@@ -9,7 +9,7 @@ Konrad, J. and Meißner, R.
 2025/06/06
 
 **Link:**
-[ACS Journal of Chemical Information and Modeling](https://www.nature.com/articles/s41467-025-61803-0)
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.5c00445)
 
 **Alternative Links:**
 [arXiv](https://arxiv.org/abs/2503.02678) |

@@ -10,7 +10,7 @@ Torren-Peraire, P. et al.
 2024/02/14
 
 **Link:**
-[RSC Digital Discovery](https://pubs.acs.org/doi/10.1021/jacsau.3c00737)
+[RSC Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00252g)
 
 **Alternative Links:**
 [GitHub](https://github.com/AlanHassen/modelsmatter) |

@@ -10,7 +10,7 @@ Phan, T. et al.
 2025/02/28
 
 **Link:**
-[ACS Journal of Chemical Information and Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/34203)
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01795)
 
 **Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/66f677b751558a15ef4cf5f7) |
