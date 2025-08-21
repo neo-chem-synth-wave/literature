@@ -32,7 +32,7 @@ if __name__ == "__main__":
     publication_year_to_file_names = defaultdict(list)
     timeline_markdown_table_rows = list()
 
-    timeline_markdown_table_header_row = "| Publication Date | Publication | Tags |\n|:-:|-|:-:|"
+    timeline_markdown_table_header_row = "| Date | Publication | Tags |\n|:-:|-|:-:|"
 
     for publication_year_directory_path, _, file_names in walk(
         top=script_arguments.input_directory_path
