@@ -68,7 +68,7 @@ if __name__ == "__main__":
             "[![Static Badge](https://img.shields.io/badge/{publication_year:s}-{number_of_file_names:d}-{color:s})](#timeline)".format(
                 publication_year=publication_year,
                 number_of_file_names=len(file_names),
-                color="red" if len(file_names) < 10 else "yellow" if 10 < len(file_names) < 20 else "green"
+                color="red" if len(file_names) < 10 else "yellow" if 10 <= len(file_names) < 20 else "green"
             )
         )
 
