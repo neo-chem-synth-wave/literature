@@ -57,14 +57,6 @@ The relevant literature sources are as follows:
   - [bioRxiv](https://biorxiv.org/search)
   - [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/search-dashboard)
 
-- **Others**:
-  - [Academia](https://academia.edu)
-  - [CORE](https://core.ac.uk)
-  - [DSpace@MIT](https://dspace.mit.edu/discover)
-  - [GitHub](https://github.com/search/advanced)
-  - [PubMed Central](https://ncbi.nlm.nih.gov/pmc/advanced)
-  - [ResearchGate](https://researchgate.net/search.Search.html)
-
 
 ## Formatting Instructions
 While formatting a new file, please adhere to the following instructions:
