@@ -52,12 +52,12 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2017-8-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2018-11-yellow)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2019-18-yellow)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2020-21-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2021-26-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2022-32-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2023-30-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2024-32-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2025-24-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2020-23-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2021-29-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2022-33-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2023-32-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2024-33-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-25-green)](#timeline)
 
 |    Date    | Publication                                                                                                                                                                          |                                         Tags                                         |
 |:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------:|
@@ -71,9 +71,7 @@ All scripts are utilizing a base environment.
 | 2025/07/12 | [Sin, J.W. et al. Highly Parallel Optimisation of Chemical Reactions Through Automation and Machine Intelligence](literature/2025/20250712_sin_j_w_et_al.md)                         |                            reaction-optimization, minerva                            |
 | 2025/07/02 | [Lan, Z. et al. Retrosynthesis Prediction via Search in (Hyper) Graph](literature/2025/20250702_lan_z_et_al.md)                                                                      |              single-step-retrosynthesis, semi-template-based, retro-sig              |
 | 2025/06/25 | [Wu, J. et al. HiCLR: Knowledge-Induced Hierarchical Contrastive Learning With Retrosynthesis Prediction Yields a Reaction Foundation Model](literature/2025/20250625_wu_j_et_al.md) |                                    reaction-yield                                    |
-|    ...     | ...                                                                                                                                                                                  |                                         ...                                          |
-
-The complete timeline is available in the [timeline](/documentation/timeline.md) file.
+|    ...     | [...](/documentation/b_timeline.md)                                                                                                                                                  |                                         ...                                          |
 
 
 ## License Information
