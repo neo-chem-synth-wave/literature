@@ -33,9 +33,9 @@ The relevant literature sources are as follows:
 - **Conferences**:
   - [Association for the Advancement of Artificial Intelligence (AAAI) Conference on Artificial Intelligence](https://aaai.org/conference/aaai)
   - [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc)
-  - [International Joint Conferences on Artificial Intelligence (IJCAI)](https://ijcai.org)
   - [International Conference on Learning Representations (ICLR)](https://iclr.cc)
   - [International Conference on Machine Learning (ICML)](https://icml.cc)
+  - [International Joint Conferences on Artificial Intelligence (IJCAI)](https://ijcai.org)
 
 - **Journals**:
   - [American Chemical Society (ACS)](https://pubs.acs.org/action/doSearch)
