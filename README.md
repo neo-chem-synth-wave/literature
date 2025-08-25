@@ -43,6 +43,7 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2008-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2009-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2010-2-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2011-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2012-3-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2013-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2014-1-red)](#timeline)
@@ -57,7 +58,6 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2023-30-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2024-32-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2025-24-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2011-1-red)](#timeline)
 
 |    Date    | Publication                                                                                                                                                                                                                                                        |                                                       Tags                                                        |
 |:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|
