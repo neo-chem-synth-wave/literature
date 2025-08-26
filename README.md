@@ -33,7 +33,7 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-230-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-245-blue)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1966-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#timeline)
@@ -50,28 +50,28 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2015-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2016-6-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2017-8-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2018-11-yellow)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2019-18-yellow)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2020-23-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2021-29-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2018-11-orange)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2019-18-orange)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2020-23-yellow)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2021-29-yellow)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2022-33-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2023-32-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2024-33-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2025-25-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-30-green)](#timeline)
 
-|    Date    | Publication                                                                                                                                                                          |                                         Tags                                         |
-|:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------:|
-| 2025/08/11 | [Armstrong, D. et al. Tango*: Constrained Synthesis Planning Using Chemically Informed Value Functions](literature/2025/20250811_armstrong_d_et_al.md)                               |                   multi-step-retrosynthesis, template-free, tango*                   |
-| 2025/07/31 | [Deng, Y. et al. RSGPT: A Generative Transformer Model for Retrosynthesis Planning Pre-trained on Ten Billion Datapoints](literature/2025/20250731_deng_y_et_al.md)                  |  single-step-retrosynthesis, multi-step-retrosynthesis, semi-template-based, rsgpt   |
-| 2025/07/29 | [Wieczorek, E. et al. Transfer Learning for Heterocycle Retrosynthesis](literature/2025/20250729_wieczorek_e_et_al.md)                                                               |                              single-step-retrosynthesis                              |
-| 2025/07/29 | [Hu, X. et al. log-RRIM: Yield Prediction via Local-to-Global Reaction Representation Learning and Interaction Modeling](literature/2025/20250729_hu_x_et_al.md)                     |                         reaction-yield-prediction, log-rrim                          |
-| 2025/07/29 | [Current, S. et al. DiffER: Categorical Diffusion Ensembles for Single-Step Chemical Retrosynthesis](literature/2025/20250729_current_s_et_al.md)                                    |                    single-step-retrosynthesis, diffusion, differ                     |
-| 2025/07/28 | [Liu, X. et al. Chemoenzymatic Synthesis Planning Guided by Synthetic Potential Scores](literature/2025/20250728_liu_x_et_al.md)                                                     |           single-step-retrosynthesis, multi-step-retrosynthesis, ace-retro           |
-| 2025/07/14 | [Westerlund, A.M. et al. Highly Parallel Optimisation of Chemical Reactions Through Automation and Machine Intelligence](literature/2025/20250714_westerlund_a_m_et_al.md)           | single-step-retrosynthesis, multi-step-retrosynthesis, template-based, aizynthfinder |
-| 2025/07/12 | [Sin, J.W. et al. Highly Parallel Optimisation of Chemical Reactions Through Automation and Machine Intelligence](literature/2025/20250712_sin_j_w_et_al.md)                         |                            reaction-optimization, minerva                            |
-| 2025/07/02 | [Lan, Z. et al. Retrosynthesis Prediction via Search in (Hyper) Graph](literature/2025/20250702_lan_z_et_al.md)                                                                      |              single-step-retrosynthesis, semi-template-based, retro-sig              |
-| 2025/06/25 | [Wu, J. et al. HiCLR: Knowledge-Induced Hierarchical Contrastive Learning With Retrosynthesis Prediction Yields a Reaction Foundation Model](literature/2025/20250625_wu_j_et_al.md) |                                    reaction-yield                                    |
-|    ...     | [...](/documentation/b_timeline.md)                                                                                                                                                  |                                         ...                                          |
+| Publication Date | Publication                                                                                                                                                                                                                     |                            Tags                             |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------:|
+|    2025/02/28    | [Phan, T. et al. SynTemp: Efficient Extraction of Graph-Based Reaction Rules From Large-Scale Reaction Databases](../literature/2025/20250228_phan_t_et_al.md)                                                                  |           reaction-template-extraction, syn-temp            |
+|    2025/01/18    | [Zhao, P. et al. Single-Step Retrosynthesis Prediction via Multitask Graph Representation Learning](../literature/2025/20250118_zhao_p_et_al.md)                                                                                |           single-step-retrosynthesis, retro-mtgr            |
+|    2025/01/30    | [Long, L. et al. Artificial Intelligence in Retrosynthesis Prediction and Its Applications in Medicinal Chemistry](../literature/2025/20250130_long_l_et_al.md)                                                                 |                         perspective                         |
+|    2025/03/12    | [Bradshaw, J. et al. Challenging Reaction Prediction Models to Generalize to Novel Chemistry](../literature/2025/20250312_bradshaw_j_et_al.md)                                                                                  |             single-step-synthesis, benchmarking             |
+|    2025/01/02    | [Zhang, X. et al. A Data-Driven Group Retrosynthesis Planning Model Inspired by Neurosymbolic Programming](../literature/2025/20250102_zhang_x_et_al.md)                                                                        |    single-step-retrosynthesis, multi-step-retrosynthesis    |
+|    2025/03/28    | [Keto, A. et al. Improving Reaction Prediction Through Chemically Aware Transfer Learning](../literature/2025/20250328_keto_a_et_al.md)                                                                                         |            single-step-synthesis, template-based            |
+|    2025/03/16    | [Kozlov, K.S. et al. Discovering Organic Reactions With a Machine-Learning-Powered Deciphering of Tera-Scale Mass Spectrometry Data](../literature/2025/20250316_kozlov_k_s_et_al.md)                                           |                    data-source, reaction                    |
+|    2025/04/08    | [Shee, Y. et al. DirectMultiStep: Direct Route Generation for Multistep Retrosynthesis](../literature/2025/20250408_shee_y_et_al.md)                                                                                            | multi-step-retrosynthesis, template-free, direct-multi-step |
+|    2025/04/11    | [Qiao, A. et al. Advancing Retrosynthesis With Retrieval-Augmented Graph Generation](../literature/2025/20250411_qiao_a_et_al.md)                                                                                               |       single-step-retrosynthesis, template-free, rarb       |
+|    2025/05/01    | [Krzyzanowski, A. et al. Exploring BERT for Reaction Yield Prediction: Evaluating the Impact of Tokenization, Molecular Representation, and Pretraining Data Augmentation](../literature/2025/20250501_krzyzanowski_a_et_al.md) |           reaction-yield-prediction, synth-coder            |
+|       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                                         |                             ...                             |
 
 
 ## License Information

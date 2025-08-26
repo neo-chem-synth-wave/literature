@@ -32,7 +32,7 @@ To better understand how current reaction predictors work in out-of-distribution
 First, we illustrate how performance on randomly sampled data sets is overly optimistic compared to performance when generalizing to new patents or new authors.
 Second, we conduct time splits that evaluate how models perform when tested on reactions published years after those in their training set, mimicking real-world deployment.
 Finally, we consider extrapolation across reaction classes to reflect what would be required for the discovery of novel reaction types.
-This panel of tasks can reveal the capabilities and limitations of today’s reaction predictors, acting as a crucial first step in the development of tomorrow’s next-generation models capable of reaction discovery.
+This panel of tasks can reveal the capabilities and limitations of today’s reaction predictors, acting as a crucial first step in the development of tomorrow's next-generation models capable of reaction discovery.
 
 
 # Citation
