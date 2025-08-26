@@ -1,4 +1,30 @@
 # Timeline
+[![Static Badge](https://img.shields.io/badge/total-250-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1966-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1977-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1980-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1993-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1995-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2008-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2009-2-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2010-2-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2011-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2012-3-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2013-2-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2014-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2015-4-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2016-6-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2017-10-orange)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2018-11-orange)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2019-20-yellow)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2020-23-yellow)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2021-30-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2022-33-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2023-32-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2024-33-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-30-green)](#timeline)
+
 
 ### 2025
 | Publication Date | Publication                                                                                                                                                                                                                                         |                                                            Tags                                                            |
@@ -151,6 +177,7 @@
 ### 2021
 | Publication Date | Publication                                                                                                                                                                                                                  |                                           Tags                                           |
 |:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------:|
+|    2021/12/27    | [Raghunathan, S., and Priyakumar, U.D. Molecular Representations for Machine Learning Applications in Chemistry](../literature/2021/20211227_raghunathan_s_et_al.md)                                                         |                               compound-descriptor, review                                |
 |    2021/12/23    | [Heid, E. et al. Influence of Template Size, Canonicalization, and Exclusivity for Retrosynthesis and Reaction Prediction Applications](../literature/2021/20211223_heid_e_et_al.md)                                         |               single-step-synthesis, single-step-retrosynthesis, analysis                |
 |    2021/12/06    | [Sun, R. et al. Towards Understanding Retrosynthesis by Energy-Based Models](../literature/2021/20211206_sun_r_et_al.md)                                                                                                     |                     single-step-retrosynthesis, template-free, dual                      |
 |    2021/12/06    | [Somnath, V.R. et al. Learning Graph Models for Retrosynthesis Prediction](../literature/2021/20211206_somnath_v_r_et_al.md)                                                                                                 |           single-step-retrosynthesis, semi-template-based, graph, graph-retro            |
@@ -217,6 +244,7 @@
 |    2019/12/11    | [Zheng, S. et al. Predicting Retrosynthetic Reactions Using Self-Corrected Transformer Neural Networks](../literature/2019/20191211_zheng_s_et_al.md)                                                                                                                 |                single-step-retrosynthesis, template-free, scrop                |
 |    2019/12/08    | [Dai, H. et al. Retrosynthesis Prediction With Conditional Graph Logic Network](../literature/2019/20191208_dai_h_et_al.md)                                                                                                                                           |             single-step-retrosynthesis, template-based, graph, gln             |
 |    2019/11/26    | [Ishida, S. et al. Prediction and Interpretable Visualization of Retrosynthetic Reactions Using Graph Convolutional Networks](../literature/2019/20191126_ishida_s_et_al.md)                                                                                          |                single-step-retrosynthesis, template-based, kgcn                |
+|    2019/11/21    | [Badowski, T. et al. Synergy Between Expert and Machine-Learning Approaches Allows for Improved Retrosynthetic Planning](../literature/2019/20191121_badowski_t_et_al.md)                                                                                             |             single-step-retrosynthesis, multi-step-retrosynthesis              |
 |    2019/11/05    | [Thakkar, A. et al. Datasets and Their Influence on the Development of Computer Assisted Synthesis Planning Tools in the Pharmaceutical Domain](../literature/2019/20191105_thakkar_a_et_al.md)                                                                       |                                 data-analysis                                  |
 |    2019/09/25    | [Coley, C.W. et al. Autonomous Discovery in the Chemical Sciences Part II: Outlook](../literature/2019/20190925_coley_c_w_et_al_b.md)                                                                                                                                 |                                     review                                     |
 |    2019/09/25    | [Coley, C.W. et al. Autonomous Discovery in the Chemical Sciences Part I: Progress](../literature/2019/20190925_coley_c_w_et_al_a.md)                                                                                                                                 |                                     review                                     |
@@ -226,6 +254,7 @@
 |    2019/08/12    | [Konze, K.D. et al. Reaction-Based Enumeration, Active Learning, and Free Energy Calculations to Rapidly Explore Synthetically Tractable Chemical Space and Optimize Potency of Cyclin-Dependent Kinase 2 Inhibitors](../literature/2019/20190812_konze_k_d_et_al.md) |                  reaction-based-enumeration, active-learning                   |
 |    2019/07/01    | [Button, A. et al. Automated De Novo Molecular Design by Hybrid Machine Intelligence and Rule-Driven Chemical Synthesis](../literature/2019/20190701_button_a_et_al.md)                                                                                               | single-step-synthesis, template-based, data-source, compound, reaction, dingos |
 |    2019/06/13    | [Coley, C.W. et al. RDChiral: An RDKit Wrapper for Handling Stereochemistry in Retrosynthetic Template Extraction and Application](../literature/2019/20190613_coley_c_w_et_al.md)                                                                                    |                          reaction-template, rdchiral                           |
+|    2019/06/06    | [Batra, R. et al. General Atomic Neighborhood Fingerprint for Machine Learning-Based Methods](../literature/2019/20190606_batra_r_et_al.md)                                                                                                                           |                              compound-descriptor                               |
 |    2019/05/31    | [Schreck, J.S. et al. Learning Retrosynthetic Planning Through Simulated Experience](../literature/2019/20190531_schreck_j_s_et_al.md)                                                                                                                                |                              multi-step-synthesis                              |
 |    2019/03/29    | [Jaworski, W. et al. Automatic Mapping of Atoms Across Both Simple and Complex Chemical Reactions](../literature/2019/20190329_jaworski_w_et_al.md)                                                                                                                   |                          atom-to-atom-mapping, mappet                          |
 |    2019/02/08    | [Ricart, E. et al. rBAN: Retro-Biosynthetic Analysis of Nonribosomal Peptides](../literature/2019/20190208_ricart_e_et_al.md)                                                                                                                                         |                        single-step-retrosynthesis, rban                        |
@@ -252,10 +281,12 @@
 ### 2017
 | Publication Date | Publication                                                                                                                                                               |                                                       Tags                                                        |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|
+|    2017/12/27    | [Wang, L. et al. A Review of Computational Tools for Design and Reconstruction of Metabolic Pathways](../literature/2017/20171227_wang_l_et_al.md)                        |                                                      review                                                       |
 |    2017/12/19    | [Koch, M. et al. Molecular Structures Enumeration and Virtual Screening in the Chemical Space With RetroPath2.0](../literature/2017/20171219_koch_m_et_al.md)             |                                               multi-step-synthesis                                                |
 |    2017/12/12    | [Kim, Y. et al. Efficient Prediction of Reaction Paths Through Molecular Graph and Reaction Network Analysis](../literature/2017/20171212_kim_y_et_al.md)                 |                                               multi-step-synthesis                                                |
 |    2017/12/04    | [Jin, W. et al. Predicting Organic Reaction Outcomes With Weisfeiler-Lehman Network](../literature/2017/20171204_jin_w_et_al.md)                                          |                                 single-step-synthesis, semi-template-based, graph                                 |
 |    2017/11/16    | [Coley, C.W. et al. Computer-Assisted Retrosynthesis Based on Molecular Similarity](../literature/2017/20171116_coley_c_w_et_al.md)                                       | single-step-retrosynthesis, multi-step-retrosynthesis, template-based, retrosim, data-source, reaction, uspto-50k |
+|    2017/10/30    | [Simm, G.N. and Reiher, M. Context-Driven Exploration of Complex Chemical Reaction Networks](../literature/2017/20171030_simm_g_n_and_reiher_m.md)                        |                                                 reaction-network                                                  |
 |    2017/09/05    | [Liu, B. et al. Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models](../literature/2017/20170905_liu_b_et_al.md)                                  |                    single-step-retrosynthesis, template-free, data-source, reaction, uspto-50k                    |
 |    2017/07/21    | [Axen, S.D. et al. A Simple Representation of Three-Dimensional Molecular Structure](../literature/2017/20170721_axen_s_d_et_al.md)                                       |                                      compound-descriptor, fingerprint, e3fp                                       |
 |    2017/04/18    | [Coley, C.W. et al. Prediction of Organic Reaction Outcomes Using Machine Learning](../literature/2017/20170418_coley_c_w_et_al.md)                                       |                      single-step-synthesis, template-based, data-source, reaction, uspto-15k                      |
