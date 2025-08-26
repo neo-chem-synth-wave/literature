@@ -19,8 +19,9 @@ def get_script_arguments() -> Namespace:
     argument_parser.add_argument(
         "-idp",
         "--input_directory_path",
+        default="../literature",
         type=str,
-        help="The path to the input directory where the literature is stored."
+        help="The path to the input directory where the literature markdown files are stored."
     )
 
     argument_parser.add_argument(
@@ -39,18 +40,19 @@ if __name__ == "__main__":
     script_arguments = get_script_arguments()
 
     file_paths = list()
+
     search_tags = list() if script_arguments.search_tags is None else script_arguments.search_tags
 
-    for publication_year_directory_path, _, file_names in walk(
+    for directory_path, _, file_names in walk(
         top=script_arguments.input_directory_path
     ):
         for file_name in file_names:
-            if file_name.endswith(".md") and file_name != "format.md":
-                file_path = Path(publication_year_directory_path, file_name)
+            if file_name.endswith(".md"):
+                file_path = Path(directory_path, file_name)
 
                 file_text = file_path.read_text()
 
-                file_tags = search(r"Tags:\*\*\n(.+)", file_text).group(1).split(", ")
+                file_tags = search(r"\*\*Tags:\*\*\n(.+)", file_text).group(1).split(", ")
 
                 if all(
                     any(search_tag in file_tag for file_tag in file_tags)
