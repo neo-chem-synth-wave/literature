@@ -98,11 +98,24 @@ if __name__ == "__main__":
 
                     publication_year_to_timeline_table_rows[file_path.parts[2]].append(
                         "| {publication_date:s} | [{authors:s} {title:s}]({file_path:s}) | {tags:s} |".format(
-                            publication_date=search(r"\*\*Publication Date:\*\*\n(.+)", file_text).group(1),
-                            authors=search(r"\*\*Authors:\*\*\n(.+?)(?=\n\*)", file_text, DOTALL).group(1).strip().split(" |\n")[-1],
-                            title=search(r"\*\*Title:\*\*\n(.+)", file_text).group(1),
+                            publication_date=search(
+                                pattern=r"\*\*Publication Date:\*\*\n(.+)",
+                                string=file_text
+                            ).group(1),
+                            authors=search(
+                                pattern=r"\*\*Authors:\*\*\n(.+?)(?=\n\*)",
+                                string=file_text,
+                                flags=DOTALL
+                            ).group(1).strip().split(" |\n")[-1],
+                            title=search(
+                                pattern=r"\*\*Title:\*\*\n(.+)",
+                                string=file_text
+                            ).group(1),
                             file_path=Path("../literature", *file_path.parts[-2:]).as_posix(),
-                            tags=search(r"\*\*Tags:\*\*\n(.+)", file_text).group(1)
+                            tags=search(
+                                pattern=r"\*\*Tags:\*\*\n(.+)",
+                                string=file_text
+                            ).group(1)
                         )
                     )
 
@@ -113,30 +126,34 @@ if __name__ == "__main__":
 
         print("1. The timeline summary static badges:\n")
 
-        print(
-            "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_table_rows:d}-blue)](#timeline)".format(
-                number_of_timeline_table_rows=len(timeline_table_rows)
-            )
-        )
+        print((
+            "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_table_rows:d}-blue)](#timeline)"
+        ).format(
+            number_of_timeline_table_rows=len(timeline_table_rows)
+        ))
 
         for publication_year, timeline_table_rows in publication_year_to_timeline_table_rows.items():
-            print(
-                "[![Static Badge](https://img.shields.io/badge/{publication_year:s}-{number_of_timeline_table_rows:d}-{color:s})](#timeline)".format(
-                    publication_year=publication_year,
-                    number_of_timeline_table_rows=len(timeline_table_rows),
-                    color=(
-                        "red" if len(timeline_table_rows) < 10 else
-                        "orange" if 10 <= len(timeline_table_rows) < 20 else
-                        "yellow" if 20 <= len(timeline_table_rows) < 30 else
-                        "green"
-                    )
+            print((
+                "[![Static Badge](https://img.shields.io/badge/"
+                "{publication_year:s}-{number_of_timeline_table_rows:d}-{color:s})](#{publication_year:s})"
+            ).format(
+                publication_year=publication_year,
+                number_of_timeline_table_rows=len(timeline_table_rows),
+                color=(
+                    "red" if len(timeline_table_rows) < 10 else
+                    "orange" if 10 <= len(timeline_table_rows) < 20 else
+                    "yellow" if 20 <= len(timeline_table_rows) < 30 else
+                    "green"
                 )
-            )
+            ))
 
         print("\n\n2. The table containing the ten most recent literature markdown files:\n")
 
-        print(
-            "{timeline_table_header_row:s}\n{timeline_table_rows:s}\n| ... | [See All](/documentation/b_timeline.md) | ... |".format(
+        print((
+            "{timeline_table_header_row:s}\n"
+            "{timeline_table_rows:s}\n"
+            "| ... | [See All](/documentation/b_timeline.md) | ... |"
+        ).format(
                 timeline_table_header_row=timeline_table_header_row,
                 timeline_table_rows="\n".join(timeline_table_rows[0:10])
             )
