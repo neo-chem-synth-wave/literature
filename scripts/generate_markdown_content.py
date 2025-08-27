@@ -119,8 +119,8 @@ if __name__ == "__main__":
                         )
                     )
 
-        timeline_table_rows = sorted(
-            list(chain.from_iterable(publication_year_to_timeline_table_rows.values())),
+        all_timeline_table_rows = sorted(
+            chain.from_iterable(publication_year_to_timeline_table_rows.values()),
             reverse=True
         )
 
@@ -129,7 +129,7 @@ if __name__ == "__main__":
         print((
             "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_table_rows:d}-blue)](#timeline)"
         ).format(
-            number_of_timeline_table_rows=len(timeline_table_rows)
+            number_of_timeline_table_rows=len(all_timeline_table_rows)
         ))
 
         for publication_year, timeline_table_rows in publication_year_to_timeline_table_rows.items():
@@ -155,7 +155,7 @@ if __name__ == "__main__":
             "| ... | [See All](/documentation/b_timeline.md) | ... |"
         ).format(
                 timeline_table_header_row=timeline_table_header_row,
-                timeline_table_rows="\n".join(timeline_table_rows[0:10])
+                timeline_table_rows="\n".join(all_timeline_table_rows[0:10])
             )
         )
 
