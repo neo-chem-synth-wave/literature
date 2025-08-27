@@ -1,20 +1,20 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-255-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-260-blue)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1966-1-red)](#1966)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#1977)
 [![Static Badge](https://img.shields.io/badge/1980-1-red)](#1980)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#1993)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
-[![Static Badge](https://img.shields.io/badge/2008-1-red)](#2008)
+[![Static Badge](https://img.shields.io/badge/2008-2-red)](#2008)
 [![Static Badge](https://img.shields.io/badge/2009-2-red)](#2009)
 [![Static Badge](https://img.shields.io/badge/2010-2-red)](#2010)
-[![Static Badge](https://img.shields.io/badge/2011-1-red)](#2011)
-[![Static Badge](https://img.shields.io/badge/2012-3-red)](#2012)
+[![Static Badge](https://img.shields.io/badge/2011-3-red)](#2011)
+[![Static Badge](https://img.shields.io/badge/2012-4-red)](#2012)
 [![Static Badge](https://img.shields.io/badge/2013-2-red)](#2013)
 [![Static Badge](https://img.shields.io/badge/2014-1-red)](#2014)
 [![Static Badge](https://img.shields.io/badge/2015-4-red)](#2015)
-[![Static Badge](https://img.shields.io/badge/2016-6-red)](#2016)
+[![Static Badge](https://img.shields.io/badge/2016-7-red)](#2016)
 [![Static Badge](https://img.shields.io/badge/2017-10-orange)](#2017)
 [![Static Badge](https://img.shields.io/badge/2018-11-orange)](#2018)
 [![Static Badge](https://img.shields.io/badge/2019-20-yellow)](#2019)
@@ -303,6 +303,7 @@
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|
 |    2016/11/22    | [Schneider, N., Stiefl, N., and Landrum, G.A. What's What: The (Nearly) Definitive Guide to Reaction Role Assignment](../literature/2016/20161122_schneider_n_et_al.md)         |  reaction-role-assignment, fingerprint, data-source, uspto-50k  |
 |    2016/11/11    | [Segler, M.H.S. and Waller, M.P. Modelling Chemical Reasoning to Predict and Invent Reactions](../literature/2016/20161111_segler_m_h_s_and_waller_m_p.md)                      |       single-step-synthesis, template-based, fingerprint        |
+|    2016/10/17    | [Sadowski, P. et al. Synergies Between Quantum Mechanics and Machine Learning in Reaction Prediction](../literature/2016/20161017_sadowski_p_et_al.md)                          |                      single-step-synthesis                      |
 |    2016/10/14    | [Wei, J.N. et al. Neural Networks for the Prediction of Organic Chemistry Reactions](../literature/2016/20161014_wei_j_n_et_al.md)                                              | single-step-synthesis, template-based, fingerprint, data-source |
 |    2016/08/24    | [Kearnes, S. et al. Molecular Graph Convolutions: Moving Beyond Fingerprints](../literature/2016/20160824_kearnes_s_et_al.md)                                                   |                compound-descriptor, fingerprint                 |
 |    2016/07/05    | [O’Boyle, N.M. and Sayle, R.A. Comparing Structural Fingerprints Using a Literature-Based Similarity Benchmark](../literature/2016/20160705_oboyle_n_m_and_sayle_r_a.md)        |           compound-descriptor, fingerprint, analysis            |
@@ -332,16 +333,19 @@
 
 
 ### 2012
-| Publication Date | Publication                                                                                                                                                             |                                                Tags                                                 |
-|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------:|
-|    2012/10/09    | [Lowe, D.M. Extraction of Chemical Structures and Reactions From the Literature](../literature/2012/20121009_lowe_d_m.md)                                               |            reaction-extraction, data-source, reaction, uspto-1976-2013, uspto-1976-2016             |
-|    2012/06/04    | [Christ, C.D. et al. Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration](../literature/2012/20120604_christ_c_d_et_al.md) | reaction-extraction, reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis |
-|    2012/02/16    | [Hartenfeller, M. et al. DOGS: Reaction-Driven De Novo Design of Bioactive Compounds](../literature/2012/20120216_hartenfeller_m_et_al.md)                              |                 compound-generation, data-source, building-block, reaction-pattern                  |
+| Publication Date | Publication                                                                                                                                                                                       |                                                Tags                                                 |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------:|
+|    2012/10/09    | [Lowe, D.M. Extraction of Chemical Structures and Reactions From the Literature](../literature/2012/20121009_lowe_d_m.md)                                                                         |            reaction-extraction, data-source, reaction, uspto-1976-2013, uspto-1976-2016             |
+|    2012/09/16    | [Kayala, M.A. and Baldi, P.F. ReactionPredictor: Prediction of Complex Chemical Reactions at the Mechanistic Level Using Machine Learning](../literature/2012/20120916_kayala_m_a_and_baldi_p.md) |                                        single-step-synthesis                                        |
+|    2012/06/04    | [Christ, C.D. et al. Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration](../literature/2012/20120604_christ_c_d_et_al.md)                           | reaction-extraction, reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis |
+|    2012/02/16    | [Hartenfeller, M. et al. DOGS: Reaction-Driven De Novo Design of Bioactive Compounds](../literature/2012/20120216_hartenfeller_m_et_al.md)                                                        |                 compound-generation, data-source, building-block, reaction-pattern                  |
 
 
 ### 2011
 | Publication Date | Publication                                                                                                                                                      |               Tags                |
 |:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------:|
+|    2011/12/12    | [Kayala, M.A. and Baldi, P.F. A Machine Learning Approach to Predict Chemical Reactions](../literature/2011/20111212_kayala_m_a_and_baldi_p_f.md)                |       single-step-synthesis       |
+|    2011/08/07    | [Kayala, M.A. et al. Learning to Predict Chemical Reactions](../literature/2011/20110807_kayala_m_a_et_al.md)                                                    |       single-step-synthesis       |
 |    2011/08/04    | [Jeliazkova, N. and Kochev, N. AMBIT-SMARTS: Efficient Searching of Chemical Structures and Fragments](../literature/2011/20110804_jelizakova_n_and_kochev_n.md) | reaction-descriptor, ambit-smarts |
 
 
@@ -360,9 +364,10 @@
 
 
 ### 2008
-| Publication Date | Publication                                                                                                                                                   |             Tags              |
-|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------:|
-|    2008/03/07    | [Brenk, R. et al. Lessons Learnt From Assembling Screening Libraries for Drug Discovery for Neglected Diseases](../literature/2008/20080307_brenk_r_et_al.md) | data-source, compound-pattern |
+| Publication Date | Publication                                                                                                                                                                               |             Tags              |
+|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------:|
+|    2008/08/31    | [Chen, J.H. and Baldi, P. No Electron Left Behind: A Rule-Based Expert System to Predict Chemical Reactions and Reaction Mechanisms](../literature/2008/20080831_chen_j_h_and_baldi_p.md) |     single-step-synthesis     |
+|    2008/03/07    | [Brenk, R. et al. Lessons Learnt From Assembling Screening Libraries for Drug Discovery for Neglected Diseases](../literature/2008/20080307_brenk_r_et_al.md)                             | data-source, compound-pattern |
 
 
 ### 1995
