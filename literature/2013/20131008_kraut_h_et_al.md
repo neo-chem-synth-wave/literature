@@ -10,7 +10,7 @@ Kraut, H. et al.
 2013/10/08
 
 **Link:**
-[ACS JCIM](https://pubs.acs.org/doi/full/10.1021/ci400442f)
+[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/full/10.1021/ci400442f)
 
 **Alternative Links:**
 None
