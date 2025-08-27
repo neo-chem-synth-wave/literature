@@ -17,9 +17,9 @@ The purpose of the [scripts](/scripts) directory is to illustrate how to utilize
 The [generate_markdown_content](/scripts/generate_markdown_content.py) script can be utilized as follows:
 
 ```shell
-python scripts/generate_markdown_contents.py \
+python scripts/generate_markdown_content.py \
   --input_directory_path "../literature" \
-  --markdown_contents "timeline"
+  --markdown_content "timeline"
 ```
 
 The [search_literature](/scripts/search_literature.py) script can be utilized as follows:
@@ -34,7 +34,7 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-250-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-255-blue)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1966-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#timeline)
@@ -58,20 +58,20 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2022-33-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2023-32-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2024-33-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2025-30-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-35-green)](#timeline)
 
 | Publication Date | Publication                                                                                                                                                                         |                                   Tags                                   |
 |:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------:|
-|    2025/01/02    | [Zhang, X. et al. A Data-Driven Group Retrosynthesis Planning Model Inspired by Neurosymbolic Programming](/literature/2025/20250102_zhang_x_et_al.md)                              |          single-step-retrosynthesis, multi-step-retrosynthesis           |
+|    2025/01/18    | [Zhao, P. et al. Single-Step Retrosynthesis Prediction via Multitask Graph Representation Learning](/literature/2025/20250118_zhao_p_et_al.md)                                      |                  single-step-retrosynthesis, retro-mtgr                  |
+|    2025/01/29    | [Mastrolorito, F. et al. fragSMILES as a Chemical String Notation for Advanced Fragment and Chirality Representation](/literature/2025/20250129_mastrolorito_f_et_al.md)            |                    compound-description, frag-smiles                     |
 |    2025/01/30    | [Long, L. et al. Artificial Intelligence in Retrosynthesis Prediction and Its Applications in Medicinal Chemistry](/literature/2025/20250130_long_l_et_al.md)                       |                               perspective                                |
+|    2025/01/02    | [Zhang, X. et al. A Data-Driven Group Retrosynthesis Planning Model Inspired by Neurosymbolic Programming](/literature/2025/20250102_zhang_x_et_al.md)                              |          single-step-retrosynthesis, multi-step-retrosynthesis           |
 |    2025/01/31    | [Hartog, P.B.R. et al. Investigations into the Efficiency of Computer-Aided Synthesis Planning](/literature/2025/20250131_hartog_p_b_r_et_al.md)                                    |    single-step-retrosynthesis, multi-step-retrosynthesis, fast-retro     |
 |    2025/02/28    | [Phan, T. et al. SynTemp: Efficient Extraction of Graph-Based Reaction Rules From Large-Scale Reaction Databases](/literature/2025/20250228_phan_t_et_al.md)                        |                  reaction-template-extraction, syn-temp                  |
-|    2025/01/18    | [Zhao, P. et al. Single-Step Retrosynthesis Prediction via Multitask Graph Representation Learning](/literature/2025/20250118_zhao_p_et_al.md)                                      |                  single-step-retrosynthesis, retro-mtgr                  |
 |    2025/03/02    | [Yin, X. et al. Syn-MolOpt: A Synthesis Planning-Driven Molecular Optimization Method Using Data-Derived Functional Reaction Templates](/literature/2025/20250302_yin_x_et_al.md)   | single-step-synthesis, multi-step-synthesis, template-based, syn-mol-opt |
 |    2025/03/12    | [Bradshaw, J. et al. Challenging Reaction Prediction Models to Generalize to Novel Chemistry](/literature/2025/20250312_bradshaw_j_et_al.md)                                        |                   single-step-synthesis, benchmarking                    |
+|    2025/03/02    | [Gao, W. et al. Revealing the Relationship Between Publication Bias and Chemical Reactivity With Contrastive Learning](/literature/2025/20250302_gao_w_et_al.md)                    |                              data-analysis                               |
 |    2025/03/16    | [Kozlov, K.S. et al. Discovering Organic Reactions With a Machine-Learning-Powered Deciphering of Tera-Scale Mass Spectrometry Data](/literature/2025/20250316_kozlov_k_s_et_al.md) |                          data-source, reaction                           |
-|    2025/03/27    | [Amariamir, S. et al. SynCoTrain: A Dual Classifier PU-Learning Framework for Synthesizability Prediction](/literature/2025/20250327_amariamir_s_et_al.md)                          |                      synthesizability, syn-co-train                      |
-|    2025/03/28    | [Keto, A. et al. Improving Reaction Prediction Through Chemically Aware Transfer Learning](/literature/2025/20250328_keto_a_et_al.md)                                               |                  single-step-synthesis, template-based                   |
 |       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                             |                                   ...                                    |
 
 

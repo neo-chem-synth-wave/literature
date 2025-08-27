@@ -3,7 +3,7 @@
 Site-Specific Template Generative Approach for Retrosynthetic Planning
 
 **Authors:**
-Shee, Y., Li, H., Zhang, P., Nikolic, A.M., Lu, W., Kelly, H.R., Manee, V., Sreekumar, S., Buono, F.G., Song, J.J., Newhouse, T.R., and Batista V.S. |
+Shee, Y., Li, H., Zhang, P., Nikolic, A.M., Lu, W., Kelly, H.R., Manee, V., Sreekumar, S., Buono, F.G., Song, J.J., Newhouse, T.R., and Batista, V.S. |
 Shee, Y. et al.
 
 **Publication Date:**
