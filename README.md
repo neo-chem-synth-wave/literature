@@ -34,7 +34,7 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-270-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-280-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1966-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#timeline)
@@ -58,8 +58,8 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2021-31-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2022-34-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2023-32-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2024-34-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2025-37-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2024-40-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-41-blue)](#timeline)
 
 | Publication Date | Publication                                                                                                                                                                                                   |                                       Tags                                        |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
@@ -67,12 +67,12 @@ All scripts are utilizing a base environment.
 |    2025/08/21    | [Genheden, S. and Howell, G.P. Measuring the Efficiency of Synthetic Routes and Transformations Using Vectors Derived From Similarity and Complexity](/literature/2025/20250821_genheden_s_and_howell_g_p.md) |                      multi-step-retrosynthesis, optimization                      |
 |    2025/08/20    | [Joung, J.F. et al. Electron Flow Matching for Generative Reaction Mechanism Prediction](/literature/2025/20250820_joung_j_f_et_al.md)                                                                        |                            reaction-mechanism, flower                             |
 |    2025/08/19    | [Xu, L. et al. A Unified Pre-trained Deep Learning Framework for Cross-Task Reaction Performance Prediction and Synthesis Planning](/literature/2025/20250819_xu_l_et_al.md)                                  |      single-step-retrosynthesis, multi-step-retrosynthesis, rxn-graphformer       |
+|    2025/08/19    | [Sagawa, T. and Kojima, R. ReactionT5: A Pre-trained Transformer Model for Accurate Chemical Reaction Prediction With Limited Data](/literature/2025/20250819_sagawa_t_and_kojima_r.md)                       |  single-step-synthesis, single-step-retrosynthesis, reaction-yield, reaction-t5   |
+|    2025/08/14    | [Xue, X. et al. Bidirectional Chemical Intelligent Net: A Unified Deep Learning–Based Framework for Predicting Chemical Reaction](/literature/2025/20250814_xue_x_et_al.md)                                   |    single-step-synthesis, single-step-retrosynthesis, template-free, bici-net     |
 |    2025/08/11    | [Armstrong, D. et al. Tango*: Constrained Synthesis Planning Using Chemically Informed Value Functions](/literature/2025/20250811_armstrong_d_et_al.md)                                                       |                 multi-step-retrosynthesis, template-free, tango*                  |
 |    2025/08/08    | [Cong, S. et al. Graph-Sequence Enhanced Transformer for Template-Free Prediction of Natural Product Biosynthesis](/literature/2025/20250808_ceng_s_et_al.md)                                                 |               single-step-retrosynthesis, template-free, gset-retro               |
+|    2025/08/05    | [Zhu, L. et al. M2Echem: A Multilevel Dual Encoder-Based Model for Predicting Organic Chemistry Reactions](/literature/2025/20250805_zhu_l_et_al.md)                                                          |                  single-step-synthesis, template-free, m2e-chem                   |
 |    2025/07/31    | [Deng, Y. et al. RSGPT: A Generative Transformer Model for Retrosynthesis Planning Pre-trained on Ten Billion Datapoints](/literature/2025/20250731_deng_y_et_al.md)                                          | single-step-retrosynthesis, multi-step-retrosynthesis, semi-template-based, rsgpt |
-|    2025/07/29    | [Wieczorek, E. et al. Transfer Learning for Heterocycle Retrosynthesis](/literature/2025/20250729_wieczorek_e_et_al.md)                                                                                       |                            single-step-retrosynthesis                             |
-|    2025/07/29    | [Hu, X. et al. log-RRIM: Yield Prediction via Local-to-Global Reaction Representation Learning and Interaction Modeling](/literature/2025/20250729_hu_x_et_al.md)                                             |                        reaction-yield-prediction, log-rrim                        |
-|    2025/07/29    | [Current, S. et al. DiffER: Categorical Diffusion Ensembles for Single-Step Chemical Retrosynthesis](/literature/2025/20250729_current_s_et_al.md)                                                            |                   single-step-retrosynthesis, diffusion, differ                   |
 |       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                       |                                        ...                                        |
 
 

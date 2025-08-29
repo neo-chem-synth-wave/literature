@@ -127,7 +127,7 @@ if __name__ == "__main__":
         print("1. The timeline summary static badges:\n")
 
         print((
-            "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_table_rows:d}-blue)](#timeline)"
+            "[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_table_rows:d}-white)](#timeline)"
         ).format(
             number_of_timeline_table_rows=len(all_timeline_table_rows)
         ))
@@ -143,7 +143,8 @@ if __name__ == "__main__":
                     "red" if len(timeline_table_rows) < 10 else
                     "orange" if 10 <= len(timeline_table_rows) < 20 else
                     "yellow" if 20 <= len(timeline_table_rows) < 30 else
-                    "green"
+                    "green" if 30 <= len(timeline_table_rows) < 40 else
+                    "blue"
                 )
             ))
 
