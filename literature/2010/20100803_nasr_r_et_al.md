@@ -13,7 +13,7 @@ Nasr, R. et al.
 [ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/ci100132g)
 
 **Alternative Links:**
-[PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2926297/)
+[PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2926297)
 
 **Starred:**
 False

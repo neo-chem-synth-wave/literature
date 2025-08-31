@@ -1,20 +1,22 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-280-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-290-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1966-1-red)](#1966)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#1977)
 [![Static Badge](https://img.shields.io/badge/1980-1-red)](#1980)
+[![Static Badge](https://img.shields.io/badge/1989-1-red)](#1989)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#1993)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
-[![Static Badge](https://img.shields.io/badge/2007-2-red)](#2007)
+[![Static Badge](https://img.shields.io/badge/2005-1-red)](#2005)
+[![Static Badge](https://img.shields.io/badge/2007-3-red)](#2007)
 [![Static Badge](https://img.shields.io/badge/2008-2-red)](#2008)
 [![Static Badge](https://img.shields.io/badge/2009-2-red)](#2009)
-[![Static Badge](https://img.shields.io/badge/2010-3-red)](#2010)
-[![Static Badge](https://img.shields.io/badge/2011-3-red)](#2011)
+[![Static Badge](https://img.shields.io/badge/2010-6-red)](#2010)
+[![Static Badge](https://img.shields.io/badge/2011-4-red)](#2011)
 [![Static Badge](https://img.shields.io/badge/2012-4-red)](#2012)
-[![Static Badge](https://img.shields.io/badge/2013-3-red)](#2013)
-[![Static Badge](https://img.shields.io/badge/2014-1-red)](#2014)
-[![Static Badge](https://img.shields.io/badge/2015-4-red)](#2015)
+[![Static Badge](https://img.shields.io/badge/2013-4-red)](#2013)
+[![Static Badge](https://img.shields.io/badge/2014-2-red)](#2014)
+[![Static Badge](https://img.shields.io/badge/2015-5-red)](#2015)
 [![Static Badge](https://img.shields.io/badge/2016-7-red)](#2016)
 [![Static Badge](https://img.shields.io/badge/2017-11-orange)](#2017)
 [![Static Badge](https://img.shields.io/badge/2018-11-orange)](#2018)
@@ -334,20 +336,23 @@
 |    2015/11/17    | [Wicker, J. et al. enviPath - The Environmental Contaminant Biotransformation Pathway Resource](../literature/2015/20151117_wicker_j_et_al.md)                                              | single-step-retrosynthesis, multi-step-retrosynthesis, envi-path |
 |    2015/10/19    | [Sterling, T. and Irwin, J.J. ZINC 15 - Ligand Discovery for Everyone](../literature/2015/20151019_sterling_t_and_irwin_j_j.md)                                                             |                       data-source, zinc-15                       |
 |    2015/10/06    | [Schneider, N. et al. Get Your Atoms in Order - An Open-Source Implementation of a Novel and Robust Molecular Canonicalization Algorithm](../literature/2015/20151006_schneider_n_et_al.md) |                 compound-canonicalization, rdkit                 |
+|    2015/01/14    | [Marcou, G. et al. Expert System for Predicting Reaction Conditions: The Michael Reaction Case](../literature/2015/20150114_marcou_g_et_al.md)                                              |                        reaction-condition                        |
 
 
 ### 2014
 | Publication Date | Publication                                                                                                                                                                                                  |                                       Tags                                        |
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |    2014/12/26    | [Schneider, N. et al. Development of a Novel Fingerprint for Chemical Reactions and Its Application to Large-Scale Reaction Classification and Similarity](../literature/2014/20141226_schneider_n_et_al.md) | reaction-descriptor, reaction-classification, fingerprint, data-source, uspto-50k |
+|    2014/11/24    | [Fukunishi, Y. et al. Prediction of Synthetic Accessibility Based on Commercially Available Compound Databases](../literature/2014/20141124_fukunishi_y_et_al.md)                                            |                     synthesizability, synthetic-accessibility                     |
 
 
 ### 2013
-| Publication Date | Publication                                                                                                                                  |                 Tags                 |
-|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------:|
-|    2013/10/25    | [Fooshee, D. et al. ReactionMap: An Efficient Atom-Mapping Algorithm for Chemical Reactions](../literature/2013/20131025_fooshee_d_et_al.md) |  atom-to-atom-mapping, reaction-map  |
-|    2013/10/08    | [Kraut, H. et al. Algorithm for Reaction Classification](../literature/2013/20131008_kraut_h_et_al.md)                                       | reaction-classification, data-source |
-|    2013/03/25    | [Carbonell, P. et al. Stereo Signature Molecular Descriptor](../literature/2013/20130325_carbonell_p_et_al.md)                               |      compound-descriptor, graph      |
+| Publication Date | Publication                                                                                                                                                                                                        |                 Tags                 |
+|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------:|
+|    2013/10/25    | [Fooshee, D. et al. ReactionMap: An Efficient Atom-Mapping Algorithm for Chemical Reactions](../literature/2013/20131025_fooshee_d_et_al.md)                                                                       |  atom-to-atom-mapping, reaction-map  |
+|    2013/10/08    | [Kraut, H. et al. Algorithm for Reaction Classification](../literature/2013/20131008_kraut_h_et_al.md)                                                                                                             | reaction-classification, data-source |
+|    2013/04/29    | [Evers, A. et al. CROSS: An Efficient Workflow for Reaction-Driven Rescaffolding and Side-Chain Optimization Using Robust Chemical Reactions and Available Reagents](../literature/2013/20130429_evers_a_et_al.md) |               reaction               |
+|    2013/03/25    | [Carbonell, P. et al. Stereo Signature Molecular Descriptor](../literature/2013/20130325_carbonell_p_et_al.md)                                                                                                     |      compound-descriptor, graph      |
 
 
 ### 2012
@@ -365,14 +370,18 @@
 |    2011/12/12    | [Kayala, M.A. and Baldi, P.F. A Machine Learning Approach to Predict Chemical Reactions](../literature/2011/20111212_kayala_m_a_and_baldi_p_f.md)                |       single-step-synthesis       |
 |    2011/08/07    | [Kayala, M.A. et al. Learning to Predict Chemical Reactions](../literature/2011/20110807_kayala_m_a_et_al.md)                                                    |       single-step-synthesis       |
 |    2011/08/04    | [Jeliazkova, N. and Kochev, N. AMBIT-SMARTS: Efficient Searching of Chemical Structures and Fragments](../literature/2011/20110804_jelizakova_n_and_kochev_n.md) | reaction-descriptor, ambit-smarts |
+|    2011/05/11    | [Cook, A. et al. Computer-Aided Synthesis Design: 40 Years On](../literature/2011/20110511_cook_a_et_al.md)                                                      |              review               |
 
 
 ### 2010
 | Publication Date | Publication                                                                                                                                                                                                                                |                  Tags                  |
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------:|
+|    2010/08/03    | [Nowak, G. and Fic, G. Search for Complexity Generating Chemical Transformations by Combining Connectivity Analysis and Cascade Transformation Patterns](../literature/2010/20100803_nowak_g_and_fic_g.md)                                 |           reaction-template            |
 |    2010/08/03    | [Nasr, R. et al. Hashing Algorithms and Data Structures for Rapid Searches of Fingerprint Vectors](../literature/2010/20100803_nasr_r_et_al.md)                                                                                            |    compound-descriptor, fingerprint    |
+|    2010/06/10    | [Podolyan, Y. et al. Assessing Synthetic Accessibility of Chemical Compounds Using Machine Learning Methods](../literature/2010/20100610_podolyan_y_et_al.md)                                                                              |            synthesizability            |
 |    2010/04/28    | [Rogers, D. and Hahn, M. Extended-Connectivity Fingerprints](../literature/2010/20100428_rogers_d_and_hahn_m.md)                                                                                                                           | compound-descriptor, fingerprint, ecfp |
 |    2010/02/04    | [Baell, J.B. and Holloway, G.A. New Substructure Filters for Removal of Pan Assay Interference Compounds (PAINS) From Screening Libraries and for Their Exclusion in Bioassays](../literature/2010/20100204_baell_j_b_and_holloway_g_a.md) |  data-source, compound-pattern, pains  |
+|    2010/01/29    | [Pennerath, F. et al. Graph-Mining Algorithm for the Evaluation of Bond Formability](../literature/2010/20100129_pennerath_f_et_al.md)                                                                                                     |            reaction, graph             |
 
 
 ### 2009
@@ -394,6 +403,13 @@
 |:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------:|
 |    2007/10/30    | [Baldi, P. et al. Lossless Compression of Chemical Fingerprints Using Integer Entropy Codes Improves Storage and Retrieval](../literature/2007/20071030_baldi_p_et_al.md)                     | compound-descriptor, fingerprint |
 |    2007/02/28    | [Swamidass, S.J. and Baldi, P. Bounds and Algorithms for Fast Exact Searches of Chemical Fingerprints in Linear and Sublinear Time](../literature/2007/20070228_swamidass_s_j_and_baldi_p.md) | compound-descriptor, fingerprint |
+|    2007/01/25    | [Gasteiger, J. Modeling Chemical Reactions for Drug Design](../literature/2007/20070125_gasteiger_j.md)                                                                                       |         synthesizability         |
+
+
+### 2005
+| Publication Date | Publication                                                                            |  Tags  |
+|:----------------:|----------------------------------------------------------------------------------------|:------:|
+|    2005/02/08    | [Todd, M.H. Computer-Aided Organic Synthesis](../literature/2005/20050208_todd_m_h.md) | review |
 
 
 ### 1995
@@ -406,6 +422,12 @@
 | Publication Date | Publication                                                                                                                                                                                                 |      Tags       |
 |:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
 |    1993/02/01    | [Ugi, I. et al. Computer-assisted Solution of Chemical Problems - The Historical Development and the Present State of the Art of a New Discipline of Chemistry](../literature/1993/19930201_ugi_i_et_al.md) | history, review |
+
+
+### 1989
+| Publication Date | Publication                                                                                                                         |                    Tags                     |
+|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------:|
+|    1989/12/18    | [Gasteiger, J. et al. Computer-Assisted Reaction Prediction and Synthesis Design](../literature/1989/19891218_gasteiger_j_et_al.md) | single-step-synthesis, multi-step-synthesis |
 
 
 ### 1980

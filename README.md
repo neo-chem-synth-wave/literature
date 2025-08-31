@@ -34,22 +34,24 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-280-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-290-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1966-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1980-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1989-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2007-2-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2005-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2007-3-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2008-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2009-2-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2010-3-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2011-3-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2010-6-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2011-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2012-4-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2013-3-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2014-1-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2015-4-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2013-4-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2014-2-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2015-5-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2016-7-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2017-11-orange)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2018-11-orange)](#timeline)
@@ -73,7 +75,7 @@ All scripts are utilizing a base environment.
 |    2025/08/08    | [Cong, S. et al. Graph-Sequence Enhanced Transformer for Template-Free Prediction of Natural Product Biosynthesis](/literature/2025/20250808_ceng_s_et_al.md)                                                 |               single-step-retrosynthesis, template-free, gset-retro               |
 |    2025/08/05    | [Zhu, L. et al. M2Echem: A Multilevel Dual Encoder-Based Model for Predicting Organic Chemistry Reactions](/literature/2025/20250805_zhu_l_et_al.md)                                                          |                  single-step-synthesis, template-free, m2e-chem                   |
 |    2025/07/31    | [Deng, Y. et al. RSGPT: A Generative Transformer Model for Retrosynthesis Planning Pre-trained on Ten Billion Datapoints](/literature/2025/20250731_deng_y_et_al.md)                                          | single-step-retrosynthesis, multi-step-retrosynthesis, semi-template-based, rsgpt |
-|       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                       |                                        ...                                        |
+|       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                       |                                        ...                                        |     ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                       |                                        ...                                        |
 
 
 ## License Information
