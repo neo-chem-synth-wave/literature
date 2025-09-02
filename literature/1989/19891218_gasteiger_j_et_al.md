@@ -15,11 +15,8 @@ Gasteiger, J. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-single-step-synthesis, multi-step-synthesis
+history, eros
 
 
 # Abstract
@@ -33,7 +30,7 @@ Recent work on synthesis design for aromatic compounds is highlighted and new de
 
 # Citation
 ```
-@article {gasteiger1990a,
+@article {19891218_gasteiger_j_et_al,
   author       = { J. Gasteiger and W.D. Ihlenfeldt and P. Röse and R. Wanke },
   title        = { Computer-assisted reaction prediction and synthesis design },
   journal      = { Analytica Chimica Acta },
@@ -41,7 +38,7 @@ Recent work on synthesis design for aromatic compounds is highlighted and new de
   pages        = { 65-75 },
   volume       = { 235 },
   issn         = { 0003-2670 },
-  doi          = { https://doi.org/10.1016/S0003-2670(00)82062-0 },
+  doi          = { 10.1016/S0003-2670(00)82062-0 },
   url          = { https://www.sciencedirect.com/science/article/pii/S0003267000820620 }
 }
 ```

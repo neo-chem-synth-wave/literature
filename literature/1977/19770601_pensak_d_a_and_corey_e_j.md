@@ -12,10 +12,7 @@ Pensak, D.A. and Corey, E.J.
 [ACS Symposium Series](https://pubs.acs.org/doi/abs/10.1021/bk-1977-0061.ch001)
 
 **Alternative Links:**
-[Academia](https://www.academia.edu/50313328/LHASA_logic_and_heuristics_applied_to_synthetic_analysis)
-
-**Starred:**
-False
+None
 
 **Tags:**
 history, lhasa
@@ -31,7 +28,7 @@ The basic structure of the program and the chemistry it employs are discussed gi
 
 # Citation
 ```
-@inbook {pensak1977a,
+@inbook {19770601_pensak_d_a_and_corey_e_j,
   author       = { David A. Pensak and E.J. Corey },
   title        = { LHASA—Logic and Heuristics Applied to Synthetic Analysis },
   chapter      = { 1 },

@@ -9,13 +9,10 @@ Corey, E.J. and Wipke, W.T.
 1969/10/10
 
 **Link:**
-[Science](https://www.science.org/doi/10.1126/science.166.3902.178)
+[AAAS Science](https://www.science.org/doi/10.1126/science.166.3902.178)
 
 **Alternative Links:**
-[JSTOR](https://www.jstor.org/stable/1727162)
-
-**Starred:**
-False
+None
 
 **Tags:**
 history
@@ -27,8 +24,8 @@ Pathways for molecular synthesis can be devised with a computer and equipment fo
 
 # Citation
 ```
-@article {corey1969a,
-  author       = { E.J. Corey and W. Todd Wipke },
+@article {19691010_corey_e_j_and_wipke_w_t,
+  author       = { E. J. Corey and W. Todd Wipke },
   title        = { Computer-Assisted Design of Complex Organic Syntheses },
   journal      = { Science },
   year         = { 1969 },

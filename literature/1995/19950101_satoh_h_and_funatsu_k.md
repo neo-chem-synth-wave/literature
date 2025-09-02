@@ -3,7 +3,7 @@
 SOPHIA, a Knowledge Base-Guided Reaction Prediction System - Utilization of a Knowledge Base Derived From a Reaction Database
 
 **Authors:**
-Satoh, K. and Funatsu, K.
+Satoh, H. and Funatsu, K.
 
 **Publication Date:**
 1995/01/01
@@ -13,9 +13,6 @@ Satoh, K. and Funatsu, K.
 
 **Alternative Links:**
 None
-
-**Starred:**
-False
 
 **Tags:**
 history, sophia
@@ -30,7 +27,7 @@ This paper describes the philosophy of SOPHIA and the current level of developme
 
 # Citation
 ```
-@article {satoh1995a,
+@article {19950101_satoh_h_and_funatsu_k,
   author       = { Hiroko Satoh and Kimito Funatsu },
   title        = { SOPHIA, a Knowledge Base-Guided Reaction Prediction System - Utilization of a Knowledge Base Derived from a Reaction Database },
   journal      = { Journal of Chemical Information and Computer Sciences },

@@ -12,10 +12,7 @@ Salatin, T.D. and Jorgensen, W.L.
 [ACS The Journal of Organic Chemistry](https://pubs.acs.org/doi/abs/10.1021/jo01299a001)
 
 **Alternative Links:**
-[Purdue University](https://docs.lib.purdue.edu/dissertations/AAI8113748)
-
-**Starred:**
-False
+None
 
 **Tags:**
 history, cameo
@@ -31,7 +28,7 @@ With these rules, a knowledge of electron pushing, and much automatically percei
 
 # Citation
 ```
-@article {salatin1980a,
+@article {19800501_salatin_t_d_and_jorgensen_w_l,
   author       = { Timothy D. Salatin and William L. Jorgensen },
   title        = { Computer-assisted mechanistic evaluation of organic reactions. 1. Overview },
   journal      = { The Journal of Organic Chemistry },
