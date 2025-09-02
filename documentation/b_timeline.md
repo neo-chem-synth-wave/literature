@@ -1,14 +1,21 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-290-white)](#timeline)
-[![Static Badge](https://img.shields.io/badge/1966-1-red)](#1966)
+[![Static Badge](https://img.shields.io/badge/total-305-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
+[![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
+[![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
+[![Static Badge](https://img.shields.io/badge/1975-1-red)](#1975)
+[![Static Badge](https://img.shields.io/badge/1976-3-red)](#1976)
 [![Static Badge](https://img.shields.io/badge/1977-1-red)](#1977)
-[![Static Badge](https://img.shields.io/badge/1980-1-red)](#1980)
+[![Static Badge](https://img.shields.io/badge/1978-1-red)](#1978)
+[![Static Badge](https://img.shields.io/badge/1980-5-red)](#1980)
+[![Static Badge](https://img.shields.io/badge/1981-1-red)](#1981)
+[![Static Badge](https://img.shields.io/badge/1985-2-red)](#1985)
+[![Static Badge](https://img.shields.io/badge/1988-1-red)](#1988)
 [![Static Badge](https://img.shields.io/badge/1989-1-red)](#1989)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#1993)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
 [![Static Badge](https://img.shields.io/badge/2005-1-red)](#2005)
-[![Static Badge](https://img.shields.io/badge/2007-3-red)](#2007)
+[![Static Badge](https://img.shields.io/badge/2007-1-red)](#2007)
 [![Static Badge](https://img.shields.io/badge/2008-2-red)](#2008)
 [![Static Badge](https://img.shields.io/badge/2009-2-red)](#2009)
 [![Static Badge](https://img.shields.io/badge/2010-6-red)](#2010)
@@ -399,11 +406,9 @@
 
 
 ### 2007
-| Publication Date | Publication                                                                                                                                                                                   |               Tags               |
-|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------:|
-|    2007/10/30    | [Baldi, P. et al. Lossless Compression of Chemical Fingerprints Using Integer Entropy Codes Improves Storage and Retrieval](../literature/2007/20071030_baldi_p_et_al.md)                     | compound-descriptor, fingerprint |
-|    2007/02/28    | [Swamidass, S.J. and Baldi, P. Bounds and Algorithms for Fast Exact Searches of Chemical Fingerprints in Linear and Sublinear Time](../literature/2007/20070228_swamidass_s_j_and_baldi_p.md) | compound-descriptor, fingerprint |
-|    2007/01/25    | [Gasteiger, J. Modeling Chemical Reactions for Drug Design](../literature/2007/20070125_gasteiger_j.md)                                                                                       |         synthesizability         |
+| Publication Date | Publication                                                                                             |       Tags       |
+|:----------------:|---------------------------------------------------------------------------------------------------------|:----------------:|
+|    2007/01/25    | [Gasteiger, J. Modeling Chemical Reactions for Drug Design](../literature/2007/20070125_gasteiger_j.md) | synthesizability |
 
 
 ### 2005
@@ -415,7 +420,7 @@
 ### 1995
 | Publication Date | Publication                                                                                                                                                                                                     |      Tags       |
 |:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
-|    1995/01/01    | [Satoh, K. and Funatsu, K. SOPHIA, a Knowledge Base-Guided Reaction Prediction System - Utilization of a Knowledge Base Derived From a Reaction Database](../literature/1995/19950101_satoh_h_and_funatsu_k.md) | history, sophia |
+|    1995/01/01    | [Satoh, H. and Funatsu, K. SOPHIA, a Knowledge Base-Guided Reaction Prediction System - Utilization of a Knowledge Base Derived From a Reaction Database](../literature/1995/19950101_satoh_h_and_funatsu_k.md) | history, sophia |
 
 
 ### 1993
@@ -425,15 +430,44 @@
 
 
 ### 1989
-| Publication Date | Publication                                                                                                                         |                    Tags                     |
-|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------:|
-|    1989/12/18    | [Gasteiger, J. et al. Computer-Assisted Reaction Prediction and Synthesis Design](../literature/1989/19891218_gasteiger_j_et_al.md) | single-step-synthesis, multi-step-synthesis |
+| Publication Date | Publication                                                                                                                         |     Tags      |
+|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
+|    1989/12/18    | [Gasteiger, J. et al. Computer-Assisted Reaction Prediction and Synthesis Design](../literature/1989/19891218_gasteiger_j_et_al.md) | history, eros |
+
+
+### 1988
+| Publication Date | Publication                                                                                                                                                             |      Tags       |
+|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
+|    1988/05/22    | [Funatsu, K. and Sasaki, S. Computer-Assisted Organic Synthesis Design and Reaction Prediction System, "AIPHOS"](../literature/1988/19880522_funatsu_k_and_sasaki_s.md) | history, aiphos |
+
+
+### 1985
+| Publication Date | Publication                                                                                                                                                                |  Tags   |
+|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
+|    1985/05/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Selection of Protective Groups for Multistep Organic Syntheses.](../literature/1985/19850501_corey_e_j_et_al.md) | history |
+|    1985/04/26    | [Corey, E.J. et al. Computer-Assisted Analysis in Organic Synthesis](../literature/1985/19850426_corey_e_j_et_al.md)                                                       | history |
+
+
+### 1981
+| Publication Date | Publication                                                                                                                                                                                                               |      Tags      |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1981/05/01    | [Roos-Kozel, B.L. and Jorgensen, W.L. Computer-Assisted Mechanistic Evaluation of Organic Reactions. 2. Perception of Rings, Aromaticity, and Tautomers](../literature/1981/19810501_roos_kozel_b_l_and_jorgensen_w_l.md) | history, cameo |
 
 
 ### 1980
-| Publication Date | Publication                                                                                                                                                                  |      Tags      |
-|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
-|    1980/05/01    | [Salatin, T.D. and Jorgensen, W.L. Computer-Assisted Mechanistic Evaluation of Organic Reactions. 1. Overview](../literature/1980/19800501_salatin_t_d_and_jorgensen_w_l.md) | history, cameo |
+| Publication Date | Publication                                                                                                                                                                                                                                                                                                                  |      Tags      |
+|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1980/11/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Long-Range Search Procedures for Antithetic Simplification of Complex Targets by Application of the Halolactonization Transform](../literature/1980/19801101_corey_e_j_et_al.md)                                                                                   | history, lhasa |
+|    1980/05/01    | [Salatin, T.D. and Jorgensen, W.L. Computer-Assisted Mechanistic Evaluation of Organic Reactions. 1. Overview](../literature/1980/19800501_salatin_t_d_and_jorgensen_w_l.md)                                                                                                                                                 | history, cameo |
+|    1980/05/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Techniques for Efficient Long-Range Retrosynthetic Searches Applied to the Robinson Annulation Process](../literature/1980/19800501_corey_e_j_et_al.md)                                                                                                            | history, lhasa |
+|    1980/02/01    | [Corey, E.J. and Feiner, N.F. Computer-Assisted Synthetic Analysis. A Rapid Computer Method for the Semiquantitative Assignment of Conformation of Six-Membered Ring Systems. 2. Assessment of Conformational Energies](../literature/1980/19800201_b_corey_e_j_and_feiner_n_f.md)                                           |    history     |
+|    1980/02/01    | [Corey, E.J. and Feiner, N.F. Computer-Assisted Synthetic Analysis. A Rapid Computer Method for the Semiquantitative Assignment of Conformation of Six-Membered Ring Systems. 1. Derivation of a Preliminary Conformational Description of the Six-Membered Ring](../literature/1980/19800201_a_corey_e_j_and_feiner_n_f.md) |    history     |
+
+
+### 1978
+| Publication Date | Publication                                                                                                                                                                                         |      Tags      |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1978/05/01    | [Corey, E.J. and Long, A.K. Computer-Assisted Synthetic Analysis. Performance of Long-Range Strategies for Stereoselective Olefin Synthesis](../literature/1978/19780501_corey_e_j_and_long_a_k.md) | history, lhasa |
 
 
 ### 1977
@@ -442,13 +476,36 @@
 |    1977/06/01    | [Pensak, D.A. and Corey, E.J. LHASA - Logic and Heuristics Applied to Synthetic Analysis](../literature/1977/19770601_pensak_d_a_and_corey_e_j.md) | history, lhasa |
 
 
+### 1976
+| Publication Date | Publication                                                                                                                                                                                                                |      Tags      |
+|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1976/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. The Identification and Protection of Interfering Functionality in Machine-Generated Synthetic Intermediates](../literature/1976/19760101_c_corey_e_j_et_al.md)   | history. lhasa |
+|    1976/01/01    | [Corey, E.J. and Jorgensen, W.L. Computer-Assisted Synthetic Analysis. Synthetic Strategies Based on Appendages and the Use of Reconnective Transforms](../literature/1976/19760101_a_corey_e_j_and_jorgensen_w_l.md)      | history, lhasa |
+|    1976/01/01    | [Corey, E.J. and Jorgensen, W.L. Computer-Assisted Synthetic Analysis. Generation of Synthetic Sequences Involving Sequential Functional Group Interchanges](../literature/1976/19760101_b_corey_e_j_and_jorgensen_w_l.md) | history. lhasa |
+
+
+### 1975
+| Publication Date | Publication                                                                                                                                                                 |      Tags      |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1975/10/01    | [Corey, E.J. et al. General Methods of Synthetic Analysis. Strategic Bond Disconnections for Bridged Polycyclic Structures](../literature/1975/19751001_corey_e_j_et_al.md) | history, lhasa |
+
+
+### 1974
+| Publication Date | Publication                                                                                                                                                                                         |      Tags      |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1974/12/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Methods for Machine Generation of Synthetic Intermediates Involving Multistep Look-Ahead](../literature/1974/19741201_corey_e_j_et_al.md) | history, lhasa |
+
+
+### 1972
+| Publication Date | Publication                                                                                                                                                                                                 |  Tags   |
+|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
+|    1972/01/01    | [Corey, E.J. et al. Techniques for Perception by a Computer of Synthetically Significant Structural Features in Complex Molecules](../literature/1972/19720101_b_corey_e_j_et_al.md)                        | history |
+|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Facile Man-Machine Communication of Chemical Structure by Interactive Computer Graphics](../literature/1972/19720101_a_corey_e_j_et_al.md)        | history |
+|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis for Complex Molecules. Methods and Procedures for Machine Generation of Synthetic Intermediates](../literature/1972/19720101_c_corey_e_j_et_al.md) | history |
+|    1972/01/01    | [Corey, E.J. and Perersson, G.A. Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures](../literature/1972/19720101_d_corey_e_j_and_perersson_g_a.md)    | history |
+
+
 ### 1969
 | Publication Date | Publication                                                                                                                                 |  Tags   |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
 |    1969/10/10    | [Corey, E.J. and Wipke, W.T. Computer-Assisted Design of Complex Organic Syntheses](../literature/1969/19691010_corey_e_j_and_wipke_w_t.md) | history |
-
-
-### 1966
-| Publication Date | Publication                                                                                                       |  Tags   |
-|:----------------:|-------------------------------------------------------------------------------------------------------------------|:-------:|
-|    1966/06/26    | [Corey, E.J. General Methods for the Construction of Complex Molecules](../literature/1966/19660626_corey_e_j.md) | history |
