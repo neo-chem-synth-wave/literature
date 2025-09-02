@@ -47,7 +47,7 @@ The relevant literature sources are as follows:
   - [Oxford Academic](https://academic.oup.com/journals/search-results)
   - [Public Library of Science (PLOS)](https://journals.plos.org/plosone/search)
   - [Royal Society of Chemistry (RSC)](https://pubs.rsc.org/en/search/advancedsearch)
-  - [Science](https://science.org/search/advanced)
+  - [American Association for the Advancement of Science (AAAS) Science](https://science.org/search/advanced)
   - [Springer](https://link.springer.com/advanced-search)
   - [Thieme](https://thieme-connect.com/products/all/search)
   - [Wiley](https://onlinelibrary.wiley.com/search/advanced)
