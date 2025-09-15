@@ -34,21 +34,23 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-305-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-320-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1975-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1976-3-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/1977-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1977-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1978-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1980-5-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1981-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1985-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1988-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1989-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1990-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1999-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2005-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2007-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2008-2-red)](#timeline)
@@ -57,32 +59,32 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2011-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2012-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2013-4-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2014-2-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2015-5-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2016-7-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2017-11-orange)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2014-3-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2015-6-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2016-8-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2017-12-orange)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2018-11-orange)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2019-20-yellow)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2020-23-yellow)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2021-31-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2022-34-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2023-32-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2024-40-blue)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2025-41-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2024-41-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-46-blue)](#timeline)
 
-| Publication Date | Publication                                                                                                                                                                                                   |                                       Tags                                        |
-|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
-|    2025/08/26    | [Mastrolorito, F. et al. Enhancing Deep Chemical Reaction Prediction With Advanced Chirality and Fragment Representation](/literature/2025/20250826_mastrolorito_f_et_al.md)                                  |                   single-step-synthesis, frag-smiles4reactions                    |
-|    2025/08/21    | [Genheden, S. and Howell, G.P. Measuring the Efficiency of Synthetic Routes and Transformations Using Vectors Derived From Similarity and Complexity](/literature/2025/20250821_genheden_s_and_howell_g_p.md) |                      multi-step-retrosynthesis, optimization                      |
-|    2025/08/20    | [Joung, J.F. et al. Electron Flow Matching for Generative Reaction Mechanism Prediction](/literature/2025/20250820_joung_j_f_et_al.md)                                                                        |                            reaction-mechanism, flower                             |
-|    2025/08/19    | [Xu, L. et al. A Unified Pre-trained Deep Learning Framework for Cross-Task Reaction Performance Prediction and Synthesis Planning](/literature/2025/20250819_xu_l_et_al.md)                                  |      single-step-retrosynthesis, multi-step-retrosynthesis, rxn-graphformer       |
-|    2025/08/19    | [Sagawa, T. and Kojima, R. ReactionT5: A Pre-trained Transformer Model for Accurate Chemical Reaction Prediction With Limited Data](/literature/2025/20250819_sagawa_t_and_kojima_r.md)                       |  single-step-synthesis, single-step-retrosynthesis, reaction-yield, reaction-t5   |
-|    2025/08/14    | [Xue, X. et al. Bidirectional Chemical Intelligent Net: A Unified Deep Learning–Based Framework for Predicting Chemical Reaction](/literature/2025/20250814_xue_x_et_al.md)                                   |    single-step-synthesis, single-step-retrosynthesis, template-free, bici-net     |
-|    2025/08/11    | [Armstrong, D. et al. Tango*: Constrained Synthesis Planning Using Chemically Informed Value Functions](/literature/2025/20250811_armstrong_d_et_al.md)                                                       |                 multi-step-retrosynthesis, template-free, tango*                  |
-|    2025/08/08    | [Cong, S. et al. Graph-Sequence Enhanced Transformer for Template-Free Prediction of Natural Product Biosynthesis](/literature/2025/20250808_ceng_s_et_al.md)                                                 |               single-step-retrosynthesis, template-free, gset-retro               |
-|    2025/08/05    | [Zhu, L. et al. M2Echem: A Multilevel Dual Encoder-Based Model for Predicting Organic Chemistry Reactions](/literature/2025/20250805_zhu_l_et_al.md)                                                          |                  single-step-synthesis, template-free, m2e-chem                   |
-|    2025/07/31    | [Deng, Y. et al. RSGPT: A Generative Transformer Model for Retrosynthesis Planning Pre-trained on Ten Billion Datapoints](/literature/2025/20250731_deng_y_et_al.md)                                          | single-step-retrosynthesis, multi-step-retrosynthesis, semi-template-based, rsgpt |
-|       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                       |                                        ...                                        |
+| Publication Date | Publication                                                                                                                                                                                                     |                                      Tags                                      |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------:|
+|    2025/08/28    | [Choe, J. et al. Retrosynthetic Crosstalk Between Single-Step Reaction and Multi-step Planning](../literature/2025/20250828_choe_j_et_al.md)                                                                    |                  single-step-synthesis, multi-step-synthesis                   |
+|    2025/08/26    | [Mastrolorito, F. et al. Enhancing Deep Chemical Reaction Prediction With Advanced Chirality and Fragment Representation](../literature/2025/20250826_mastrolorito_f_et_al.md)                                  |                  single-step-synthesis, frag-smiles4reactions                  |
+|    2025/08/21    | [Genheden, S. and Howell, G.P. Measuring the Efficiency of Synthetic Routes and Transformations Using Vectors Derived From Similarity and Complexity](../literature/2025/20250821_genheden_s_and_howell_g_p.md) |                    multi-step-retrosynthesis, optimization                     |
+|    2025/08/20    | [Joung, J.F. et al. Electron Flow Matching for Generative Reaction Mechanism Prediction](../literature/2025/20250820_joung_j_f_et_al.md)                                                                        |                           reaction-mechanism, flower                           |
+|    2025/08/19    | [Xu, L. et al. A Unified Pre-trained Deep Learning Framework for Cross-Task Reaction Performance Prediction and Synthesis Planning](../literature/2025/20250819_xu_l_et_al.md)                                  |     single-step-retrosynthesis, multi-step-retrosynthesis, rxn-graphformer     |
+|    2025/08/19    | [Sagawa, T. and Kojima, R. ReactionT5: A Pre-trained Transformer Model for Accurate Chemical Reaction Prediction With Limited Data](../literature/2025/20250819_sagawa_t_and_kojima_r.md)                       | single-step-synthesis, single-step-retrosynthesis, reaction-yield, reaction-t5 |
+|    2025/08/14    | [Xue, X. et al. Bidirectional Chemical Intelligent Net: A Unified Deep Learning–Based Framework for Predicting Chemical Reaction](../literature/2025/20250814_xue_x_et_al.md)                                   |   single-step-synthesis, single-step-retrosynthesis, template-free, bici-net   |
+|    2025/08/11    | [Armstrong, D. et al. Tango*: Constrained Synthesis Planning Using Chemically Informed Value Functions](../literature/2025/20250811_armstrong_d_et_al.md)                                                       |                multi-step-retrosynthesis, template-free, tango*                |
+|    2025/08/08    | [Cong, S. et al. Graph-Sequence Enhanced Transformer for Template-Free Prediction of Natural Product Biosynthesis](../literature/2025/20250808_ceng_s_et_al.md)                                                 |             single-step-retrosynthesis, template-free, gset-retro              |
+|    2025/08/05    | [Zhu, L. et al. M2Echem: A Multilevel Dual Encoder-Based Model for Predicting Organic Chemistry Reactions](../literature/2025/20250805_zhu_l_et_al.md)                                                          |                 single-step-synthesis, template-free, m2e-chem                 |
+|       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                         |                                      ...                                       |
 
 
 ## License Information
