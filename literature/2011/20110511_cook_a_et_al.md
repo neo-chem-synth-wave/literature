@@ -15,9 +15,6 @@ Cook, A. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -34,7 +31,7 @@ We argue that the progress achieved in this aspect paves the way to a deeper exp
 
 # Citation
 ```
-@article {cook2011a,
+@article {20110511_cook_a_et_al,
   author       = { Anthony Cook and A. Peter Johnson and James Law and Mahdi Mirzazadeh and Orr Ravitz and Aniko Simon },
   title        = { Computer-aided synthesis design: 40 years on },
   journal      = { WIREs Computational Molecular Science },
@@ -42,7 +39,7 @@ We argue that the progress achieved in this aspect paves the way to a deeper exp
   pages        = { 79-107 },
   volume       = { 2 },
   number       = { 1 },
-  doi          = { https://doi.org/10.1002/wcms.61 },
+  doi          = { 10.1002/wcms.61 },
   url          = { https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.61 },
   eprint       = { https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.61 }
 }

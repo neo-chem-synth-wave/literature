@@ -15,9 +15,6 @@ Podolyan, Y. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability
 
@@ -36,7 +33,7 @@ Our implementations can successfully process thousands of compounds per minute.
 
 # Citation
 ```
-@article {podolyan2010a,
+@article {20100610_podolyan_y_et_al,
   author       = { Yevgeniy Podolyan and Michael A. Walters and George Karypis },
   title        = { Assessing Synthetic Accessibility of Chemical Compounds Using Machine Learning Methods },
   journal      = { Journal of Chemical Information and Modeling },

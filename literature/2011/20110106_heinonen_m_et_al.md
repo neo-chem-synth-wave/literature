@@ -23,7 +23,7 @@ atom-to-atom-mapping
 The ability to trace the fate of individual atoms through the metabolic pathways is needed in many applications of systems biology and drug discovery.
 However, this information is not immediately available from the most common metabolome studies and needs to be separately acquired.
 Automatic discovery of correspondence of atoms in biochemical reactions is called the "atom mapping problem".
-We suggest an efficient approach for solving the atom mapping problem exactly—finding mappings of minimum edge edit distance.
+We suggest an efficient approach for solving the atom mapping problem exactly-finding mappings of minimum edge edit distance.
 The algorithm is based on A* search equipped with sophisticated heuristics for pruning the search space.
 This approach has clear advantages over the commonly used heuristic approach of iterative maximum common subgraph (MCS) algorithm: we explicitly minimize an objective function, and we produce solutions that typically require less manual curation.
 The two methods are similar in computational resource demands.

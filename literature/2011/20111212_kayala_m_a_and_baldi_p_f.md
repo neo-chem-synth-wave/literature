@@ -14,9 +14,6 @@ Kayala, M.A. and Baldi, P.F.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis
 
@@ -36,7 +33,7 @@ Furthermore, it is generalizable, making reasonable predictions over reactants a
 
 # Citation
 ```
-@inproceedings {kayala2011b,
+@inproceedings {20111212_kayala_m_a_and_baldi_p_f,
   author       = { Matthew Kayala and Pierre Baldi },
   title        = { A Machine Learning Approach to Predict Chemical Reactions },
   booktitle    = { Advances in Neural Information Processing Systems },

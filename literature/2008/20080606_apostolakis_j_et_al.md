@@ -32,7 +32,7 @@ Finally, in approximately 200 cases the algorithm finds alternate reaction cente
 
 # Citation
 ```
-@article {20080606_b_apostolakis_j_et_al,
+@article {20080606_apostolakis_j_et_al,
   author       = { Joannis Apostolakis and Oliver Sacher and Robert Körner and Johann Gasteiger },
   title        = { Automatic Determination of Reaction Mappings and Reaction Center Information. 2. Validation on a Biochemical Reaction Database },
   journal      = { Journal of Chemical Information and Modeling },

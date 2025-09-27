@@ -14,11 +14,8 @@ Nowak, G. and Fic, G.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-reaction-template
+single-step-retrosynthesis, single-step-synthesis, multi-step-retrosynthesis, multi-step-synthesis, template-based
 
 
 # Abstract
@@ -32,7 +29,7 @@ This paper describes the strategy for discovering the shortest synthetic pathway
 
 # Citation
 ```
-@article {nowak2010a,
+@article {20100803_nowak_g_and_fic_g,
   author       = { Grażyna Nowak and Grzegorz Fic },
   title        = { Search for Complexity Generating Chemical Transformations by Combining Connectivity Analysis and Cascade Transformation Patterns },
   journal      = { Journal of Chemical Information and Modeling },

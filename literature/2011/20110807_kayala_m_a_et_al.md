@@ -17,9 +17,6 @@ Kayala, M.A. et al.
 [Europe PMC](https://europepmc.org/article/med/21819139) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC3193800)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis
 
@@ -30,7 +27,7 @@ Approaches to the reaction prediction problems can be organized around three pol
 Previous approaches at these poles, respectively, are not high throughput, are not generalizable or scalable, and lack sufficient data and structure to be implemented.
 We propose a new approach to reaction prediction utilizing elements from each pole.
 Using a physically inspired conceptualization, we describe single mechanistic reactions as interactions between coarse approximations of molecular orbitals (MOs) and use topological and physicochemical attributes as descriptors.
-Using an existing rule-based system (Reaction Explorer), we derive a restricted chemistry data set consisting of 1630 full multistep reactions with 2358 distinct starting materials and intermediates, associated with 2989 productive mechanistic steps and 6.14 million unproductive mechanistic steps.
+Using an existing rule-based system (Reaction Explorer), we derive a restricted chemistry data set consisting of 1,630 full multistep reactions with 2,358 distinct starting materials and intermediates, associated with 2,989 productive mechanistic steps and 6.14 million unproductive mechanistic steps.
 And from machine learning, we pose identifying productive mechanistic steps as a statistical ranking, information retrieval problem: given a set of reactants and a description of conditions, learn a ranking model over potential filled-to-unfilled MO interactions such that the top-ranked mechanistic steps yield the major products.
 The machine learning implementation follows a two-stage approach, in which we first train atom level reactivity filters to prune 94.00% of nonproductive reactions with a 0.01% error rate.
 Then, we train an ensemble of ranking models on pairs of interacting MOs to learn a relative productivity function over mechanistic steps in a given system.
@@ -41,7 +38,7 @@ A web interface to the machine learning based mechanistic reaction predictor is 
 
 # Citation
 ```
-@article {kayala2011a,
+@article {20110807_kayala_m_a_et_al,
   author       = { Matthew A. Kayala and Chlo{\'e}-Agathe Azencott and Jonathan H. Chen and Pierre Baldi },
   title        = { Learning to Predict Chemical Reactions },
   journal      = { Journal of Chemical Information and Modeling },
