@@ -15,11 +15,8 @@ Pennerath, F. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-reaction, graph
+synthesizability, gems-bond
 
 
 # Abstract
@@ -31,7 +28,7 @@ When tested on reaction databases, GemsBond recognizes most formed bonds in reac
 
 # Citation
 ```
-@article {pennerath2010a,
+@article {20100129_pennerath_f_et_al,
   author       = { Frédéric Pennerath and Gilles Niel and Philippe Vismara and Philippe Jauffret and Claude Laurenço and Amedeo Napoli },
   title        = { Graph-Mining Algorithm for the Evaluation of Bond Formability },
   journal      = { Journal of Chemical Information and Modeling },

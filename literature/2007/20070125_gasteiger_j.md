@@ -14,11 +14,8 @@ Gasteiger, J.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-synthesizability
+single-step-retrosynthesis, multi-step-retrosynthesis, synthesizability, wodca
 
 
 # Abstract
@@ -35,7 +32,7 @@ We will show here how methods have been developed for the prediction of acidity 
 
 # Citation
 ```
-@article {gasteiger2007a,
+@article {20070125_gasteiger_j,
   author       = { Johann Gasteiger },
   title        = { Modeling chemical reactions for drug design },
   journal      = { Journal of Computer-Aided Molecular Design },

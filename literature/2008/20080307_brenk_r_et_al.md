@@ -16,9 +16,6 @@ Brenk, R. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2628535) |
 [ResearchGate](https://www.researchgate.net/publication/5782923_Lessons_Learnt_from_Assembling_Screening_Libraries_for_Drug_Discovery_for_Neglected_Diseases)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, compound-pattern
 
@@ -34,7 +31,7 @@ The implications of this study for compound selection, especially in an academic
 
 # Citation
 ```
-@article {brenk2008a,
+@article {20080307_brenk_r_et_al,
   author       = { Ruth Brenk and Alessandro Schipani and Daniel James and Agata Krasowski and Ian Hugh Gilbert and Julie Frearson and Paul Graham Wyatt },
   title        = { Lessons Learnt from Assembling Screening Libraries for Drug Discovery for Neglected Diseases },
   journal      = { ChemMedChem },
@@ -42,7 +39,7 @@ The implications of this study for compound selection, especially in an academic
   pages        = { 435-444 },
   volume       = { 3 },
   number       = { 3 },
-  doi          = { https://doi.org/10.1002/cmdc.200700139 },
+  doi          = { 10.1002/cmdc.200700139 },
   url          = { https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.200700139 },
   eprint       = { https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/cmdc.200700139 }
 }

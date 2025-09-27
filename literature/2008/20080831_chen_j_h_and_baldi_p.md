@@ -15,24 +15,21 @@ Chen, J.H. and Baldi, P.
 [ChemDB Chemoinformatics Portal](https://cdb.ics.uci.edu) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2758223)
 
-**Starred:**
-False
-
 **Tags:**
-single-step-synthesis
+single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 
 
 # Abstract
 Predicting the course and major products of arbitrary reactions is a fundamental problem in chemistry, one that chemists must address in a variety of tasks ranging from synthesis design to reaction discovery.
-Described here is an expert system to predict organic chemical reactions based on a knowledge base of over 1500 manually composed reaction transformation rules.
+Described here is an expert system to predict organic chemical reactions based on a knowledge base of over 1,500 manually composed reaction transformation rules.
 Novel rule extensions are introduced to enable robust predictions and describe detailed reaction mechanisms at the level of electron flows in elementary reaction steps, ensuring that all reactions are properly balanced and atom-mapped.
 The core reaction prediction functionalities of this expert system are illustrated with applications including: (1) prediction of detailed reaction mechanisms; (2) computer-based learning in organic chemistry; (3) retrosynthetic analysis; and (4) combinatorial library design.
-Select applications are available via http://cdb.ics.uci.edu.
+Select applications are available via https://cdb.ics.uci.edu.
 
 
 # Citation
 ```
-@article {chen2008,
+@article {20080831_chen_j_h_and_baldi_p,
   author       = { Jonathan H. Chen and Pierre Baldi },
   title        = { No Electron Left Behind: A Rule-Based Expert System To Predict Chemical Reactions and Reaction Mechanisms },
   journal      = { Journal of Chemical Information and Modeling },
