@@ -14,11 +14,8 @@ Kayala, M.A. and Baldi, P.F.
 **Alternative Links:**
 [ChemDB Chemoinformatics Portal](https://cdb.ics.uci.edu)
 
-**Starred:**
-False
-
 **Tags:**
-single-step-synthesis
+single-step-synthesis, template-based
 
 
 # Abstract
@@ -33,12 +30,12 @@ The resulting model, ReactionPredictor, perfectly ranks polar reactions 78.1% of
 Pericyclic and radical reactions are perfectly ranked 85.8% and 77.0% of the time, respectively, rising to >93% recovery for both reaction types with a small number of allowed errors.
 Decisions about which of the polar, pericyclic, or radical reaction type ranking models to use can be made with >99% accuracy.
 Finally, for multistep reaction pathways, we implement the first mechanistic pathway predictor using constrained tree-search to discover a set of reasonable mechanistic steps from given reactants to given products.
-Webserver implementations of both the single step and pathway versions of ReactionPredictor are available via the chemoinformatics portal http://cdb.ics.uci.edu/.
+Webserver implementations of both the single step and pathway versions of ReactionPredictor are available via the chemoinformatics portal http://cdb.ics.uci.edu.
 
 
 # Citation
 ```
-@article {kayala2012a,
+@article {20120916_kayala_m_a_and_baldi_p,
   author       = { Matthew A. Kayala and Pierre Baldi },
   title        = { ReactionPredictor: Prediction of Complex Chemical Reactions at the Mechanistic Level Using Machine Learning },
   journal      = { Journal of Chemical Information and Modeling },

@@ -16,7 +16,7 @@ Chen, W.L. et al.
 None
 
 **Tags:**
-review
+atom-to-atom-mapping
 
 
 # Abstract
@@ -40,7 +40,7 @@ Some new algorithms showed better accuracy and performance than the MCS-based me
   pages        = { 560-593 },
   volume       = { 3 },
   number       = { 6 },
-  doi          = { https://doi.org/10.1002/wcms.1140 },
+  doi          = { 10.1002/wcms.1140 },
   url          = { https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1140 },
   eprint       = { https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1140 }
 }

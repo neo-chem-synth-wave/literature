@@ -15,11 +15,8 @@ Marcou, G. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-reaction-condition
+reaction-condition-prediction
 
 
 # Abstract
@@ -38,7 +35,7 @@ Eventually, these were challenged to predict feasibility conditions for ∼50 no
 
 # Citation
 ```
-@article {marcou2015a,
+@article {20150114_marcou_g_et_al,
   author       = { G. Marcou and J. Aires de Sousa and D. A. R. S. Latino and A. de Luca and D. Horvath and V. Rietsch and A. Varnek },
   title        = { Expert System for Predicting Reaction Conditions: The Michael Reaction Case },
   journal      = { Journal of Chemical Information and Modeling },

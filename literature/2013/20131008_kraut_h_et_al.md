@@ -15,11 +15,8 @@ Kraut, H. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-reaction-classification, data-source
+reaction-classification, data-source, reaction, reaction-pattern
 
 
 # Abstract
@@ -33,7 +30,7 @@ We invite the scientific community to contribute to the future extension and imp
 
 # Citation
 ```
-@article {kraut2013a,
+@article {20131008_kraut_h_et_al,
   author       = { Hans Kraut and Josef Eiblmaier and Guenter Grethe and Peter Löw and Heinz Matuszczyk and Heinz Saller },
   title        = { Algorithm for Reaction Classification },
   journal      = { Journal of Chemical Information and Modeling },

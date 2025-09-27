@@ -15,11 +15,8 @@ Christ, C.D. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-reaction-extraction, reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis
+reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis
 
 
 # Abstract
@@ -36,7 +33,7 @@ Reaction based enumeration along the top ranked route yielded a library of 29 92
 
 # Citation
 ```
-@article {christ2012a,
+@article {20120604_christ_c_d_et_al,
   author       = { Clara D. Christ and Matthias Zentgraf and Jan M. Kriegl },
   title        = { Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration },
   journal      = { Journal of Chemical Information and Modeling },

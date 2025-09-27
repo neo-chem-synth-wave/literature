@@ -15,11 +15,8 @@ Sterling, T. and Irwin, J.J.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC4658288) |
 [ZINC15](https://zinc15.docking.org)
 
-**Starred:**
-True
-
 **Tags:**
-data-source, zinc-15
+data-source, compound, zinc-15
 
 
 # Abstract
@@ -34,7 +31,7 @@ ZINC retains its original 3D roots – all molecules are available in biological
 
 # Citation
 ```
-@article {sterling2015a,
+@article {20151019_sterling_t_and_irwin_j_j,
   author       = { Teague Sterling and John J. Irwin },
   title        = { ZINC 15 – Ligand Discovery for Everyone },
   journal      = { Journal of Chemical Information and Modeling },

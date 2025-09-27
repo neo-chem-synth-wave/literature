@@ -15,11 +15,8 @@ Fukunishi, Y. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
-synthesizability, synthetic-accessibility
+synthesizability
 
 
 # Abstract
@@ -36,7 +33,7 @@ The price most likely depends on the total cost of development and other factors
 
 # Citation
 ```
-@article {fukunishi2014a,
+@article {20141124_fukunishi_y_et_al,
   author       = { Yoshifumi Fukunishi and Takashi Kurosawa and Yoshiaki Mikami and Haruki Nakamura },
   title        = { Prediction of Synthetic Accessibility Based on Commercially Available Compound Databases },
   journal      = { Journal of Chemical Information and Modeling },

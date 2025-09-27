@@ -15,9 +15,6 @@ Fooshee, D. et al.
 **Alternative Links:**
 [ChemDB Chemoinformatics Portal](https://cdb.ics.uci.edu)
 
-**Starred:**
-False
-
 **Tags:**
 atom-to-atom-mapping, reaction-map
 
@@ -37,7 +34,7 @@ A ReactionMap server is available on the ChemDB Web portal at http://cdb.ics.uci
 
 # Citation
 ```
-@article {fooshee2013a,
+@article {20131025_fooshee_d_et_al,
   author       = { David Fooshee and Alessio Andronico and Pierre Baldi },
   title        = { ReactionMap: An Efficient Atom-Mapping Algorithm for Chemical Reactions },
   journal      = { Journal of Chemical Information and Modeling },

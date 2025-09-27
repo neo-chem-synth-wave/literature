@@ -15,7 +15,7 @@ Kayala, M.A. and Baldi, P.F.
 None
 
 **Tags:**
-single-step-synthesis
+single-step-synthesis, template-based
 
 
 # Abstract

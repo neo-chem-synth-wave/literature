@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Expert System for Predicting Reaction Conditions: The Michael Reaction Case
+Route Design in the 21st Century: The ICSYNTH Software Tool as an Idea Generator for Synthesis Prediction
 
 **Authors:**
 Bøgevig, A., Federsel, H., Huerta, F., Hutchings, M.G., Kraut, H., Langer, T., Löw, P., Oppawsky, C., Rein, T., and Saller, H. |
@@ -15,11 +15,8 @@ Bøgevig, A. et al.
 **Alternative Links:**
 [Elsevier ScienceDirect](https://www.sciencedirect.com/org/science/article/pii/S1083616021011282)
 
-**Starred:**
-False
-
 **Tags:**
-single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis, icsynth
+single-step-synthesis, single-step-retrosynthesis, multi-step-synthesis, multi-step-retrosynthesis, template-based, icsynth
 
 
 # Abstract
@@ -29,7 +26,7 @@ Examples of its output as an idea generator are described, and the conclusion is
 
 # Citation
 ```
-@article {bogevig2015a,
+@article {20150122_bogevig_a_et_al,
   author       = { Anders Bøgevig and Hans-Jürgen Federsel and Fernando Huerta and Michael G. Hutchings and Hans Kraut and Thomas Langer and Peter Löw and Christoph Oppawsky and Tobias Rein and Heinz Saller },
   title        = { Route Design in the 21st Century: The ICSYNTH Software Tool as an Idea Generator for Synthesis Prediction },
   journal      = { Organic Process Research & Development },

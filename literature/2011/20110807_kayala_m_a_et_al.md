@@ -18,7 +18,7 @@ Kayala, M.A. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC3193800)
 
 **Tags:**
-single-step-synthesis
+single-step-synthesis, template-based
 
 
 # Abstract
