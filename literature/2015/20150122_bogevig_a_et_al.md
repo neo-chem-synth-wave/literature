@@ -16,7 +16,7 @@ Bøgevig, A. et al.
 [Elsevier ScienceDirect](https://www.sciencedirect.com/org/science/article/pii/S1083616021011282)
 
 **Tags:**
-single-step-synthesis, single-step-retrosynthesis, multi-step-synthesis, multi-step-retrosynthesis, template-based, icsynth
+single-step-retrosynthesis, single-step-synthesis, multi-step-retrosynthesis, multi-step-synthesis, template-based, icsynth
 
 
 # Abstract

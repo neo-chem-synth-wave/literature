@@ -6,7 +6,7 @@ Predicting Synthetic Accessibility: Application in Drug Discovery and Developmen
 Baber, J.C. and Feher, M.
 
 **Publication Date:**
-2005/02/08
+2004/08/01
 
 **Link:**
 [Bentham Science Mini-Reviews in Medicinal Chemistry](https://www.eurekaselect.com/article/25346)

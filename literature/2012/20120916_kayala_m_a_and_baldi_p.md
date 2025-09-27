@@ -15,7 +15,7 @@ Kayala, M.A. and Baldi, P.F.
 [ChemDB Chemoinformatics Portal](https://cdb.ics.uci.edu)
 
 **Tags:**
-single-step-synthesis, template-based
+single-step-synthesis, template-based, reaction-predictor
 
 
 # Abstract
