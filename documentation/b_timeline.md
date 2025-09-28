@@ -1,5 +1,5 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-330-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-350-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
@@ -13,29 +13,31 @@
 [![Static Badge](https://img.shields.io/badge/1988-1-red)](#1988)
 [![Static Badge](https://img.shields.io/badge/1989-1-red)](#1989)
 [![Static Badge](https://img.shields.io/badge/1990-1-red)](#1990)
+[![Static Badge](https://img.shields.io/badge/1992-2-red)](#1992)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#1993)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
+[![Static Badge](https://img.shields.io/badge/1996-1-red)](#1996)
 [![Static Badge](https://img.shields.io/badge/1999-1-red)](#1999)
 [![Static Badge](https://img.shields.io/badge/2004-1-red)](#2004)
-[![Static Badge](https://img.shields.io/badge/2005-2-red)](#2005)
+[![Static Badge](https://img.shields.io/badge/2005-3-red)](#2005)
 [![Static Badge](https://img.shields.io/badge/2006-1-red)](#2006)
 [![Static Badge](https://img.shields.io/badge/2007-2-red)](#2007)
 [![Static Badge](https://img.shields.io/badge/2008-4-red)](#2008)
-[![Static Badge](https://img.shields.io/badge/2009-4-red)](#2009)
-[![Static Badge](https://img.shields.io/badge/2010-4-red)](#2010)
+[![Static Badge](https://img.shields.io/badge/2009-5-red)](#2009)
+[![Static Badge](https://img.shields.io/badge/2010-5-red)](#2010)
 [![Static Badge](https://img.shields.io/badge/2011-6-red)](#2011)
-[![Static Badge](https://img.shields.io/badge/2012-5-red)](#2012)
-[![Static Badge](https://img.shields.io/badge/2013-3-red)](#2013)
-[![Static Badge](https://img.shields.io/badge/2014-3-red)](#2014)
-[![Static Badge](https://img.shields.io/badge/2015-3-red)](#2015)
+[![Static Badge](https://img.shields.io/badge/2012-7-red)](#2012)
+[![Static Badge](https://img.shields.io/badge/2013-6-red)](#2013)
+[![Static Badge](https://img.shields.io/badge/2014-5-red)](#2014)
+[![Static Badge](https://img.shields.io/badge/2015-5-red)](#2015)
 [![Static Badge](https://img.shields.io/badge/2016-8-red)](#2016)
 [![Static Badge](https://img.shields.io/badge/2017-12-orange)](#2017)
-[![Static Badge](https://img.shields.io/badge/2018-13-orange)](#2018)
-[![Static Badge](https://img.shields.io/badge/2019-20-yellow)](#2019)
+[![Static Badge](https://img.shields.io/badge/2018-15-orange)](#2018)
+[![Static Badge](https://img.shields.io/badge/2019-21-yellow)](#2019)
 [![Static Badge](https://img.shields.io/badge/2020-23-yellow)](#2020)
 [![Static Badge](https://img.shields.io/badge/2021-33-green)](#2021)
-[![Static Badge](https://img.shields.io/badge/2022-34-green)](#2022)
-[![Static Badge](https://img.shields.io/badge/2023-32-green)](#2023)
+[![Static Badge](https://img.shields.io/badge/2022-35-green)](#2022)
+[![Static Badge](https://img.shields.io/badge/2023-33-green)](#2023)
 [![Static Badge](https://img.shields.io/badge/2024-41-blue)](#2024)
 [![Static Badge](https://img.shields.io/badge/2025-46-blue)](#2025)
 
@@ -171,6 +173,7 @@
 |    2023/02/17    | [Tavakoli, M. et al. RMechDB: A Public Database of Elementary Radical Reaction Steps](../literature/2023/20230217_tavakoli_m_et_al.md)                                                                                                 |                                        data-source, reaction, rmechdb                                        |
 |    2023/02/16    | [Toniato, A. et al. Enhancing Diversity in Language Based Models for Single-Step Retrosynthesis](../literature/2023/20230216_toniato_a_et_al.md)                                                                                       |                           single-step-retrosynthesis, template-free, optimization                            |
 |    2023/02/15    | [Tingle, B.I. et al. ZINC-22 - A Free Multi-Billion-Scale Database of Tangible Compounds for Ligand Discovery](../literature/2023/20230215_tingle_b_i_et_al.md)                                                                        |                                        data-source, compound, zinc-22                                        |
+|    2023/02/11    | [Neves, P. et al. Global Reactivity Models Are Impactful in Industrial Synthesis Applications](../literature/2023/20230211_neves_p_et_al.md)                                                                                           |                                                    other                                                     |
 |    2023/01/14    | [Skoraczyński, G. et al. Critical Assessment of Synthetic Accessibility Scores in Computer-Assisted Synthesis Planning](../literature/2023/20230114_skoraczynski_g_et_al.md)                                                           |                             synthesizability, synthetic-accessibility, analysis                              |
 
 
@@ -186,6 +189,7 @@
 |    2022/11/08    | [Qiao, H. et al. Transformer-Based Multitask Learning for Reaction Prediction Under Low-Resource Circumstances](../literature/2022/20221108_qiao_h_et_al.md)                                                            |                        single-step-synthesis, template-free                         |
 |    2022/10/03    | [Ismail, I. et al. Graph-Driven Reaction Discovery: Progress, Challenges, and Future Opportunities](../literature/2022/20221003_ismail_i_et_al.md)                                                                      |                             compound-descriptor, graph                              |
 |    2022/09/02    | [Yang, F. et al. CNN-Based Two-Branch Multi-scale Feature Extraction Network for Retrosynthesis Prediction](../literature/2022/20220902_yang_f_et_al.md)                                                                |                 single-step-retrosynthesis, template-free, cnn-tmn                  |
+|    2022/09/02    | [Wang, X. et al. From Theory to Experiment: Transformer-Based Generation Enables Rapid Discovery of Novel Reactions](../literature/2022/20220902_wang_x_et_al.md)                                                       |                                        other                                        |
 |    2022/08/20    | [Jiang, Y. et al. Artificial Intelligence for Retrosynthesis Prediction](../literature/2022/20220820_jiang_y_et_al.md)                                                                                                  |                                       review                                        |
 |    2022/08/04    | [Unsleber, J.P. et al. Chemoton 2.0: Autonomous Exploration of Chemical Reaction Networks](../literature/2022/20220804_unsleber_j_p_et_al.md)                                                                           |                         chemical-reaction-network, chemoton                         |
 |    2022/07/26    | [Tu, Z. and Coley, C.W. Permutation Invariant Graph-to-Sequence Model for Template-Free Retrosynthesis and Reaction Prediction](../literature/2022/20220726_tu_z_and_coley_c_w.md)                                      |   single-step-synthesis, single-step-retrosynthesis, template-free, graph2smiles    |
@@ -300,6 +304,7 @@
 |    2019/05/31    | [Schreck, J.S. et al. Learning Retrosynthetic Planning Through Simulated Experience](../literature/2019/20190531_schreck_j_s_et_al.md)                                                                                                                                |                              multi-step-synthesis                              |
 |    2019/03/29    | [Jaworski, W. et al. Automatic Mapping of Atoms Across Both Simple and Complex Chemical Reactions](../literature/2019/20190329_jaworski_w_et_al.md)                                                                                                                   |                          atom-to-atom-mapping, mappet                          |
 |    2019/02/08    | [Ricart, E. et al. rBAN: Retro-Biosynthetic Analysis of Nonribosomal Peptides](../literature/2019/20190208_ricart_e_et_al.md)                                                                                                                                         |                        single-step-retrosynthesis, rban                        |
+|    2019/01/15    | [Gromski, P.S. et al. How to Explore Chemical Space Using Algorithms and Automation](../literature/2019/20190115_gromski_p_s_et_al.md)                                                                                                                                |                                     review                                     |
 |    2019/01/14    | [Baylon, J.L. et al. Enhancing Retrosynthetic Reaction Prediction With Deep Learning Using Multiscale Reaction Classification](../literature/2019/20190114_baylon_j_l_et_al.md)                                                                                       |                 single-step-synthesis, reaction-classification                 |
 |    2019/01/03    | [Watson, I.A. et al. A Retrosynthetic Analysis Algorithm Implementation](../literature/2019/20190103_watson_i_a_et_al.md)                                                                                                                                             |                  single-step-synthesis, multi-step-synthesis                   |
 
@@ -311,6 +316,7 @@
 |    2018/11/26    | [Coley, C.W. et al. A Graph-Convolutional Neural Network Model for the Prediction of Chemical Reactivity](../literature/2018/20181126_coley_c_w_et_al.md)                                            |                               single-step-synthesis, template-based                                |
 |    2018/11/16    | [Gao, H. et al. Using Machine Learning to Predict Suitable Conditions for Organic Reactions](../literature/2018/20181116_gao_h_et_al.md)                                                             |                                   reaction-condition-prediction                                    |
 |    2018/10/13    | [Duigou, T. et al. RetroRules: A Database of Reaction Rules for Engineering Biology](../literature/2018/20181013_duigou_t_et_al.md)                                                                  |                             data-source, reaction-pattern, retro-rules                             |
+|    2018/09/21    | [Bédard, A. et al. Reconfigurable System for Automated Optimization of Diverse Chemical Reactions](../literature/2018/20180921_bedard_a_et_al.md)                                                    |                                               other                                                |
 |    2018/08/20    | [Kochev, N. et al. Ambit-SMIRKS: A Software Module for Reaction Representation, Reaction Search and Structure Transformation](../literature/2018/20180820_kochev_n_et_al.md)                         |                                 reaction-descriptor, ambit-smirks                                  |
 |    2018/06/22    | [Schwaller, P. et al. "Found in Translation": Predicting Outcomes of Complex Organic Chemistry Reactions Using Neural Sequence-to-Sequence Models](../literature/2018/20180622_schwaller_p_et_al.md) |                             single-step-retrosynthesis, template-free                              |
 |    2018/05/01    | [Coley, C.W. et al. Machine Learning in Computer-Aided Synthesis Planning](../literature/2018/20180501_coley_c_w_et_al.md)                                                                           | single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis |
@@ -319,6 +325,7 @@
 |    2018/03/29    | [Segler, M.H.S. et al. Planning Chemical Syntheses With Deep Neural Networks and Symbolic AI](../literature/2018/20180329_segler_m_h_s_et_al.md)                                                     |    single-step-retrosynthesis, multi-step-retrosynthesis, template-based, fingerprint, 3n-mcts     |
 |    2018/03/08    | [Klucznik, T. et al. Efficient Syntheses of Diverse, Medicinally Relevant Targets Planned by Computer and Executed in the Laboratory](../literature/2018/20180308_klucznik_t_et_al.md)               |          single-step-retrosynthesis, multi-step-retrosynthesis, template-based, chematica          |
 |    2018/03/08    | [Grzybowski, B.A. et al. Chematica: A Story of Computer Code That Started to Think Like a Chemist](../literature/2018/20180308_grzybowski_b_a_et_al.md)                                              |          single-step-retrosynthesis, multi-step-retrosynthesis, template-based, chematica          |
+|    2018/02/15    | [Ahneman, D.T. et al. Predicting Reaction Performance in C–N Cross-Coupling Using Machine Learning](../literature/2018/20180215_ahneman_d_t_et_al.md)                                                |                                       single-step-synthesis                                        |
 |    2018/01/08    | [Coley, C.W. et al. SCScore: Synthetic Complexity Learned From a Reaction Corpus](../literature/2018/20180108_coley_c_w_et_al.md)                                                                    |                   synthesizability, synthetic-complexity, fingerprint, sc-score                    |
 
 
@@ -353,11 +360,13 @@
 
 
 ### 2015
-| Publication Date | Publication                                                                                                                                                                    |                                                            Tags                                                             |
-|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
-|    2015/10/19    | [Sterling, T. and Irwin, J.J. ZINC 15 - Ligand Discovery for Everyone](../literature/2015/20151019_sterling_t_and_irwin_j_j.md)                                                |                                               data-source, compound, zinc-15                                                |
-|    2015/01/22    | [Bøgevig, A. et al. Route Design in the 21st Century: The ICSYNTH Software Tool as an Idea Generator for Synthesis Prediction](../literature/2015/20150122_bogevig_a_et_al.md) | single-step-retrosynthesis, single-step-synthesis, multi-step-retrosynthesis, multi-step-synthesis, template-based, icsynth |
-|    2015/01/14    | [Marcou, G. et al. Expert System for Predicting Reaction Conditions: The Michael Reaction Case](../literature/2015/20150114_marcou_g_et_al.md)                                 |                                                reaction-condition-prediction                                                |
+| Publication Date | Publication                                                                                                                                                                                                                                                    |                                                            Tags                                                             |
+|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
+|    2015/10/19    | [Sterling, T. and Irwin, J.J. ZINC 15 - Ligand Discovery for Everyone](../literature/2015/20151019_sterling_t_and_irwin_j_j.md)                                                                                                                                |                                               data-source, compound, zinc-15                                                |
+|    2015/08/17    | [Chevillard, F. and Kolb, P. SCUBIDOO: A Large Yet Screenable and Easily Searchable Database of Computationally Created Chemical Compounds Optimized Toward High Likelihood of Synthetic Tractability](../literature/2015/20150817_chevillard_f_and_kolb_p.md) |                                               data-source, compound, scubidoo                                               |
+|    2015/01/22    | [Bøgevig, A. et al. Route Design in the 21st Century: The ICSYNTH Software Tool as an Idea Generator for Synthesis Prediction](../literature/2015/20150122_bogevig_a_et_al.md)                                                                                 | single-step-retrosynthesis, single-step-synthesis, multi-step-retrosynthesis, multi-step-synthesis, template-based, icsynth |
+|    2015/01/14    | [Marcou, G. et al. Expert System for Predicting Reaction Conditions: The Michael Reaction Case](../literature/2015/20150114_marcou_g_et_al.md)                                                                                                                 |                                                reaction-condition-prediction                                                |
+|    2015/01/13    | [Ley, S.V. et al. Organic Synthesis: March of the Machines](../literature/2015/20150113_ley_s_v_et_al.md)                                                                                                                                                      |                                                           review                                                            |
 
 
 ### 2014
@@ -366,14 +375,19 @@
 |    2014/12/26    | [Schneider, N. et al. Development of a Novel Fingerprint for Chemical Reactions and Its Application to Large-Scale Reaction Classification and Similarity](../literature/2014/20141226_schneider_n_et_al.md) | reaction-classification, data-source, reaction, uspto-50k |
 |    2014/11/24    | [Fukunishi, Y. et al. Prediction of Synthetic Accessibility Based on Commercially Available Compound Databases](../literature/2014/20141124_fukunishi_y_et_al.md)                                            |                     synthesizability                      |
 |    2014/06/02    | [Warr, W.R. A Short Review of Chemical Reaction Database Systems, Computer-Aided Synthesis Design, Reaction Prediction and Synthetic Feasibility](../literature/2014/20140602_warr_w_a.md)                   |                          review                           |
+|    2014/05/17    | [Madzhidov, T.I. et al. Structure-Reactivity Relationships in Terms of the Condensed Graphs of Reactions](../literature/2014/20140517_madzhidov_t_i_et_al.md)                                                |                           other                           |
+|    2014/02/07    | [Rappoport, T.I. et al. Complex Chemical Reaction Networks From Heuristics-Aided Quantum Chemistry](../literature/2014/20140207_rappoport_d_et_al.md)                                                        |                           other                           |
 
 
 ### 2013
-| Publication Date | Publication                                                                                                                                  |                               Tags                               |
-|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|    2013/10/25    | [Fooshee, D. et al. ReactionMap: An Efficient Atom-Mapping Algorithm for Chemical Reactions](../literature/2013/20131025_fooshee_d_et_al.md) |                atom-to-atom-mapping, reaction-map                |
-|    2013/10/08    | [Kraut, H. et al. Algorithm for Reaction Classification](../literature/2013/20131008_kraut_h_et_al.md)                                       | reaction-classification, data-source, reaction, reaction-pattern |
-|    2013/03/06    | [Chen, W.L. et al. Automatic Reaction Mapping and Reaction Center Detection](../literature/2013/20130306_chen_w_l_et_al.md)                  |                       atom-to-atom-mapping                       |
+| Publication Date | Publication                                                                                                                                                                                                        |                               Tags                               |
+|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------:|
+|    2013/10/25    | [Fooshee, D. et al. ReactionMap: An Efficient Atom-Mapping Algorithm for Chemical Reactions](../literature/2013/20131025_fooshee_d_et_al.md)                                                                       |                atom-to-atom-mapping, reaction-map                |
+|    2013/10/08    | [Kraut, H. et al. Algorithm for Reaction Classification](../literature/2013/20131008_kraut_h_et_al.md)                                                                                                             | reaction-classification, data-source, reaction, reaction-pattern |
+|    2013/04/29    | [Evers, A. et al. CROSS: An Efficient Workflow for Reaction-Driven Rescaffolding and Side-Chain Optimization Using Robust Chemical Reactions and Available Reagents](../literature/2013/20130429_evers_a_et_al.md) |                              other                               |
+|    2013/03/18    | [Zimmerman, P.M. Automated Discovery of Chemically Reasonable Elementary Reaction Steps](../literature/2013/20130318_zimmerman_p_m.md)                                                                             |              single-step-synthesis, template-based               |
+|    2013/03/06    | [Chen, W.L. et al. Automatic Reaction Mapping and Reaction Center Detection](../literature/2013/20130306_chen_w_l_et_al.md)                                                                                        |                       atom-to-atom-mapping                       |
+|    2013/02/04    | [Ravitz, O. Data-Driven Computer Aided Synthesis Design](../literature/2013/20130204_ravitz_o.md)                                                                                                                  |                              review                              |
 
 
 ### 2012
@@ -382,8 +396,10 @@
 |    2012/10/09    | [Lowe, D.M. Extraction of Chemical Structures and Reactions From the Literature](../literature/2012/20121009_lowe_d_m.md)                                                                                                     |            data-source, reaction, uspto-1976-2013, uspto-1976-2016             |
 |    2012/09/16    | [Kayala, M.A. and Baldi, P.F. ReactionPredictor: Prediction of Complex Chemical Reactions at the Mechanistic Level Using Machine Learning](../literature/2012/20120916_kayala_m_a_and_baldi_p.md)                             |           single-step-synthesis, template-based, reaction-predictor            |
 |    2012/09/10    | [Latendresse, M. et al. Accurate Atom-Mapping Computation for Biochemical Reactions](../literature/2012/20120910_latendresse_m_et_al.md)                                                                                      |                              atom-to-atom-mapping                              |
+|    2012/07/13    | [Gothard, C.M. et al. Rewiring Chemistry: Algorithmic Discovery and Experimental Validation of One-Pot Reactions in the Network of Organic Chemistry](../literature/2012/20120713_gothard_c_m_et_al.md)                       |                                     other                                      |
 |    2012/06/21    | [Bonnet, P. Is Chemical Synthetic Accessibility Computationally Predictable for Drug and Lead-Like Molecules? A Comparative Assessment Between Medicinal and Computational Chemists](../literature/2012/20120621_bonnet_p.md) |                                synthesizability                                |
 |    2012/06/04    | [Christ, C.D. et al. Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration](../literature/2012/20120604_christ_c_d_et_al.md)                                                       | reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis |
+|    2012/02/16    | [Hartenfeller, M. et al. DOGS: Reaction-Driven De Novo Design of Bioactive Compounds](../literature/2012/20120216_hartenfeller_m_et_al.md)                                                                                    |                                     other                                      |
 
 
 ### 2011
@@ -402,6 +418,7 @@
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------:|
 |    2010/08/03    | [Nowak, G. and Fic, G. Search for Complexity Generating Chemical Transformations by Combining Connectivity Analysis and Cascade Transformation Patterns](../literature/2010/20100803_nowak_g_and_fic_g.md)                                 | single-step-retrosynthesis, single-step-synthesis, multi-step-retrosynthesis, multi-step-synthesis, template-based |
 |    2010/06/10    | [Podolyan, Y. et al. Assessing Synthetic Accessibility of Chemical Compounds Using Machine Learning Methods](../literature/2010/20100610_podolyan_y_et_al.md)                                                                              |                                                  synthesizability                                                  |
+|    2010/04/28    | [Rogers, D. and Hahn, M. Extended-Connectivity Fingerprints](../literature/2010/20100428_rogers_d_and_hahn_m.md)                                                                                                                           |                                                    other, ecfp                                                     |
 |    2010/02/04    | [Baell, J.B. and Holloway, G.A. New Substructure Filters for Removal of Pan Assay Interference Compounds (PAINS) From Screening Libraries and for Their Exclusion in Bioassays](../literature/2010/20100204_baell_j_b_and_holloway_g_a.md) |                                        data-source, compound-pattern, pains                                        |
 |    2010/01/29    | [Pennerath, F. et al. Graph-Mining Algorithm for the Evaluation of Bond Formability](../literature/2010/20100129_pennerath_f_et_al.md)                                                                                                     |                                            synthesizability, gems-bond                                             |
 
@@ -410,7 +427,8 @@
 | Publication Date | Publication                                                                                                                                                                                                             |                                         Tags                                          |
 |:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------:|
 |    2009/06/10    | [Ertl, P. and Schuffenhauer, A. Estimation of Synthetic Accessibility Score of Drug-Like Molecules Based on Molecular Complexity and Fragment Contributions](../literature/2009/20090610_ertl_p_and_schuffenhauer_a.md) |                              synthesizability, sa-score                               |
-|    2009/05/26    | [Carrera, G.S.V.M. et al. Machine Learning of Chemical Reactivity From Databases of Organic Reactions](../literature/2009/20090526_carrera_g_v_s_m_et_al.md)                                                            |                                 reactivity-prediction                                 |
+|    2009/05/26    | [Carrera, G.S.V.M. et al. Machine Learning of Chemical Reactivity From Databases of Organic Reactions](../literature/2009/20090526_carrera_g_v_s_m_et_al.md)                                                            |                                         other                                         |
+|    2009/04/01    | [Grzybowski, B.A. et al. The 'Wired' Universe of Organic Chemistry](../literature/2009/20090401_grzybowski_b_a_et_al.md)                                                                                                |                                         other                                         |
 |    2009/02/23    | [Crabtree, J.D. and Mehta, D.P. Automated Reaction Mapping](../literature/2009/20090223_crabtree_j_d_and_mehta_d_p.md)                                                                                                  |                                 atom-to-atom-mapping                                  |
 |    2009/02/06    | [Law, J. et al. Route Designer: A Retrosynthetic Analysis Tool Utilizing Automated Retrosynthetic Rule Generation](../literature/2009/20090206_law_j_et_al.md)                                                          | single-step-retrosynthesis, multi-step-retrosynthesis, template-based, route-designer |
 
@@ -438,10 +456,11 @@
 
 
 ### 2005
-| Publication Date | Publication                                                                                                   |                                Tags                                |
-|:----------------:|---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|
-|    2005/07/12    | [Socorro, I.M. et al. ROBIA: A Reaction Prediction Program](../literature/2005/20050712_socorro_i_m_et_al.md) | single-step-synthesis, multi-step-synthesis, template-based, robia |
-|    2005/02/08    | [Todd, M.H. Computer-Aided Organic Synthesis](../literature/2005/20050208_todd_m_h.md)                        |                               review                               |
+| Publication Date | Publication                                                                                                                                                                                 |                                Tags                                |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|
+|    2005/10/20    | [Zhang, Q. and Aires-de-Sousa, J. Structure-Based Classification of Chemical Reactions Without Assignment of Reaction Centers](../literature/2005/20051020_zhang_q_and_aires_de_sousa_j.md) |                      reaction-classification                       |
+|    2005/07/12    | [Socorro, I.M. et al. ROBIA: A Reaction Prediction Program](../literature/2005/20050712_socorro_i_m_et_al.md)                                                                               | single-step-synthesis, multi-step-synthesis, template-based, robia |
+|    2005/02/08    | [Todd, M.H. Computer-Aided Organic Synthesis](../literature/2005/20050208_todd_m_h.md)                                                                                                      |                               review                               |
 
 
 ### 2004
@@ -456,6 +475,12 @@
 |    1999/02/10    | [Satoh, K. and Funatsu, K. A Novel Approach to Retrosynthetic Analysis Using Knowledge Bases Derived From Reaction Databases](../literature/1999/19990210_satoh_k_and_funatsu_k.md) | history, kosp |
 
 
+### 1996
+| Publication Date | Publication                                                                                                                                                                        |  Tags  |
+|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|
+|    1996/01/05    | [Ihlenfeldt, W. and Gasteiger, J. Computer-Assisted Planning of Organic Syntheses: The Second Generation of Programs](../literature/1996/19960105_ihlenfeldt_w_and_gasteiger_j.md) | review |
+
+
 ### 1995
 | Publication Date | Publication                                                                                                                                                                                                     |      Tags       |
 |:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
@@ -466,6 +491,13 @@
 | Publication Date | Publication                                                                                                                                                                                                 |      Tags       |
 |:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
 |    1993/02/01    | [Ugi, I. et al. Computer-assisted Solution of Chemical Problems - The Historical Development and the Present State of the Art of a New Discipline of Chemistry](../literature/1993/19930201_ugi_i_et_al.md) | history, review |
+
+
+### 1992
+| Publication Date | Publication                                                                                                                                                                                                                    |      Tags      |
+|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1992/11/01    | [Sello, G. Reaction Prediction: The Suggestions of the Beppe Program](../literature/1992/19921101_sello_g.md)                                                                                                                  |    history     |
+|    1992/06/01    | [Johnson, A.P. et al. Some Recent Progress in the Development of the LHASA Computer System for Organic Synthesis Design: Starting-Material-Oriented Retrosynthetic Analysis](../literature/1992/19920601_johnson_a_p_et_al.md) | history, lhasa |
 
 
 ### 1990
