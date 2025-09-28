@@ -112,7 +112,7 @@ if __name__ == "__main__":
         reverse=True
     )
 
-    print("1. The 'README.md' markdown content:\n")
+    print("1. The 'README.md' file markdown content:\n")
 
     print((
         "## Timeline\n[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_table_rows:d}-white)]"
@@ -147,7 +147,7 @@ if __name__ == "__main__":
         )
     )
 
-    print("\n\n2. The 'b_timeline.md' markdown content:\n")
+    print("\n\n2. The 'b_timeline.md' file markdown content:\n")
 
     print((
         "# Timeline\n[![Static Badge](https://img.shields.io/badge/total-{number_of_timeline_table_rows:d}-white)]"

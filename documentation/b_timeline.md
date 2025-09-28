@@ -1,5 +1,5 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-325-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-330-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
@@ -17,12 +17,13 @@
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
 [![Static Badge](https://img.shields.io/badge/1999-1-red)](#1999)
 [![Static Badge](https://img.shields.io/badge/2004-1-red)](#2004)
-[![Static Badge](https://img.shields.io/badge/2005-1-red)](#2005)
-[![Static Badge](https://img.shields.io/badge/2007-1-red)](#2007)
+[![Static Badge](https://img.shields.io/badge/2005-2-red)](#2005)
+[![Static Badge](https://img.shields.io/badge/2006-1-red)](#2006)
+[![Static Badge](https://img.shields.io/badge/2007-2-red)](#2007)
 [![Static Badge](https://img.shields.io/badge/2008-4-red)](#2008)
-[![Static Badge](https://img.shields.io/badge/2009-3-red)](#2009)
+[![Static Badge](https://img.shields.io/badge/2009-4-red)](#2009)
 [![Static Badge](https://img.shields.io/badge/2010-4-red)](#2010)
-[![Static Badge](https://img.shields.io/badge/2011-5-red)](#2011)
+[![Static Badge](https://img.shields.io/badge/2011-6-red)](#2011)
 [![Static Badge](https://img.shields.io/badge/2012-5-red)](#2012)
 [![Static Badge](https://img.shields.io/badge/2013-3-red)](#2013)
 [![Static Badge](https://img.shields.io/badge/2014-3-red)](#2014)
@@ -355,7 +356,7 @@
 | Publication Date | Publication                                                                                                                                                                    |                                                            Tags                                                             |
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
 |    2015/10/19    | [Sterling, T. and Irwin, J.J. ZINC 15 - Ligand Discovery for Everyone](../literature/2015/20151019_sterling_t_and_irwin_j_j.md)                                                |                                               data-source, compound, zinc-15                                                |
-|    2015/01/22    | [Bøgevig, A. et al. Route Design in the 21st Century: The ICSYNTH Software Tool as an Idea Generator for Synthesis Prediction](../literature/2015/20150122_bogevig_a_et_al.md) | single-step-synthesis, single-step-retrosynthesis, multi-step-synthesis, multi-step-retrosynthesis, template-based, icsynth |
+|    2015/01/22    | [Bøgevig, A. et al. Route Design in the 21st Century: The ICSYNTH Software Tool as an Idea Generator for Synthesis Prediction](../literature/2015/20150122_bogevig_a_et_al.md) | single-step-retrosynthesis, single-step-synthesis, multi-step-retrosynthesis, multi-step-synthesis, template-based, icsynth |
 |    2015/01/14    | [Marcou, G. et al. Expert System for Predicting Reaction Conditions: The Michael Reaction Case](../literature/2015/20150114_marcou_g_et_al.md)                                 |                                                reaction-condition-prediction                                                |
 
 
@@ -379,7 +380,7 @@
 | Publication Date | Publication                                                                                                                                                                                                                   |                                      Tags                                      |
 |:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------:|
 |    2012/10/09    | [Lowe, D.M. Extraction of Chemical Structures and Reactions From the Literature](../literature/2012/20121009_lowe_d_m.md)                                                                                                     |            data-source, reaction, uspto-1976-2013, uspto-1976-2016             |
-|    2012/09/16    | [Kayala, M.A. and Baldi, P.F. ReactionPredictor: Prediction of Complex Chemical Reactions at the Mechanistic Level Using Machine Learning](../literature/2012/20120916_kayala_m_a_and_baldi_p.md)                             |                     single-step-synthesis, template-based                      |
+|    2012/09/16    | [Kayala, M.A. and Baldi, P.F. ReactionPredictor: Prediction of Complex Chemical Reactions at the Mechanistic Level Using Machine Learning](../literature/2012/20120916_kayala_m_a_and_baldi_p.md)                             |           single-step-synthesis, template-based, reaction-predictor            |
 |    2012/09/10    | [Latendresse, M. et al. Accurate Atom-Mapping Computation for Biochemical Reactions](../literature/2012/20120910_latendresse_m_et_al.md)                                                                                      |                              atom-to-atom-mapping                              |
 |    2012/06/21    | [Bonnet, P. Is Chemical Synthetic Accessibility Computationally Predictable for Drug and Lead-Like Molecules? A Comparative Assessment Between Medicinal and Computational Chemists](../literature/2012/20120621_bonnet_p.md) |                                synthesizability                                |
 |    2012/06/04    | [Christ, C.D. et al. Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration](../literature/2012/20120604_christ_c_d_et_al.md)                                                       | reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis |
@@ -389,6 +390,7 @@
 | Publication Date | Publication                                                                                                                                                                             |                 Tags                  |
 |:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------:|
 |    2011/12/12    | [Kayala, M.A. and Baldi, P.F. A Machine Learning Approach to Predict Chemical Reactions](../literature/2011/20111212_kayala_m_a_and_baldi_p_f.md)                                       | single-step-synthesis, template-based |
+|    2011/11/11    | [Hartenfeller, M. et al. A Collection of Robust Organic Synthesis Reactions for In Silico Molecule Design](../literature/2011/20111111_hartenfeller_m_et_al.md)                         |         data-source, reaction         |
 |    2011/09/21    | [Huang, Q. et al. RASA: A Rapid Retrosynthesis-Based Scoring Method for the Assessment of Synthetic Accessibility of Drug-Like Molecules](../literature/2011/20110921_huang_q_et_al.md) |        synthesizability, rasa         |
 |    2011/08/07    | [Kayala, M.A. et al. Learning to Predict Chemical Reactions](../literature/2011/20110807_kayala_m_a_et_al.md)                                                                           | single-step-synthesis, template-based |
 |    2011/05/11    | [Cook, A. et al. Computer-Aided Synthesis Design: 40 Years On](../literature/2011/20110511_cook_a_et_al.md)                                                                             |                review                 |
@@ -408,6 +410,7 @@
 | Publication Date | Publication                                                                                                                                                                                                             |                                         Tags                                          |
 |:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------:|
 |    2009/06/10    | [Ertl, P. and Schuffenhauer, A. Estimation of Synthetic Accessibility Score of Drug-Like Molecules Based on Molecular Complexity and Fragment Contributions](../literature/2009/20090610_ertl_p_and_schuffenhauer_a.md) |                              synthesizability, sa-score                               |
+|    2009/05/26    | [Carrera, G.S.V.M. et al. Machine Learning of Chemical Reactivity From Databases of Organic Reactions](../literature/2009/20090526_carrera_g_v_s_m_et_al.md)                                                            |                                 reactivity-prediction                                 |
 |    2009/02/23    | [Crabtree, J.D. and Mehta, D.P. Automated Reaction Mapping](../literature/2009/20090223_crabtree_j_d_and_mehta_d_p.md)                                                                                                  |                                 atom-to-atom-mapping                                  |
 |    2009/02/06    | [Law, J. et al. Route Designer: A Retrosynthetic Analysis Tool Utilizing Automated Retrosynthetic Rule Generation](../literature/2009/20090206_law_j_et_al.md)                                                          | single-step-retrosynthesis, multi-step-retrosynthesis, template-based, route-designer |
 
@@ -422,21 +425,29 @@
 
 
 ### 2007
-| Publication Date | Publication                                                                                             |                                      Tags                                      |
-|:----------------:|---------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------:|
-|    2007/01/25    | [Gasteiger, J. Modeling Chemical Reactions for Drug Design](../literature/2007/20070125_gasteiger_j.md) | single-step-retrosynthesis, multi-step-retrosynthesis, synthesizability, wodca |
+| Publication Date | Publication                                                                                                                       |                                      Tags                                      |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------:|
+|    2007/02/09    | [Boda, K. et al. Structure and Reaction Based Evaluation of Synthetic Accessibility](../literature/2007/20070209_boda_k_et_al.md) |                                synthesizability                                |
+|    2007/01/25    | [Gasteiger, J. Modeling Chemical Reactions for Drug Design](../literature/2007/20070125_gasteiger_j.md)                           | single-step-retrosynthesis, multi-step-retrosynthesis, synthesizability, wodca |
+
+
+### 2006
+| Publication Date | Publication                                                                                                                                       |                                Tags                                |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|
+|    2006/01/21    | [Socorro, I.M. and Goodman, J.M. The ROBIA Program for Predicting Organic Reactivity](../literature/2006/20060121_socorro_i_m_and_goodman_j_m.md) | single-step-synthesis, multi-step-synthesis, template-based, robia |
 
 
 ### 2005
-| Publication Date | Publication                                                                            |  Tags  |
-|:----------------:|----------------------------------------------------------------------------------------|:------:|
-|    2005/02/08    | [Todd, M.H. Computer-Aided Organic Synthesis](../literature/2005/20050208_todd_m_h.md) | review |
+| Publication Date | Publication                                                                                                   |                                Tags                                |
+|:----------------:|---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|
+|    2005/07/12    | [Socorro, I.M. et al. ROBIA: A Reaction Prediction Program](../literature/2005/20050712_socorro_i_m_et_al.md) | single-step-synthesis, multi-step-synthesis, template-based, robia |
+|    2005/02/08    | [Todd, M.H. Computer-Aided Organic Synthesis](../literature/2005/20050208_todd_m_h.md)                        |                               review                               |
 
 
 ### 2004
 | Publication Date | Publication                                                                                                                                                         |  Tags  |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|
-|    2005/02/08    | [Baber, J.C. and Feher, M. Predicting Synthetic Accessibility: Application in Drug Discovery and Development](../literature/2004/20040801_baber_j_c_and_feher_m.md) | review |
+|    2004/08/01    | [Baber, J.C. and Feher, M. Predicting Synthetic Accessibility: Application in Drug Discovery and Development](../literature/2004/20040801_baber_j_c_and_feher_m.md) | review |
 
 
 ### 1999
