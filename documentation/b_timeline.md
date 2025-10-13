@@ -1,11 +1,11 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-350-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-355-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
 [![Static Badge](https://img.shields.io/badge/1975-1-red)](#1975)
 [![Static Badge](https://img.shields.io/badge/1976-3-red)](#1976)
-[![Static Badge](https://img.shields.io/badge/1977-4-red)](#1977)
+[![Static Badge](https://img.shields.io/badge/1977-5-red)](#1977)
 [![Static Badge](https://img.shields.io/badge/1978-2-red)](#1978)
 [![Static Badge](https://img.shields.io/badge/1980-5-red)](#1980)
 [![Static Badge](https://img.shields.io/badge/1981-1-red)](#1981)
@@ -18,15 +18,16 @@
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
 [![Static Badge](https://img.shields.io/badge/1996-1-red)](#1996)
 [![Static Badge](https://img.shields.io/badge/1999-1-red)](#1999)
+[![Static Badge](https://img.shields.io/badge/2003-1-red)](#2003)
 [![Static Badge](https://img.shields.io/badge/2004-1-red)](#2004)
 [![Static Badge](https://img.shields.io/badge/2005-3-red)](#2005)
 [![Static Badge](https://img.shields.io/badge/2006-1-red)](#2006)
 [![Static Badge](https://img.shields.io/badge/2007-2-red)](#2007)
-[![Static Badge](https://img.shields.io/badge/2008-4-red)](#2008)
+[![Static Badge](https://img.shields.io/badge/2008-5-red)](#2008)
 [![Static Badge](https://img.shields.io/badge/2009-5-red)](#2009)
 [![Static Badge](https://img.shields.io/badge/2010-5-red)](#2010)
 [![Static Badge](https://img.shields.io/badge/2011-6-red)](#2011)
-[![Static Badge](https://img.shields.io/badge/2012-7-red)](#2012)
+[![Static Badge](https://img.shields.io/badge/2012-9-red)](#2012)
 [![Static Badge](https://img.shields.io/badge/2013-6-red)](#2013)
 [![Static Badge](https://img.shields.io/badge/2014-5-red)](#2014)
 [![Static Badge](https://img.shields.io/badge/2015-5-red)](#2015)
@@ -396,6 +397,8 @@
 |    2012/10/09    | [Lowe, D.M. Extraction of Chemical Structures and Reactions From the Literature](../literature/2012/20121009_lowe_d_m.md)                                                                                                     |            data-source, reaction, uspto-1976-2013, uspto-1976-2016             |
 |    2012/09/16    | [Kayala, M.A. and Baldi, P.F. ReactionPredictor: Prediction of Complex Chemical Reactions at the Mechanistic Level Using Machine Learning](../literature/2012/20120916_kayala_m_a_and_baldi_p.md)                             |           single-step-synthesis, template-based, reaction-predictor            |
 |    2012/09/10    | [Latendresse, M. et al. Accurate Atom-Mapping Computation for Biochemical Reactions](../literature/2012/20120910_latendresse_m_et_al.md)                                                                                      |                              atom-to-atom-mapping                              |
+|    2012/08/15    | [de Luca, A. et al. Mining Chemical Reactions Using Neighborhood Behavior and Condensed Graphs of Reactions Approaches](../literature/2012/20120815_de_luca_a_et_al.md)                                                       |                            reaction-classification                             |
+|    2012/07/13    | [Kowalik, M. et al. Parallel Optimization of Synthetic Pathways Within the Network of Organic Chemistry](../literature/2012/20120713_kowalik_m_et_al.md)                                                                      |                                     other                                      |
 |    2012/07/13    | [Gothard, C.M. et al. Rewiring Chemistry: Algorithmic Discovery and Experimental Validation of One-Pot Reactions in the Network of Organic Chemistry](../literature/2012/20120713_gothard_c_m_et_al.md)                       |                                     other                                      |
 |    2012/06/21    | [Bonnet, P. Is Chemical Synthetic Accessibility Computationally Predictable for Drug and Lead-Like Molecules? A Comparative Assessment Between Medicinal and Computational Chemists](../literature/2012/20120621_bonnet_p.md) |                                synthesizability                                |
 |    2012/06/04    | [Christ, C.D. et al. Mining Electronic Laboratory Notebooks: Analysis, Retrosynthesis, and Reaction Based Enumeration](../literature/2012/20120604_christ_c_d_et_al.md)                                                       | reaction-classification, single-step-retrosynthesis, multi-step-retrosynthesis |
@@ -436,6 +439,7 @@
 ### 2008
 | Publication Date | Publication                                                                                                                                                                                                                 |                                                        Tags                                                        |
 |:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------:|
+|    2008/12/01    | [Chen, J.H. and Baldi, P. Synthesis Explorer: A Chemical Reaction Tutorial System for Organic Synthesis Design and Mechanism Prediction](../literature/2008/20081201_chen_j_h_and_baldi_p.md)                               |                                                       other                                                        |
 |    2008/08/31    | [Chen, J.H. and Baldi, P. No Electron Left Behind: A Rule-Based Expert System to Predict Chemical Reactions and Reaction Mechanisms](../literature/2008/20080831_chen_j_h_and_baldi_p.md)                                   | single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis, template-based |
 |    2008/06/06    | [Körner, R. and Apostolakis, J. Automatic Determination of Reaction Mappings and Reaction Center Information. 1. The Imaginary Transition State Energy Approach](../literature/2008/20080606_korner_r_and_apostolakis_j.md) |                                                atom-to-atom-mapping                                                |
 |    2008/06/06    | [Apostolakis, J. et al. Automatic Determination of Reaction Mappings and Reaction Center Information. 2. Validation on a Biochemical Reaction Database](../literature/2008/20080606_apostolakis_j_et_al.md)                 |                                                atom-to-atom-mapping                                                |
@@ -467,6 +471,12 @@
 | Publication Date | Publication                                                                                                                                                         |  Tags  |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|
 |    2004/08/01    | [Baber, J.C. and Feher, M. Predicting Synthetic Accessibility: Application in Drug Discovery and Development](../literature/2004/20040801_baber_j_c_and_feher_m.md) | review |
+
+
+### 2003
+| Publication Date | Publication                                                                                                                 | Tags  |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------|:-----:|
+|    2003/05/24    | [Vinkers, H.M. et al. SYNOPSIS: SYNthesize and OPtimize System In Silico](../literature/2003/20030524_vinkers_h_m_et_al.md) | other |
 
 
 ### 1999
@@ -554,6 +564,7 @@
 |    1977/06/01    | [Wipke, W.T. et al. SECS - Simulation and Evaluation of Chemical Synthesis: Strategy and Planning](../literature/1977/19770601_b_wipke_w_t_et_al.md)                       | history, secs  |
 |    1977/06/01    | [Sridharan, N.S. An Artificial Intelligence System to Model and Guide Chemical Synthesis Planning by Computer: A Proposal](../literature/1977/19770601_d_sridharan_n_s.md) |    history     |
 |    1977/06/01    | [Pensak, D.A. and Corey, E.J. LHASA - Logic and Heuristics Applied to Synthetic Analysis](../literature/1977/19770601_a_pensak_d_a_and_corey_e_j.md)                       | history, lhasa |
+|    1977/06/01    | [Gund, P., Andose, J.D., and Rhodes, J.B. Computer-Assisted Synthetic Analysis in Drug Research](../literature/1977/19770601_gund_p_et_al.md)                              |    history     |
 |    1977/06/01    | [Bersohn, M. Rapid Generation of Reactants in Organic Synthesis Programs](../literature/1977/19770601_c_bersohn_m.md)                                                      |    history     |
 
 
@@ -578,12 +589,12 @@
 
 
 ### 1972
-| Publication Date | Publication                                                                                                                                                                                                 |  Tags   |
-|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
-|    1972/01/01    | [Corey, E.J. et al. Techniques for Perception by a Computer of Synthetically Significant Structural Features in Complex Molecules](../literature/1972/19720101_b_corey_e_j_et_al.md)                        | history |
-|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Facile Man-Machine Communication of Chemical Structure by Interactive Computer Graphics](../literature/1972/19720101_a_corey_e_j_et_al.md)        | history |
-|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis for Complex Molecules. Methods and Procedures for Machine Generation of Synthetic Intermediates](../literature/1972/19720101_c_corey_e_j_et_al.md) | history |
-|    1972/01/01    | [Corey, E.J. and Perersson, G.A. Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures](../literature/1972/19720101_d_corey_e_j_and_perersson_g_a.md)    | history |
+| Publication Date | Publication                                                                                                                                                                                                |  Tags   |
+|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
+|    1972/01/01    | [Corey, E.J. et al. Techniques for Perception by a Computer of Synthetically Significant Structural Features in Complex Molecules](../literature/1972/19720101b_corey_e_j_et_al.md)                        | history |
+|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Facile Man-Machine Communication of Chemical Structure by Interactive Computer Graphics](../literature/1972/19720101a_corey_e_j_et_al.md)        | history |
+|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis for Complex Molecules. Methods and Procedures for Machine Generation of Synthetic Intermediates](../literature/1972/19720101c_corey_e_j_et_al.md) | history |
+|    1972/01/01    | [Corey, E.J. and Perersson, G.A. Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures](../literature/1972/19720101d_corey_e_j_and_perersson_g_a.md)    | history |
 
 
 ### 1969

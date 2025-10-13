@@ -28,8 +28,8 @@ The paper provides a view of the status of computer-assisted synthetic problem s
 
 # Citation
 ```
-@article {19720101_c_corey_e_j_et_al,
-  author       = { E. J. Corey and Richard D. III Cramer and W. Jeffrey Howe },
+@article {19720101c_corey_e_j_et_al,
+  author       = { E.J. Corey and Richard D. III Cramer and W. Jeffrey Howe },
   title        = { Computer-assisted synthetic analysis for complex molecules. Methods and procedures for machine generation of synthetic intermediates },
   journal      = { Journal of the American Chemical Society },
   year         = { 1972 },

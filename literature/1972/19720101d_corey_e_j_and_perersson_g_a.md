@@ -29,8 +29,8 @@ Algorithms for efficiently obtaining this "synthetic subset" have been developed
 
 # Citation
 ```
-@article {19720101_d_corey_e_j_and_perersson_g_a,
-  author       = { E. J. Corey and George A. Perersson },
+@article {19720101d_corey_e_j_and_perersson_g_a,
+  author       = { E.J. Corey and George A. Perersson },
   title        = { Algorithm for machine perception of synthetically significant rings in complex cyclic organic structures },
   journal      = { Journal of the American Chemical Society },
   year         = { 1972 },

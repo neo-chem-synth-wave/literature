@@ -35,7 +35,7 @@ Finally, procedures are described for machine perception of stereorelationships 
 # Citation
 ```
 @article {19741201_corey_e_j_et_al,
-  author       = { E. J. Corey and W. Jeffrey Howe and David A. Pensak },
+  author       = { E.J. Corey and W. Jeffrey Howe and David A. Pensak },
   title        = { Computer-assisted synthetic analysis. Methods for machine generation of synthetic intermediates involving multistep look-ahead },
   journal      = { Journal of the American Chemical Society },
   year         = { 1974 },
