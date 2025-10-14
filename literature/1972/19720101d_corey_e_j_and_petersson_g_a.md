@@ -3,7 +3,7 @@
 Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures
 
 **Authors:**
-Corey, E.J. and Perersson, G.A.
+Corey, E.J. and Petersson, G.A.
 
 **Publication Date:**
 1972/01/01
@@ -30,7 +30,7 @@ Algorithms for efficiently obtaining this "synthetic subset" have been developed
 # Citation
 ```
 @article {19720101d_corey_e_j_and_perersson_g_a,
-  author       = { E.J. Corey and George A. Perersson },
+  author       = { E.J. Corey and George A. Petersson },
   title        = { Algorithm for machine perception of synthetically significant rings in complex cyclic organic structures },
   journal      = { Journal of the American Chemical Society },
   year         = { 1972 },

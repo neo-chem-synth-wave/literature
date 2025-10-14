@@ -28,7 +28,7 @@ Details are given with regard to the performance of the graphics program, its or
 # Citation
 ```
 @article {19720101a_corey_e_j_et_al,
-  author       = { E.J. Corey and W. Todd Wipke and Richard D. III Cramer and W. Jeffrey Howe },
+  author       = { E.J. Corey and W. Todd Wipke and Richard D. {Cramer III} and W. Jeffrey Howe },
   title        = { Computer-assisted synthetic analysis. Facile man-machine communication of chemical structure by interactive computer graphics },
   journal      = { Journal of the American Chemical Society },
   year         = { 1972 },

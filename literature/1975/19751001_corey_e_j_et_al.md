@@ -30,7 +30,7 @@ The techniques and strategies described herein are also relevant to human proble
 # Citation
 ```
 @article {19751001_corey_e_j_et_al,
-  author       = { E. J. Corey and W. Jeffrey Howe and H. W. Orf and David A. Pensak and George Petersson },
+  author       = { E.J. Corey and W. Jeffrey Howe and H.W. Orf and David A. Pensak and George Petersson },
   title        = { General methods of synthetic analysis. Strategic bond disconnections for bridged polycyclic structures },
   journal      = { Journal of the American Chemical Society },
   year         = { 1975 },

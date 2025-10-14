@@ -9,7 +9,7 @@ Pensak, D.A. and Corey, E.J.
 1977/06/01
 
 **Link:**
-[ACS Symposium Series](https://pubs.acs.org/doi/abs/10.1021/bk-1977-0061.ch001)
+[ACS Symposium Series (Chapter 1)](https://pubs.acs.org/doi/10.1021/bk-1977-0061.ch001)
 
 **Alternative Links:**
 None
@@ -28,7 +28,7 @@ The basic structure of the program and the chemistry it employs are discussed gi
 
 # Citation
 ```
-@inbook {19770601_a_pensak_d_a_and_corey_e_j,
+@inbook {19770601a_pensak_d_a_and_corey_e_j,
   author       = { David A. Pensak and E.J. Corey },
   title        = { LHASA—Logic and Heuristics Applied to Synthetic Analysis },
   chapter      = { 1 },

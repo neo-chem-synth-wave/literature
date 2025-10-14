@@ -9,7 +9,7 @@ Sridharan, N.S.
 1977/06/01
 
 **Link:**
-[ACS Symposium Series](https://pubs.acs.org/doi/10.1021/bk-1977-0061.ch007)
+[ACS Symposium Series (Chapter 7)](https://pubs.acs.org/doi/10.1021/bk-1977-0061.ch007)
 
 **Alternative Links:**
 None
@@ -24,7 +24,7 @@ None
 
 # Citation
 ```
-@inbook {19770601_d_sridharan_n_s,
+@inbook {19770601g_sridharan_n_s,
   author       = { N.S. Sridharan },
   title        = { An Artificial Intelligence System to Model and Guide Chemical Synthesis Planning by Computer: A Proposal },
   chapter      = { 7 },

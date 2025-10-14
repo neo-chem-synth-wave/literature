@@ -3,13 +3,14 @@
 Computer-Assisted Synthetic Analysis in Drug Research
 
 **Authors:**
-Gund, P., Andose, J.D., and Rhodes, J.B.
+Gund, P., Andose, J.D., and Rhodes, J.B. |
+Gund, P. et al.
 
 **Publication Date:**
 1977/06/01
 
 **Link:**
-[ACS Symposium Series](https://pubs.acs.org/doi/10.1021/bk-1977-0061.ch008)
+[ACS Symposium Series (Chapter 8)](https://pubs.acs.org/doi/10.1021/bk-1977-0061.ch008)
 
 **Alternative Links:**
 None
@@ -24,7 +25,7 @@ None
 
 # Citation
 ```
-@inbook {19770601_gund_p_et_al,
+@inbook {19770601h_gund_p_et_al,
   author       = { P. Gund and J.D. Andose and J.B. Rhodes },
   title        = { Computer-Assisted Synthetic Analysis in Drug Research },
   chapter      = { 8 },

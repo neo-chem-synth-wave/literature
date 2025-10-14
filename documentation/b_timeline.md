@@ -1,16 +1,16 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-355-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-361-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
 [![Static Badge](https://img.shields.io/badge/1975-1-red)](#1975)
 [![Static Badge](https://img.shields.io/badge/1976-3-red)](#1976)
-[![Static Badge](https://img.shields.io/badge/1977-5-red)](#1977)
+[![Static Badge](https://img.shields.io/badge/1977-10-orange)](#1977)
 [![Static Badge](https://img.shields.io/badge/1978-2-red)](#1978)
 [![Static Badge](https://img.shields.io/badge/1980-5-red)](#1980)
 [![Static Badge](https://img.shields.io/badge/1981-1-red)](#1981)
 [![Static Badge](https://img.shields.io/badge/1985-2-red)](#1985)
-[![Static Badge](https://img.shields.io/badge/1988-1-red)](#1988)
+[![Static Badge](https://img.shields.io/badge/1988-2-red)](#1988)
 [![Static Badge](https://img.shields.io/badge/1989-1-red)](#1989)
 [![Static Badge](https://img.shields.io/badge/1990-1-red)](#1990)
 [![Static Badge](https://img.shields.io/badge/1992-2-red)](#1992)
@@ -523,9 +523,10 @@
 
 
 ### 1988
-| Publication Date | Publication                                                                                                                                                             |      Tags       |
-|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
-|    1988/05/22    | [Funatsu, K. and Sasaki, S. Computer-Assisted Organic Synthesis Design and Reaction Prediction System, "AIPHOS"](../literature/1988/19880522_funatsu_k_and_sasaki_s.md) | history, aiphos |
+| Publication Date | Publication                                                                                                                                                                                                               |      Tags       |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
+|    1988/05/22    | [Funatsu, K., Del Carpio, C.A., and Sasaki, S. Automatic Perception of Reactivity Characteristics of Molecular Structures Directed to the Planning of Organic Synthesis](../literature/1988/19880522b_funatsu_k_et_al.md) |     history     |
+|    1988/05/22    | [Funatsu, K. and Sasaki, S. Computer-Assisted Organic Synthesis Design and Reaction Prediction System, "AIPHOS"](../literature/1988/19880522_funatsu_k_and_sasaki_s.md)                                                   | history, aiphos |
 
 
 ### 1985
@@ -559,21 +560,26 @@
 
 
 ### 1977
-| Publication Date | Publication                                                                                                                                                                |      Tags      |
-|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
-|    1977/06/01    | [Wipke, W.T. et al. SECS - Simulation and Evaluation of Chemical Synthesis: Strategy and Planning](../literature/1977/19770601_b_wipke_w_t_et_al.md)                       | history, secs  |
-|    1977/06/01    | [Sridharan, N.S. An Artificial Intelligence System to Model and Guide Chemical Synthesis Planning by Computer: A Proposal](../literature/1977/19770601_d_sridharan_n_s.md) |    history     |
-|    1977/06/01    | [Pensak, D.A. and Corey, E.J. LHASA - Logic and Heuristics Applied to Synthetic Analysis](../literature/1977/19770601_a_pensak_d_a_and_corey_e_j.md)                       | history, lhasa |
-|    1977/06/01    | [Gund, P., Andose, J.D., and Rhodes, J.B. Computer-Assisted Synthetic Analysis in Drug Research](../literature/1977/19770601_gund_p_et_al.md)                              |    history     |
-|    1977/06/01    | [Bersohn, M. Rapid Generation of Reactants in Organic Synthesis Programs](../literature/1977/19770601_c_bersohn_m.md)                                                      |    history     |
+| Publication Date | Publication                                                                                                                                                                                   |      Tags      |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1977/06/01    | [Wipke, W.T. et al. SECS - Simulation and Evaluation of Chemical Synthesis: Strategy and Planning](../literature/1977/19770601e_wipke_w_t_et_al.md)                                           | history, secs  |
+|    1977/06/01    | [Whitlock Jr., H.W. An Organic Chemist's View of Formal Languages](../literature/1977/19770601c_whitlock_jr_h_w.md)                                                                           |    history     |
+|    1977/06/01    | [Varkony, T.H. et al. Computer-Assisted Structure Elucidation: Modelling Chemical Reaction Sequences Used in Molecular Structure Problems](../literature/1977/19770601i_varkony_t_h_et_al.md) |    history     |
+|    1977/06/01    | [Sridharan, N.S. An Artificial Intelligence System to Model and Guide Chemical Synthesis Planning by Computer: A Proposal](../literature/1977/19770601g_sridharan_n_s.md)                     |    history     |
+|    1977/06/01    | [Pensak, D.A. and Corey, E.J. LHASA - Logic and Heuristics Applied to Synthetic Analysis](../literature/1977/19770601a_pensak_d_a_and_corey_e_j.md)                                           | history, lhasa |
+|    1977/06/01    | [Gund, P. et al. Computer-Assisted Synthetic Analysis in Drug Research](../literature/1977/19770601h_gund_p_et_al.md)                                                                         |    history     |
+|    1977/06/01    | [Govind, R. and Powers, G.J. A Chemical Engineering View of Reaction Path Synthesis](../literature/1977/19770601d_govind_r_and_powers_g_j.md)                                                 |    history     |
+|    1977/06/01    | [Eakin, D.R. and Warr, W.A. Computerized Aids to Organic Synthesis in a Pharmaceutical Research Company](../literature/1977/19770601j_eakin_d_r_and_warr_w_a.md)                              |    history     |
+|    1977/06/01    | [Brandt, J. et al. Computer Programs for the Deductive Solution of Chemical Problems on the Basis of a Mathematical Model of Chemistry](../literature/1977/19770601b_brandt_j_et_al.md)       |    history     |
+|    1977/06/01    | [Bersohn, M. Rapid Generation of Reactants in Organic Synthesis Programs](../literature/1977/19770601f_bersohn_m.md)                                                                          |    history     |
 
 
 ### 1976
-| Publication Date | Publication                                                                                                                                                                                                                |      Tags      |
-|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
-|    1976/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. The Identification and Protection of Interfering Functionality in Machine-Generated Synthetic Intermediates](../literature/1976/19760101_c_corey_e_j_et_al.md)   | history. lhasa |
-|    1976/01/01    | [Corey, E.J. and Jorgensen, W.L. Computer-Assisted Synthetic Analysis. Synthetic Strategies Based on Appendages and the Use of Reconnective Transforms](../literature/1976/19760101_a_corey_e_j_and_jorgensen_w_l.md)      | history, lhasa |
-|    1976/01/01    | [Corey, E.J. and Jorgensen, W.L. Computer-Assisted Synthetic Analysis. Generation of Synthetic Sequences Involving Sequential Functional Group Interchanges](../literature/1976/19760101_b_corey_e_j_and_jorgensen_w_l.md) | history. lhasa |
+| Publication Date | Publication                                                                                                                                                                                                               |      Tags      |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|    1976/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. The Identification and Protection of Interfering Functionality in Machine-Generated Synthetic Intermediates](../literature/1976/19760101c_corey_e_j_et_al.md)   | history, lhasa |
+|    1976/01/01    | [Corey, E.J. and Jorgensen, W.L. Computer-Assisted Synthetic Analysis. Synthetic Strategies Based on Appendages and the Use of Reconnective Transforms](../literature/1976/19760101a_corey_e_j_and_jorgensen_w_l.md)      | history, lhasa |
+|    1976/01/01    | [Corey, E.J. and Jorgensen, W.L. Computer-Assisted Synthetic Analysis. Generation of Synthetic Sequences Involving Sequential Functional Group Interchanges](../literature/1976/19760101b_corey_e_j_and_jorgensen_w_l.md) | history, lhasa |
 
 
 ### 1975
@@ -594,7 +600,7 @@
 |    1972/01/01    | [Corey, E.J. et al. Techniques for Perception by a Computer of Synthetically Significant Structural Features in Complex Molecules](../literature/1972/19720101b_corey_e_j_et_al.md)                        | history |
 |    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Facile Man-Machine Communication of Chemical Structure by Interactive Computer Graphics](../literature/1972/19720101a_corey_e_j_et_al.md)        | history |
 |    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis for Complex Molecules. Methods and Procedures for Machine Generation of Synthetic Intermediates](../literature/1972/19720101c_corey_e_j_et_al.md) | history |
-|    1972/01/01    | [Corey, E.J. and Perersson, G.A. Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures](../literature/1972/19720101d_corey_e_j_and_perersson_g_a.md)    | history |
+|    1972/01/01    | [Corey, E.J. and Petersson, G.A. Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures](../literature/1972/19720101d_corey_e_j_and_petersson_g_a.md)    | history |
 
 
 ### 1969

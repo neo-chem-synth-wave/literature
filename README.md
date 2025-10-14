@@ -34,18 +34,18 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-355-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-361-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1975-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1976-3-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/1977-5-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1977-10-orange)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1978-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1980-5-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1981-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1985-2-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/1988-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1988-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1989-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1990-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1992-2-red)](#timeline)

@@ -32,8 +32,8 @@ The method described herein is suitable for application to substructure searchin
 
 # Citation
 ```
-@article {19760101_a_corey_e_j_and_jorgensen_w_l,
-  author       = { E. J. Corey and William L. Jorgensen },
+@article {19760101a_corey_e_j_and_jorgensen_w_l,
+  author       = { E.J. Corey and William L. Jorgensen },
   title        = { Computer-assisted synthetic analysis. Synthetic strategies based on appendages and the use of reconnective transforms },
   journal      = { Journal of the American Chemical Society },
   year         = { 1976 },

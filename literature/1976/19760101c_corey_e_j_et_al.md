@@ -16,7 +16,7 @@ Corey, E.J. et al.
 None
 
 **Tags:**
-history. lhasa
+history, lhasa
 
 
 # Abstract
@@ -30,8 +30,8 @@ Current capabilities, limitations, and further extensions of this program module
 
 # Citation
 ```
-@article {19760101_c_corey_e_j_et_al,
-  author       = { E. J. Corey and H. W. Orf and David A. Pensak },
+@article {19760101c_corey_e_j_et_al,
+  author       = { E.J. Corey and H.W. Orf and David A. Pensak },
   title        = { Computer-assisted synthetic analysis. The identification and protection of interfering functionality in machine-generated synthetic intermediates },
   journal      = { Journal of the American Chemical Society },
   year         = { 1976 },

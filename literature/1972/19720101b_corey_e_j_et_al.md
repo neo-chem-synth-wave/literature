@@ -28,7 +28,7 @@ A variety of data organizations, for example arrays, binary sets, and linked lis
 # Citation
 ```
 @article {19720101b_corey_e_j_et_al,
-  author       = { E.J. Corey and W. Todd Wipke and Richard D. III Cramer and W. Jeffrey Howe },
+  author       = { E.J. Corey and W. Todd Wipke and Richard D. {Cramer III} and W. Jeffrey Howe },
   title        = { Techniques for perception by a computer of synthetically significant structural features in complex molecules },
   journal      = { Journal of the American Chemical Society },
   year         = { 1972 },

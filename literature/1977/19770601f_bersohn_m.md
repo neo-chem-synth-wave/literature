@@ -9,7 +9,7 @@ Bersohn, M.
 1977/06/01
 
 **Link:**
-[ACS Symposium Series](https://pubs.acs.org/doi/10.1021/bk-1977-0061.ch006)
+[ACS Symposium Series (Chapter 6)](https://pubs.acs.org/doi/10.1021/bk-1977-0061.ch006)
 
 **Alternative Links:**
 None
@@ -24,7 +24,7 @@ None
 
 # Citation
 ```
-@inbook {19770601_c_bersohn_m,
+@inbook {19770601f_bersohn_m,
   author       = { Malcolm Bersohn },
   title        = { Rapid Generation of Reactants in Organic Synthesis Programs },
   chapter      = { 6 },
