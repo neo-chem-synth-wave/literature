@@ -9,7 +9,7 @@ Over the past decade, computer-assisted chemical synthesis has re-emerged as a p
 Even though the idea of utilizing computers to assist chemical synthesis has existed for nearly as long as computers themselves, the inherent complexity repeatedly exceeded the available resources.
 However, recent machine learning approaches have exhibited the potential to break this tendency.
 While learning about such approaches may seem daunting at first, access to a concise and up-to-date overview of the state-of-the-art literature is the consensus foundation for furthering understanding and expertise, especially for novice researchers.
-Consequently, the primary objective of the Literature research project is to systematically curate and facilitate access to relevant computer-assisted chemical synthesis literature.
+Consequently, the primary objective of the **Literature** research project is to systematically curate and facilitate access to relevant computer-assisted chemical synthesis literature.
 
 
 ## Utilization
@@ -90,6 +90,13 @@ All scripts are utilizing a base environment.
 |    2025/08/08    | [Cong, S. et al. Graph-Sequence Enhanced Transformer for Template-Free Prediction of Natural Product Biosynthesis](literature/2025/20250808_ceng_s_et_al.md)                                                 |             single-step-retrosynthesis, template-free, gset-retro              |
 |    2025/08/05    | [Zhu, L. et al. M2Echem: A Multilevel Dual Encoder-Based Model for Predicting Organic Chemistry Reactions](literature/2025/20250805_zhu_l_et_al.md)                                                          |                 single-step-synthesis, template-free, m2e-chem                 |
 |       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                      |                                      ...                                       |
+
+
+## Collections
+The public [Research Rabbit](https://www.researchrabbitapp.com) literature collections are available as follows:
+- [[_In Progress..._] **Historical Overview (Before 2000)**](https://www.researchrabbitapp.com/collection/public/DLW7X294ZE) - The computer-assisted chemical synthesis literature published before the year 2000.
+- [**Historical Overview (2000 to 2015)**](https://www.researchrabbitapp.com/collection/public/YZ15QP026Q) - The computer-assisted chemical synthesis literature published between the year 2000 and the year 2015.
+- [[_In Progress..._] **Historical Overview (After 2015)**](https://www.researchrabbitapp.com/collection/public/EZR940K7L1) - The computer-assisted chemical synthesis literature published after the year 2015.
 
 
 ## License Information
