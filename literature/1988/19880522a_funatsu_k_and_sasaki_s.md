@@ -28,7 +28,7 @@ This paper is an overview of the fundamental aspects of the system and developme
 
 # Citation
 ```
-@article {19880522_funatsu_k_and_sasaki_s,
+@article {19880522a_funatsu_k_and_sasaki_s,
   author       = { Kimito Funatsu and Shin-Ichi Sasaki },
   title        = { Computer-assisted organic synthesis design and reaction prediction system, “AIPHOS” },
   journal      = { Tetrahedron Computer Methodology },

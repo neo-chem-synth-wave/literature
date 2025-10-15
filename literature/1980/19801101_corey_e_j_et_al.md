@@ -29,7 +29,7 @@ A number of chemical examples are included.
 # Citation
 ```
 @article {19801101_corey_e_j_et_al,
-  author       = { E. J. Corey and Alan K. Long and Johann Mulzer and Harry W. Orf and A. Peter Johnson and Alan P. W. Hewett },
+  author       = { E.J. Corey and Alan K. Long and Johann Mulzer and Harry W. Orf and A. Peter Johnson and Alan P.W. Hewett },
   title        = { Computer-Assisted Synthetic Analysis. Long-Range Search Procedures for Antithetic Simplification of Complex Targets by Application of the Halolactonization Transform },
   journal      = { Journal of Chemical Information and Computer Sciences },
   year         = { 1980 },

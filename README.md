@@ -34,16 +34,17 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-361-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-365-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1975-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1976-3-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/1977-10-orange)](#timeline)
-[![Static Badge](https://img.shields.io/badge/1978-2-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1977-11-orange)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1978-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1980-5-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1981-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1984-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1985-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1988-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1989-1-red)](#timeline)
@@ -94,7 +95,7 @@ All scripts are utilizing a base environment.
 
 ## Collections
 The public [Research Rabbit](https://www.researchrabbitapp.com) literature collections are available as follows:
-- [[_In Progress..._] **Historical Overview (Before 2000)**](https://www.researchrabbitapp.com/collection/public/DLW7X294ZE) - The computer-assisted chemical synthesis literature published before the year 2000.
+- [**Historical Overview (Before 2000)**](https://www.researchrabbitapp.com/collection/public/DLW7X294ZE) - The computer-assisted chemical synthesis literature published before the year 2000.
 - [**Historical Overview (2000 to 2015)**](https://www.researchrabbitapp.com/collection/public/YZ15QP026Q) - The computer-assisted chemical synthesis literature published between the year 2000 and the year 2015.
 - [[_In Progress..._] **Historical Overview (After 2015)**](https://www.researchrabbitapp.com/collection/public/EZR940K7L1) - The computer-assisted chemical synthesis literature published after the year 2015.
 

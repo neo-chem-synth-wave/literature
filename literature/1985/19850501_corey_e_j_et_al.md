@@ -30,7 +30,7 @@ Examples of the operation of both programs are included.
 # Citation
 ```
 @article {19850501_corey_e_j_et_al,
-  author       = { E. J. Corey and Alan K. Long and Theodora W. Greene and John W. Miller },
+  author       = { E.J. Corey and Alan K. Long and Theodora W. Greene and John W. Miller },
   title        = { Computer-assisted synthetic analysis. Selection of protective groups for multistep organic syntheses. },
   journal      = { The Journal of Organic Chemistry },
   year         = { 1985 },

@@ -33,7 +33,7 @@ Several chemical examples are shown.
 # Citation
 ```
 @article {19800501_corey_e_j_et_al,
-  author       = { E. J. Corey and A. Peter Johnson and Alan K. Long },
+  author       = { E.J. Corey and A. Peter Johnson and Alan K. Long },
   title        = { Computer-assisted synthetic analysis. Techniques for efficient long-range retrosynthetic searches applied to the Robinson annulation process },
   journal      = { The Journal of Organic Chemistry },
   year         = { 1980 },

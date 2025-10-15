@@ -30,7 +30,7 @@ Comparisons are made between the results of the present method and those obtaine
 
 # Citation
 ```
-@article {19800201_b_corey_e_j_and_feiner_n_f,
+@article {19800201b_corey_e_j_and_feiner_n_f,
   author       = { E. J. Corey and N. Frank Feiner },
   title        = { Computer-assisted synthetic analysis. A rapid computer method for the semiquantitative assignment of conformation of six-membered ring systems. 2. Assessment of conformational energies },
   journal      = { The Journal of Organic Chemistry },

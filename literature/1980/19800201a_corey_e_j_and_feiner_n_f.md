@@ -29,7 +29,7 @@ It will be seen that these procedures enable the ultimate semiquantitative predi
 
 # Citation
 ```
-@article {19800201_a_corey_e_j_and_feiner_n_f,
+@article {19800201a_corey_e_j_and_feiner_n_f,
   author       = { E.J. Corey and N. Frank Feiner },
   title        = { Computer-assisted synthetic analysis. A rapid computer method for the semiquantitative assignment of conformation of six-membered ring systems. 1. Derivation of a preliminary conformational description of the six-membered ring },
   journal      = { The Journal of Organic Chemistry },

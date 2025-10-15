@@ -3,7 +3,7 @@
 The Automatic Detection of Chemical Reaction Sites
 
 **Authors:**
-Lynch, M.F., and Willett, P.
+Lynch, M.F. and Willett, P.
 
 **Publication Date:**
 1978/08/01
