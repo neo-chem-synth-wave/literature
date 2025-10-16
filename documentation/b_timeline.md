@@ -1,5 +1,5 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-365-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-370-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
@@ -11,10 +11,11 @@
 [![Static Badge](https://img.shields.io/badge/1981-1-red)](#1981)
 [![Static Badge](https://img.shields.io/badge/1984-1-red)](#1984)
 [![Static Badge](https://img.shields.io/badge/1985-2-red)](#1985)
+[![Static Badge](https://img.shields.io/badge/1987-1-red)](#1987)
 [![Static Badge](https://img.shields.io/badge/1988-2-red)](#1988)
-[![Static Badge](https://img.shields.io/badge/1989-1-red)](#1989)
-[![Static Badge](https://img.shields.io/badge/1990-1-red)](#1990)
-[![Static Badge](https://img.shields.io/badge/1992-2-red)](#1992)
+[![Static Badge](https://img.shields.io/badge/1989-2-red)](#1989)
+[![Static Badge](https://img.shields.io/badge/1990-3-red)](#1990)
+[![Static Badge](https://img.shields.io/badge/1992-3-red)](#1992)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#1993)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
 [![Static Badge](https://img.shields.io/badge/1996-1-red)](#1996)
@@ -475,9 +476,9 @@
 
 
 ### 2003
-| Publication Date | Publication                                                                                                                 | Tags  |
-|:----------------:|-----------------------------------------------------------------------------------------------------------------------------|:-----:|
-|    2003/05/24    | [Vinkers, H.M. et al. SYNOPSIS: SYNthesize and OPtimize System In Silico](../literature/2003/20030524_vinkers_h_m_et_al.md) | other |
+| Publication Date | Publication                                                                                                                 |      Tags       |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------|:---------------:|
+|    2003/05/24    | [Vinkers, H.M. et al. SYNOPSIS: SYNthesize and OPtimize System In Silico](../literature/2003/20030524_vinkers_h_m_et_al.md) | other, synopsis |
 
 
 ### 1999
@@ -509,18 +510,22 @@
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
 |    1992/11/01    | [Sello, G. Reaction Prediction: The Suggestions of the Beppe Program](../literature/1992/19921101_sello_g.md)                                                                                                                  |    history     |
 |    1992/06/01    | [Johnson, A.P. et al. Some Recent Progress in the Development of the LHASA Computer System for Organic Synthesis Design: Starting-Material-Oriented Retrosynthetic Analysis](../literature/1992/19920601_johnson_a_p_et_al.md) | history, lhasa |
+|    1992/02/01    | [Fontain, E. and Reitsam, K. The Generation of Reaction Networks With RAIN. 1. The Reaction Generator](../literature/1992/19920201_fontain_e_and_reitsam_k.md)                                                                 | history, rain  |
 
 
 ### 1990
-| Publication Date | Publication                                                                                                                                                                                                     |                    Tags                     |
-|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------:|
-|    1990/11/01    | [Gelernter, H. et al. Building and Refining a Knowledge Base for Synthetic Organic Chemistry via the Methodology of Inductive and Deductive Machine Learning](../literature/1990/19901101_gelernter_h_et_al.md) | history, synchem, tristan, isolde, brangane |
+| Publication Date | Publication                                                                                                                                                                                                      |                    Tags                     |
+|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------:|
+|    1990/11/01    | [Hendrickson, J.B. Organic Synthesis in the Age of Computers](../literature/1990/19901101c_hendrickson_j_b.md)                                                                                                   |               history, review               |
+|    1990/11/01    | [Gelernter, H. et al. Building and Refining a Knowledge Base for Synthetic Organic Chemistry via the Methodology of Inductive and Deductive Machine Learning](../literature/1990/19901101a_gelernter_h_et_al.md) | history, synchem, tristan, isolde, brangane |
+|    1990/11/01    | [Blurock, E.S. Computer-Aided Synthesis Design at RISC-Linz: Automatic Extraction and Use of Reaction Classes](../literature/1990/19901101b_blurock_e_s.md)                                                      |              history, retrosyn              |
 
 
 ### 1989
-| Publication Date | Publication                                                                                                                         |     Tags      |
-|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
-|    1989/12/18    | [Gasteiger, J. et al. Computer-Assisted Reaction Prediction and Synthesis Design](../literature/1989/19891218_gasteiger_j_et_al.md) | history, eros |
+| Publication Date | Publication                                                                                                                                                                |     Tags      |
+|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
+|    1989/12/18    | [Gasteiger, J. et al. Computer-Assisted Reaction Prediction and Synthesis Design](../literature/1989/19891218_gasteiger_j_et_al.md)                                        | history, eros |
+|    1989/09/07    | [Röse, P. and Gasteiger, J. Automated Derivation of Reaction Rules for the EROS 6.0 System for Reaction Prediction](../literature/1989/19890907_rose_p_and_gasteiger_j.md) | history, eros |
 
 
 ### 1988
@@ -528,6 +533,12 @@
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
 |    1988/05/22    | [Funatsu, K., Del Carpio, C.A., and Sasaki, S. Automatic Perception of Reactivity Characteristics of Molecular Structures Directed to the Planning of Organic Synthesis](../literature/1988/19880522b_funatsu_k_et_al.md) |     history     |
 |    1988/05/22    | [Funatsu, K. and Sasaki, S. Computer-Assisted Organic Synthesis Design and Reaction Prediction System, "AIPHOS"](../literature/1988/19880522a_funatsu_k_and_sasaki_s.md)                                                  | history, aiphos |
+
+
+### 1987
+| Publication Date | Publication                                                                                                                                                                                         |     Tags      |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
+|    1987/01/01    | [Gasteiger, J. et al. A New Treatment of Chemical Reactivity: Development of EROS, an Expert System for Reaction Prediction and Synthesis Design](../literature/1987/19870101_gasteiger_j_et_al.md) | history, eros |
 
 
 ### 1985

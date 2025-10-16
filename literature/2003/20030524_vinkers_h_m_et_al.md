@@ -16,7 +16,7 @@ Vinkers, H.M. et al.
 None
 
 **Tags:**
-other
+other, synopsis
 
 
 # Abstract
@@ -34,7 +34,7 @@ Twenty eight compounds designed with the program resulted in 18 synthesized and 
 # Citation
 ```
 @article {20030524_vinkers_h_m_et_al,
-  author       = { H. Maarten Vinkers and Marc R. de Jonge and Frederik F.D. Daeyaert and Jan Heeres and Lucien M.H. Koymans and Joop H. van Lenthe and Paul J. Lewi and Henk Timmerman and Koen Van Aken and Paul A.J. Janssen },
+  author       = { H. Maarten Vinkers and Marc R. {de Jonge} and Frederik F.D. Daeyaert and Jan Heeres and Lucien M.H. Koymans and Joop H. {van Lenthe} and Paul J. Lewi and Henk Timmerman and Koen Van Aken and Paul A.J. Janssen },
   title        = { SYNOPSIS: SYNthesize and OPtimize System in Silico },
   journal      = { Journal of Medicinal Chemistry },
   year         = { 2003 },
