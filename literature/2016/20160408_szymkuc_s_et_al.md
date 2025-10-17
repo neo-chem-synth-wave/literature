@@ -15,9 +15,6 @@ Szymkuć, S. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis
 
@@ -38,7 +35,7 @@ The machine is here to stay.
 
 # Citation
 ```
-@article {szymkuc2016a,
+@article {20160408_szymkuc_s_et_al,
   author       = { Sara Szymkuć and Ewa P. Gajewska and Tomasz Klucznik and Karol Molga and Piotr Dittwald and Michał Startek and Michał Bajczyk and Bartosz A. Grzybowski },
   title        = { Computer-Assisted Synthetic Planning: The End of the Beginning },
   journal      = { Angewandte Chemie International Edition },
@@ -46,7 +43,7 @@ The machine is here to stay.
   pages        = { 5904-5937 },
   volume       = { 55 },
   number       = { 20 },
-  doi          = { https://doi.org/10.1002/anie.201506101 },
+  doi          = { 10.1002/anie.201506101 },
   url          = { https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201506101 },
   eprint       = { https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201506101 }
 }

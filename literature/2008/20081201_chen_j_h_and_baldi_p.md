@@ -15,7 +15,7 @@ Chen, J.H. and Baldi, P.
 None
 
 **Tags:**
-other
+single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 
 
 # Abstract

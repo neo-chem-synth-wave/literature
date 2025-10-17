@@ -28,7 +28,7 @@ These sequences "rewire" synthetic pathways around popular and/or important smal
 
 # Citation
 ```
-@article {20120713_gothard_c_m_et_al,
+@article {20120713a_gothard_c_m_et_al,
   author       = { Chris M. Gothard and Siowling Soh and Nosheen A. Gothard and Bartlomiej Kowalczyk and Yanhu Wei and Bilge Baytekin and Bartosz A. Grzybowski },
   title        = { Rewiring Chemistry: Algorithmic Discovery and Experimental Validation of One-Pot Reactions in the Network of Organic Chemistry },
   journal      = { Angewandte Chemie International Edition },

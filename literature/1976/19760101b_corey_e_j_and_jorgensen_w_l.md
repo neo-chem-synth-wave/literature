@@ -31,7 +31,7 @@ In order to guide a choice between alternative routes, a rating is derived for e
 # Citation
 ```
 @article {19760101b_corey_e_j_and_jorgensen_w_l,
-  author       = { E.J. Corey and William L. Jorgensen },
+  author       = { E. J. Corey and William L. Jorgensen },
   title        = { Computer-assisted synthetic analysis. Generation of synthetic sequences involving sequential functional group interchanges },
   journal      = { Journal of the American Chemical Society },
   year         = { 1976 },

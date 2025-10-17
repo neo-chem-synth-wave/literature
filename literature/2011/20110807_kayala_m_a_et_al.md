@@ -39,7 +39,7 @@ A web interface to the machine learning based mechanistic reaction predictor is 
 # Citation
 ```
 @article {20110807_kayala_m_a_et_al,
-  author       = { Matthew A. Kayala and Chlo{\'e}-Agathe Azencott and Jonathan H. Chen and Pierre Baldi },
+  author       = { Matthew A. Kayala and Chloé-Agathe Azencott and Jonathan H. Chen and Pierre Baldi },
   title        = { Learning to Predict Chemical Reactions },
   journal      = { Journal of Chemical Information and Modeling },
   year         = { 2011 },

@@ -25,7 +25,7 @@ None
 # Citation
 ```
 @inbook {19770601j_eakin_d_r_and_warr_w_a,
-  author       = { D.R. Eakin and W.A. Warr },
+  author       = { D. R. Eakin and W. A. Warr },
   title        = { Computerized Aids to Organic Synthesis in a Pharmaceutical Research Company },
   chapter      = { 10 },
   pages        = { 217-226 },

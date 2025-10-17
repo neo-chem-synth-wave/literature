@@ -26,7 +26,7 @@ None
 # Citation
 ```
 @inbook {19770601e_wipke_w_t_et_al,
-  author       = { W.T. Wipke and H. Braun and G. Smith and F. Choplin and W. Sieber },
+  author       = { W. T. Wipke and H. Braun and G. Smith and F. Choplin and W. Sieber },
   title        = { SECS—Simulation and Evaluation of Chemical Synthesis: Strategy and Planning },
   chapter      = { 5 },
   pages        = { 97-127 },

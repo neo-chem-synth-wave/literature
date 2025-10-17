@@ -27,7 +27,7 @@ Various techniques used in the estimation of accessibility are described and the
 # Citation
 ```
 @article {20040801_baber_j_c_and_feher_m,
-  author       = { J.C. Baber and M. Feher },
+  author       = { J. C. Baber and M. Feher },
   title        = { Predicting Synthetic Accessibility: Application in Drug Discovery and Development },
   journal      = { Mini-Reviews in Medicinal Chemistry },
   year         = { 2004 },

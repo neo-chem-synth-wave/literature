@@ -15,9 +15,6 @@ Sadowski, P. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-True
-
 **Tags:**
 single-step-synthesis
 
@@ -33,7 +30,7 @@ The approach is demonstrated in detail using a small set of organic radical reac
 
 # Citation
 ```
-@article {sadowski2016a,
+@article {20161017_sadowski_p_et_al,
   author       = { Peter Sadowski and David Fooshee and Niranjan Subrahmanya and Pierre Baldi },
   title        = { Synergies Between Quantum Mechanics and Machine Learning in Reaction Prediction },
   journal      = { Journal of Chemical Information and Modeling },

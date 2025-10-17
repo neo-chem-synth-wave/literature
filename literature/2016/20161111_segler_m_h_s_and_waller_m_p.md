@@ -14,9 +14,6 @@ Segler, M.H.S. and Waller, M.P.
 **Alternative Links:**
 [arXiv](https://arxiv.org/abs/1608.07117)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, template-based, fingerprint
 
@@ -32,7 +29,7 @@ Our model enables computers to infer hypotheses about reactivity and reactions b
 
 # Citation
 ```
-@article {segler2016a,
+@article {20161111_segler_m_h_s_and_waller_m_p,
   author       = { Marwin H. S. Segler and Mark P. Waller },
   title        = { Modelling Chemical Reasoning to Predict and Invent Reactions },
   journal      = { Chemistry – A European Journal },
@@ -40,7 +37,7 @@ Our model enables computers to infer hypotheses about reactivity and reactions b
   pages        = { 6118-6128 },
   volume       = { 23 },
   number       = { 25 },
-  doi          = { https://doi.org/10.1002/chem.201604556 },
+  doi          = { 10.1002/chem.201604556 },
   url          = { https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201604556 },
   eprint       = { https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/chem.201604556 }
 }

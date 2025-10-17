@@ -19,9 +19,6 @@ Coley, C.W. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445544) |
 [ResearchGate](https://www.researchgate.net/publication/316354788_Prediction_of_Organic_Reaction_Outcomes_Using_Machine_Learning)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-synthesis, template-based, data-source, reaction, uspto-15k
 
@@ -38,7 +35,7 @@ In a 5-fold cross-validation, the trained model assigns the major product rank 1
 
 # Citation
 ```
-@article {coley2017a,
+@article {20170418_coley_c_w_et_al,
   author       = { Connor W. Coley and Regina Barzilay and Tommi S. Jaakkola and William H. Green and Klavs F. Jensen },
   title        = { Prediction of Organic Reaction Outcomes Using Machine Learning },
   journal      = { ACS Central Science },

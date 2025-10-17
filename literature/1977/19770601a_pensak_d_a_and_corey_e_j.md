@@ -29,7 +29,7 @@ The basic structure of the program and the chemistry it employs are discussed gi
 # Citation
 ```
 @inbook {19770601a_pensak_d_a_and_corey_e_j,
-  author       = { David A. Pensak and E.J. Corey },
+  author       = { David A. Pensak and E. J. Corey },
   title        = { LHASA—Logic and Heuristics Applied to Synthetic Analysis },
   chapter      = { 1 },
   pages        = { 1-32 },

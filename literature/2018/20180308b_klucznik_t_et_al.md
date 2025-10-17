@@ -42,7 +42,7 @@ All of these computer-planned routes were successfully executed in the laborator
 
 # Citation
 ```
-@article {20180308_klucznik_t_et_al,
+@article {20180308b_klucznik_t_et_al,
   author       = { Tomasz Klucznik and Barbara Mikulak-Klucznik and Michael P. McCormack and Heather Lima and Sara Szymkuć and Manishabrata Bhowmick and Karol Molga and Yubai Zhou and Lindsey Rickershauser and Ewa P. Gajewska and Alexei Toutchkine and Piotr Dittwald and Michał P. Startek and Gregory J. Kirkovits and Rafał Roszak and Ariel Adamski and Bianka Sieredzińska and Milan Mrksich and Sarah L.J. Trice and Bartosz A. Grzybowski },
   title        = { Efficient Syntheses of Diverse, Medicinally Relevant Targets Planned by Computer and Executed in the Laboratory },
   journal      = { Chem },

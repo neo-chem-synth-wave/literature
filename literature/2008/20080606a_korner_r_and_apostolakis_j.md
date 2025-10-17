@@ -31,7 +31,7 @@ We provide the statistics of the calculations on the KEGG database and discuss s
 
 # Citation
 ```
-@article {20080606_korner_r_and_apostolakis_j,
+@article {20080606a_korner_r_and_apostolakis_j,
   author       = { Robert Körner and Joannis Apostolakis },
   title        = { Automatic Determination of Reaction Mappings and Reaction Center Information. 1. The Imaginary Transition State Energy Approach },
   journal      = { Journal of Chemical Information and Modeling },

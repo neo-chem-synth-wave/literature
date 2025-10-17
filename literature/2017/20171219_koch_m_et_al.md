@@ -17,9 +17,6 @@ Koch, M. et al.
 [ResearchGate](https://www.researchgate.net/publication/321912129_Molecular_structures_enumeration_and_virtual_screening_in_the_chemical_space_with_RetroPath20) |
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/345712064_Molecular_structures_enumeration_and_virtual_screening_in_the_chemical_space_with_RetroPath20)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-synthesis
 
@@ -49,7 +46,7 @@ Because it is open source and freely available on MyExperiment.org, workflow com
 
 # Citation
 ```
-@article {koch2017a,
+@article {20171227_wang_l_et_al,
   author       = { Mathilde Koch and Thomas Duigou and Pablo Carbonell and Jean-Loup Faulon },
   title        = { Molecular structures enumeration and virtual screening in the chemical space with RetroPath2.0 },
   journal      = { Journal of Cheminformatics },

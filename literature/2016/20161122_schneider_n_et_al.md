@@ -3,7 +3,8 @@
 What's What: The (Nearly) Definitive Guide to Reaction Role Assignment
 
 **Authors:**
-Schneider, N., Stiefl, N., and Landrum, G.A.
+Schneider, N., Stiefl, N., and Landrum, G.A. |
+Schneider, N. et al.
 
 **Publication Date:**
 2016/11/22
@@ -13,9 +14,6 @@ Schneider, N., Stiefl, N., and Landrum, G.A.
 
 **Alternative Links:**
 None
-
-**Starred:**
-True
 
 **Tags:**
 reaction-role-assignment, fingerprint, data-source, uspto-50k
@@ -36,7 +34,7 @@ The new method is available as part of the RDKit toolkit and the data sets and J
 
 # Citation
 ```
-@article {schneider2016b,
+@article {20161122_schneider_n_et_al,
   author       = { Nadine Schneider and Nikolaus Stiefl and Gregory A. Landrum },
   title        = { What’s What: The (Nearly) Definitive Guide to Reaction Role Assignment },
   journal      = { Journal of Chemical Information and Modeling },

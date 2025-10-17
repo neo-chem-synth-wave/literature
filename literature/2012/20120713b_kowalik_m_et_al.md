@@ -27,8 +27,8 @@ Examples are provided to illustrate single-target optimization and parallel opti
 
 # Citation
 ```
-@article {20120713_kowalik_m_et_al,
-  author       = { Mikołaj Kowalik and Chris M. Gothard and Aaron M. Drews and Nosheen A. Gothard and Alex Weckiewicz and Patrick E. Fuller and Bartosz A. Grzybowski and Kyle J.M. Bishop },
+@article {20120713b_kowalik_m_et_al,
+  author       = { Mikołaj Kowalik and Chris M. Gothard and Aaron M. Drews and Nosheen A. Gothard and Alex Weckiewicz and Patrick E. Fuller and Bartosz A. Grzybowski and Kyle J. M. Bishop },
   title        = { Parallel Optimization of Synthetic Pathways within the Network of Organic Chemistry },
   journal      = { Angewandte Chemie International Edition },
   year         = { 2012 },

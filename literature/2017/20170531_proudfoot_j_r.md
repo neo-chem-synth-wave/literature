@@ -14,9 +14,6 @@ Proudfoot, J.R.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability
 
@@ -30,7 +27,7 @@ C_A varies with expectation across a number of basic reaction examples and may i
 
 # Citation
 ```
-@article {proudfoot2017a,
+@article {20170531_proudfoot_j_r,
   author       = { John R. Proudfoot },
   title        = { Molecular Complexity and Retrosynthesis },
   journal      = { The Journal of Organic Chemistry },

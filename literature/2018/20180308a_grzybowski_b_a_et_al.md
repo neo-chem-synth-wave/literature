@@ -25,7 +25,7 @@ In this Backstory, Bartosz Grzybowski and co-workers narrate their long, long ro
 
 # Citation
 ```
-@article {20180308_grzybowski_b_a_et_al,
+@article {20180308a_grzybowski_b_a_et_al,
   author       = { Bartosz A. Grzybowski and Sara Szymkuć and Ewa P. Gajewska and Karol Molga and Piotr Dittwald and Agnieszka Wołos and Tomasz Klucznik },
   title        = { Chematica: A Story of Computer Code That Started to Think like a Chemist },
   journal      = { Chem },

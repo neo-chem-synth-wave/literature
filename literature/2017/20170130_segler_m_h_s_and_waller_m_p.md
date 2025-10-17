@@ -14,9 +14,6 @@ Segler, M.H.S. and Waller, M.P.
 **Alternative Links:**
 None
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, single-step-synthesis, template-based, fingerprint
 
@@ -31,7 +28,7 @@ We show that by training our model on 3.5 million reactions taken from the colle
 
 # Citation
 ```
-@article {segler2017a,
+@article {20170130_segler_m_h_s_and_waller_m_p,
   author       = { Marwin H. S. Segler and Mark P. Waller },
   title        = { Neural-Symbolic Machine Learning for Retrosynthesis and Reaction Prediction },
   journal      = { Chemistry – A European Journal },
@@ -39,7 +36,7 @@ We show that by training our model on 3.5 million reactions taken from the colle
   pages        = { 5966-5971 },
   volume       = { 23 },
   number       = { 25 },
-  doi          = { https://doi.org/10.1002/chem.201605499 },
+  doi          = { 10.1002/chem.201605499 },
   url          = { https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201605499 },
   eprint       = { https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/chem.201605499 }
 }

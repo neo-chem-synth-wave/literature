@@ -18,9 +18,6 @@ Coley, C.W. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746854) |
 [ResearchGate](https://www.researchgate.net/publication/321114070_Computer-Assisted_Retrosynthesis_Based_on_Molecular_Similarity)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, retrosim, data-source, reaction, uspto-50k
 
@@ -34,7 +31,7 @@ Extension of the one-step strategy to multistep pathway planning is demonstrated
 
 # Citation
 ```
-@article {coley2017b,
+@article {20171116_coley_c_w_et_al,
   author       = { Connor W. Coley and Luke Rogers and William H. Green and Klavs F. Jensen },
   title        = { Computer-Assisted Retrosynthesis Based on Molecular Similarity },
   journal      = { ACS Central Science },

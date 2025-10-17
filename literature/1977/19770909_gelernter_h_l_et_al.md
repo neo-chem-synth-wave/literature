@@ -29,7 +29,7 @@ Most of these are rectified in SYNCHEM2, a revised version of the program which 
 # Citation
 ```
 @article {19770909_gelernter_h_l_et_al,
-  author       = { H.L. Gelernter and A.F. Sanders and D.L. Larsen and K.K. Agarwal and R.H. Boivie and G.A. Spritzer and J.E. Searleman },
+  author       = { H. L. Gelernter and A. F. Sanders and D. L. Larsen and K. K. Agarwal and R. H. Boivie and G. A. Spritzer and J. E. Searleman },
   title        = { Empirical Explorations of SYNCHEM },
   journal      = { Science },
   year         = { 1977 },

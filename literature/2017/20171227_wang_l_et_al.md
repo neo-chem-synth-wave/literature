@@ -15,9 +15,6 @@ Wang, L. et al.
 **Alternative Links:**
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC5851934)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -32,7 +29,7 @@ We also put forth a systematic workflow that can be implemented in projects requ
 
 # Citation
 ```
-@article {wang2017a,
+@article {20171227_wang_l_et_al,
   author       = { Lin Wang and Satyakam Dash and Chiam Yu Ng and Costas D. Maranas },
   title        = { A review of computational tools for design and reconstruction of metabolic pathways },
   journal      = { Synthetic and Systems Biotechnology },
@@ -41,7 +38,7 @@ We also put forth a systematic workflow that can be implemented in projects requ
   volume       = { 2 },
   number       = { 4 },
   issn         = { 2405-805X },
-  doi          = { https://doi.org/10.1016/j.synbio.2017.11.002 },
+  doi          = { 10.1016/j.synbio.2017.11.002 },
   url          = { https://www.sciencedirect.com/science/article/pii/S2405805X17300820 }
 }
 ```

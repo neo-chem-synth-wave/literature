@@ -25,7 +25,7 @@ None
 # Citation
 ```
 @inbook {19770601g_sridharan_n_s,
-  author       = { N.S. Sridharan },
+  author       = { N. S. Sridharan },
   title        = { An Artificial Intelligence System to Model and Guide Chemical Synthesis Planning by Computer: A Proposal },
   chapter      = { 7 },
   pages        = { 148-178 },

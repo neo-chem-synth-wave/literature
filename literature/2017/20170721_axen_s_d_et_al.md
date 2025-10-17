@@ -16,9 +16,6 @@ Axen, S.D. et al.
 [GitHub](https://github.com/keiserlab/e3fp/tree/1.1) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6075869)
 
-**Starred:**
-False
-
 **Tags:**
 compound-descriptor, fingerprint, e3fp
 
@@ -34,7 +31,7 @@ Finally, we report novel drug-to-target binding predictions inaccessible by 2D f
 
 # Citation
 ```
-@article {axen2017a,
+@article {20170721_axen_s_d_et_al,
   author       = { Seth D. Axen and Xi-Ping Huang and Elena L. Cáceres and Leo Gendelev and Bryan L. Roth and Michael J. Keiser },
   title        = { A Simple Representation of Three-Dimensional Molecular Structure },
   journal      = { Journal of Medicinal Chemistry },

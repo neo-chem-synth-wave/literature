@@ -30,7 +30,7 @@ A number of sample antithetic analyses are included, and future extensions are d
 # Citation
 ```
 @article {19780501_corey_e_j_and_long_a_k,
-  author       = { E.J. Corey and Alan K. Long },
+  author       = { E. J. Corey and Alan K. Long },
   title        = { Computer-assisted synthetic analysis. Performance of long-range strategies for stereoselective olefin synthesis },
   journal      = { The Journal of Organic Chemistry },
   year         = { 1978 },

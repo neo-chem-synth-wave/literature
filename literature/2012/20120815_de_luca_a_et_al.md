@@ -32,7 +32,7 @@ The analysis of the SOM clusters proved chemically meaningful CGR substructures 
 # Citation
 ```
 @article {20120815_de_luca_a_et_al,
-  author       = { Aurélie de Luca and Dragos Horvath and Gilles Marcou and Vitaly Solov'ev and Alexandre Varnek },
+  author       = { Aurélie {de Luca} and Dragos Horvath and Gilles Marcou and Vitaly Solov'ev and Alexandre Varnek },
   title        = { Mining Chemical Reactions Using Neighborhood Behavior and Condensed Graphs of Reactions Approaches },
   journal      = { Journal of Chemical Information and Modeling },
   year         = { 2012 },

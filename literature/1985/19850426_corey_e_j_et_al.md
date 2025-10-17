@@ -29,7 +29,7 @@ Computer graphics and standard chemical structures are used for man-machine comm
 # Citation
 ```
 @article {19850426_corey_e_j_et_al,
-  author       = { E.J. Corey and Alan K. Long and Stewart D. Rubenstein },
+  author       = { E. J. Corey and Alan K. Long and Stewart D. Rubenstein },
   title        = { Computer-Assisted Analysis in Organic Synthesis },
   journal      = { Science },
   year         = { 1985 },

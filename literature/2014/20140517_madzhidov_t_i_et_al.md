@@ -28,7 +28,7 @@ The obtained models ensure a good correlation between the predicted and experime
 # Citation
 ```
 @article {20140517_madzhidov_t_i_et_al,
-  author       = { T.I. Madzhidov and P.G. Polishchuk and R.I. Nugmanov and A.V. Bodrov and A.I. Lin and I.I. Baskin and A.A. Varnek and I.S. Antipin },
+  author       = { T. I. Madzhidov and P. G. Polishchuk and R. I. Nugmanov and A. V. Bodrov and A. I. Lin and I. I. Baskin and A. A. Varnek and I. S. Antipin },
   title        = { Structure-reactivity relationships in terms of the condensed graphs of reactions },
   journal      = { Russian Journal of Organic Chemistry },
   year         = { 2014 },

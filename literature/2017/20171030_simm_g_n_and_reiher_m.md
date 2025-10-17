@@ -15,9 +15,6 @@ Simm, G.N. and Reiher, M.
 [arXiv](https://arxiv.org/abs/1709.02479) |
 [ETH Zürich Research Collection](https://www.research-collection.ethz.ch/entities/publication/61c87d79-170d-415a-a302-a1a0f11a052e)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-network
 
@@ -35,7 +32,7 @@ We apply our protocol to the formose reaction to study different pathways of sug
 
 # Citation
 ```
-@article {simm2017a,
+@article {20171030_simm_g_n_and_reiher_m,
   author       = { Gregor N. Simm and Markus Reiher },
   title        = { Context-Driven Exploration of Complex Chemical Reaction Networks },
   journal      = { Journal of Chemical Theory and Computation },

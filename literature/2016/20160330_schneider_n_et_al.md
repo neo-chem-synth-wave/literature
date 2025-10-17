@@ -15,11 +15,8 @@ Schneider, N. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-True
-
 **Tags:**
-analysis, data-source
+other
 
 
 # Abstract
@@ -34,7 +31,7 @@ Finally, we found that today's typical product molecule is larger, more hydropho
 
 # Citation
 ```
-@article {schneider2016a,
+@article {20160330_schneider_n_et_al,
   author       = { Nadine Schneider and Daniel M. Lowe and Roger A. Sayle and Michael A. Tarselli and Gregory A. Landrum },
   title        = { Big Data from Pharmaceutical Patents: A Computational Analysis of Medicinal Chemists’ Bread and Butter },
   journal      = { Journal of Medicinal Chemistry },

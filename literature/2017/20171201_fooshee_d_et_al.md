@@ -15,9 +15,6 @@ Fooshee, D. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis
 
@@ -36,7 +33,7 @@ This approach has shown promising preliminary results.
 
 # Citation
 ```
-@article {C7ME00107J,
+@article {20171201_fooshee_d_et_al,
   author       = { David Fooshee and Aaron Mood and Eugene Gutman and Mohammadamin Tavakoli and Gregor Urban and Frances Liu and Nancy Huynh and David Van Vranken and Pierre Baldi },
   title        = { Deep learning for chemical reaction prediction },
   journal      = { Mol. Syst. Des. Eng. },

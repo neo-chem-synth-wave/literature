@@ -25,7 +25,7 @@ None
 # Citation
 ```
 @inbook {19770601c_whitlock_jr_h_w,
-  author       = { H.W. {Whitlock Jr.} },
+  author       = { H. W. {Whitlock Jr.} },
   title        = { An Organic Chemist's View of Formal Languages },
   chapter      = { 3 },
   pages        = { 60-80 },

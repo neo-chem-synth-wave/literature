@@ -25,7 +25,7 @@ Pathways for molecular synthesis can be devised with a computer and equipment fo
 # Citation
 ```
 @article {19691010_corey_e_j_and_wipke_w_t,
-  author       = { E.J. Corey and W. Todd Wipke },
+  author       = { E. J. Corey and W. Todd Wipke },
   title        = { Computer-Assisted Design of Complex Organic Syntheses },
   journal      = { Science },
   year         = { 1969 },

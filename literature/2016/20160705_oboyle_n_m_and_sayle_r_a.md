@@ -16,9 +16,6 @@ O’Boyle, N.M. and Sayle, R.A.
 [ResearchGate](https://www.researchgate.net/publication/304914634_Comparing_structural_fingerprints_using_a_literature-based_similarity_benchmark) |
 [GitHub](https://github.com/nextmovesoftware/similaritybenchmark)
 
-**Starred:**
-False
-
 **Tags:**
 compound-descriptor, fingerprint, analysis
 
@@ -47,7 +44,7 @@ When ranking diverse structures or carrying out a virtual screen, we find that t
 
 # Citation
 ```
-@article {oboyle2016a,
+@article {20160705_oboyle_n_m_and_sayle_r_a,
   author       = { Noel M. O'Boyle and Roger A. Sayle },
   title        = { Comparing structural fingerprints using a literature-based similarity benchmark },
   journal      = { Journal of Cheminformatics },

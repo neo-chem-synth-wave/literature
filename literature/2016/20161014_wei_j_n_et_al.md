@@ -17,9 +17,6 @@ Wei, J.N. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084081) |
 [ResearchGate](https://www.researchgate.net/publication/306397812_Neural_networks_for_the_prediction_organic_chemistry_reactions)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-synthesis, template-based, fingerprint, data-source
 
@@ -34,7 +31,7 @@ We test this method on problems from a popular organic chemistry textbook.
 
 # Citation
 ```
-@article {wei2016a,
+@article {20161014_wei_j_n_et_al,
   author       = { Jennifer N. Wei and David Duvenaud and Alán Aspuru-Guzik },
   title        = { Neural Networks for the Prediction of Organic Chemistry Reactions },
   journal      = { ACS Central Science },

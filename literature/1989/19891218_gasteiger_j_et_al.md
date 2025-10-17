@@ -31,7 +31,7 @@ Recent work on synthesis design for aromatic compounds is highlighted and new de
 # Citation
 ```
 @article {19891218_gasteiger_j_et_al,
-  author       = { J. Gasteiger and W.D. Ihlenfeldt and P. Röse and R. Wanke },
+  author       = { J. Gasteiger and W. D. Ihlenfeldt and P. Röse and R. Wanke },
   title        = { Computer-assisted reaction prediction and synthesis design },
   journal      = { Analytica Chimica Acta },
   year         = { 1990 },
