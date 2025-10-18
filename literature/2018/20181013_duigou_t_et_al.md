@@ -16,9 +16,6 @@ Duigou, T. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323975) |
 [HAL INRAE](https://hal.inrae.fr/hal-02619044)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, reaction-pattern, retro-rules
 
@@ -33,8 +30,8 @@ Such numerous representations of reactions expand natural chemical diversity by 
 
 # Citation
 ```
-@article {duigou2018a,
-  author       = { Thomas Duigou and Melchior du Lac and Pablo Carbonell and Jean-Loup Faulon },
+@article {20181013_duigou_t_et_al,
+  author       = { Thomas Duigou and Melchior {du Lac} and Pablo Carbonell and Jean-Loup Faulon },
   title        = { RetroRules: a database of reaction rules for engineering biology },
   journal      = { Nucleic Acids Research },
   year         = { 2018 },

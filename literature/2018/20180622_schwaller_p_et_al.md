@@ -17,9 +17,6 @@ Schwaller, P. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6053976) |
 [ResearchGate](https://www.researchgate.net/publication/321095915_Found_in_Translation_Predicting_Outcomes_of_Complex_Organic_Chemistry_Reactions_using_Neural_Sequence-to-Sequence_Models)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free
 
@@ -35,7 +32,7 @@ Also, a top-1 accuracy of 65.4% is reached on a larger and noisier dataset.
 
 # Citation
 ```
-@article {schwaller2018a,
+@article {20180622_schwaller_p_et_al,
   author       = { Philippe Schwaller and Théophile Gaudin and Dávid Lányi and Costas Bekas and Teodoro Laino },
   title        = { “Found in Translation”: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models },
   journal      = { Chem. Sci. },

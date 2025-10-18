@@ -15,9 +15,6 @@ Fagerberg, R. et al.
 **Alternative Links:**
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC5887019)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-synthesis
 
@@ -36,7 +33,7 @@ Decalin is used as an illustrative example of the use and implications of our re
 
 # Citation
 ```
-@article {fagerberg2018a,
+@article {20180405_fagerberg_r_et_al,
   author       = { Rolf Fagerberg and Christoph Flamm and Rojin Kianian and Daniel Merkle and Peter F. Stadler },
   title        = { Finding the K best synthesis plans },
   journal      = { Journal of Cheminformatics },

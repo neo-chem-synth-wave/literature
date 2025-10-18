@@ -16,9 +16,6 @@ Coley, C.W. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6335848) |
 [ResearchGate](https://www.researchgate.net/publication/329204748_A_graph-convolutional_neural_network_model_for_the_prediction_of_chemical_reactivity)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, template-based
 
@@ -33,7 +30,7 @@ We gain additional insight into predictions via the design of the neural model, 
 
 # Citation
 ```
-@article {coley2018c,
+@article {20181126_coley_c_w_et_al,
   author       = { Connor W. Coley and Wengong Jin and Luke Rogers and Timothy F. Jamison and Tommi S. Jaakkola and William H. Green and Regina Barzilay and Klavs F. Jensen },
   title        = { A graph-convolutional neural network model for the prediction of chemical reactivity },
   journal      = { Chem. Sci. },

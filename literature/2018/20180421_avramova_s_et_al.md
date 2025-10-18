@@ -15,9 +15,6 @@ Avramova, S. et al.
 **Alternative Links:**
 [ResearchGate](https://www.researchgate.net/publication/324724046_RetroTransformDB_A_Dataset_of_Generic_Transforms_for_Retrosynthetic_Analysis)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, compound, retro-transform-db
 
@@ -35,7 +32,7 @@ The RetroTransformDB dataset may be used by open-source and commercial software 
 
 # Citation
 ```
-@article {avramova2018a,
+@article {20180421_avramova_s_et_al,
   author       = { Svetlana Avramova and Nikolay Kochev and Plamen Angelov },
   title        = { RetroTransformDB: A Dataset of Generic Transforms for Retrosynthetic Analysis },
   journal      = { Data },

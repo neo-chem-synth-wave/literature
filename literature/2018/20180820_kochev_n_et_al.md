@@ -17,9 +17,6 @@ Kochev, N. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6102164) |
 [ResearchGate](https://www.researchgate.net/publication/327130573_Ambit-SMIRKS_a_software_module_for_reaction_representation_reaction_search_and_structure_transformation)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-descriptor, ambit-smirks
 
@@ -39,7 +36,7 @@ More information on use cases and applications, including download links is avai
 
 # Citation
 ```
-@article {kochev2018,
+@article {20180820_kochev_n_et_al,
   author       = { Nikolay Kochev and Svetlana Avramova and Nina Jeliazkova },
   title        = { Ambit-SMIRKS: a software module for reaction representation, reaction search and structure transformation },
   journal      = { Journal of Cheminformatics },

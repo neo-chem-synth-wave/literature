@@ -15,9 +15,6 @@ Coley, C.W. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis
 
@@ -44,7 +41,7 @@ As reported in this Account, machine learning is rapidly transforming CASP, but 
 
 # Citation
 ```
-@article {coley2018b,
+@article {20180501_coley_c_w_et_al,
   author       = { Connor Coley W. and William H. Green and Klavs F. Jensen },
   title        = { Machine Learning in Computer-Aided Synthesis Planning },
   journal      = { Accounts of Chemical Research },

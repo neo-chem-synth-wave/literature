@@ -34,7 +34,7 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-375-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-380-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#timeline)
@@ -65,19 +65,19 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2010-5-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2011-6-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2012-9-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2013-6-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2014-5-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2013-7-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2014-6-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2015-5-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2016-9-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2017-13-orange)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2018-18-orange)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2018-20-yellow)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2019-21-yellow)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2020-23-yellow)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2021-33-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2022-35-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2023-33-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2024-41-blue)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2025-46-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-47-blue)](#timeline)
 
 | Publication Date | Publication                                                                                                                                                                                                  |                                      Tags                                      |
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------:|

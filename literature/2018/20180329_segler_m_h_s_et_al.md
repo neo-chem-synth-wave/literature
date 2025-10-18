@@ -15,9 +15,6 @@ Segler, M.H.S. et al.
 **Alternative Links:**
 [arXiv](https://arxiv.org/abs/1708.04202)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, fingerprint, 3n-mcts
 
@@ -34,7 +31,7 @@ In a double-blind AB test, chemists on average considered our computer-generated
 
 # Citation
 ```
-@article {segler2018a,
+@article {20180329_segler_m_h_s_et_al,
   author       = { Marwin H. S. Segler and Mike Preuss and Mark P. Waller },
   title        = { Planning chemical syntheses with deep neural networks and symbolic AI },
   journal      = { Nature },

@@ -15,9 +15,6 @@ Coley, C.W. et al.
 **Alternative Links:**
 [GitHub](https://github.com/connorcoley/scscore)
 
-**Starred:**
-True
-
 **Tags:**
 synthesizability, synthetic-complexity, fingerprint, sc-score
 
@@ -31,7 +28,7 @@ The learned metric (SCScore) exhibits highly desirable nonlinear behavior, parti
 
 # Citation
 ```
-@article {coley2018a,
+@article {20180108_coley_c_w_et_al,
   author       = { Connor W. Coley and Luke Rogers and William H. Green and Klavs F. Jensen },
   title        = { SCScore: Synthetic Complexity Learned from a Reaction Corpus },
   journal      = { Journal of Chemical Information and Modeling },
