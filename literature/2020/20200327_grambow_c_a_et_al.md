@@ -18,9 +18,6 @@ Grambow, C.A. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7311089) |
 [ResearchGate](https://www.researchgate.net/publication/340243190_Deep_Learning_of_Activation_Energies)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-activation-energy-prediction, chemprop
 
@@ -35,7 +32,7 @@ With the continued generation of quantitative chemical reaction data and the dev
 
 # Citation
 ```
-@article {grambow2020a,
+@article {20200327_grambow_c_a_et_al,
   author       = { Colin A. Grambow and Lagnajit Pattanaik and William H. Green },
   title        = { Deep Learning of Activation Energies },
   journal      = { The Journal of Physical Chemistry Letters },

@@ -17,9 +17,6 @@ Genheden, S. et al.
 [GitHub](https://github.com/MolecularAI/aizynthfinder) |
 [ResearchGate](https://www.researchgate.net/publication/346533619_AiZynthFinder_a_fast_robust_and_flexible_open-source_software_for_retrosynthetic_planning)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, aizynthfinder
 
@@ -36,7 +33,7 @@ The software is available at http://www.github.com/MolecularAI/aizynthfinder.
 
 # Citation
 ```
-@article {genheden2020a,
+@article {20201117_genheden_s_et_al,
   author       = { Samuel Genheden and Amol Thakkar and Veronika Chadimová and Jean-Louis Reymond and Ola Engkvist and Esben Bjerrum },
   title        = { AiZynthFinder: a fast, robust and flexible open-source software for retrosynthetic planning },
   journal      = { Journal of Cheminformatics },

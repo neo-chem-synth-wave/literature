@@ -16,9 +16,6 @@ Guo, Z. et al.
 [arXiv](https://arxiv.org/abs/2003.03190) |
 [GitHub](https://github.com/zguo235/bayesian_retro)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based
 
@@ -38,7 +35,7 @@ We also investigated the potential applicability of such diverse candidates base
 
 # Citation
 ```
-@article {guo2020a,
+@article {20200925a_guo_z_et_al,
   author       = { Zhongliang Guo and Stephen Wu and Mitsuru Ohno and Ryo Yoshida },
   title        = { Bayesian Algorithm for Retrosynthesis },
   journal      = { Journal of Chemical Information and Modeling },

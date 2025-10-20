@@ -17,9 +17,6 @@ Shi, C. et al.
 [arXiv](https://arxiv.org/abs/2003.12725) |
 [GitHub](https://github.com/DeepGraphLearning/torchdrug)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, semi-template-based, graph, g2gs
 
@@ -34,15 +31,15 @@ Experimental results show that G2Gs significantly outperforms existing template-
 
 # Citation
 ```
-@inproceedings {shi2020a,
+@inproceedings {20200713b_shi_c_et_al,
   author       = { Chence Shi and Minkai Xu and Hongyu Guo and Ming Zhang and Jian Tang },
   title        = { A Graph to Graphs Framework for Retrosynthesis Prediction },
   booktitle    = { Proceedings of the 37th International Conference on Machine Learning },
   year         = { 2020 },
   volume       = { 119 },
   series       = { Proceedings of Machine Learning Research },
-  pages        = { 8818--8827 },
-  month        = { 13--18 Jul },
+  pages        = { 8818-8827 },
+  month        = { 13-18 Jul },
   publisher    = { PMLR },
   editor       = { III, Hal Daumé and Singh, Aarti },
   pdf          = { https://proceedings.mlr.press/v119/shi20d/shi20d.pdf },

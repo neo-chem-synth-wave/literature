@@ -1,23 +1,22 @@
 # Overview
 **Title:**
-ZINC20 - A Free Ultralarge-Scale Chemical Database for Ligand Discovery
+Computational Planning of the Synthesis of Complex Natural Products
 
 **Authors:**
-Irwin, J.J., Tang, K.G., Young, J., Dandarchuluun, C., Wong, B.R., Khurelbaatar, M., Moroz, Y.S., Mayfield, J., and Sayle, R.A. |
-Irwin, J.J. et al.
+Mikulak-Klucznik, B., Gołębiowska, P., Bayly, A.A., Popik, O., Klucznik, T., Szymkuć, S., Gajewska, E.P., Dittwald, P., Staszewska-Krajewska, O., Beker, W., Badowski, T., Scheidt, K.A., Molga, K., Mlynarski, J., Mrksich, M., and Grzybowski, B.A. |
+Mikulak-Klucznik, B. et al.
 
 **Publication Date:**
-2020/10/29
+2020/10/13
 
 **Link:**
-[ACS Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00675)
+[Nature](https://www.nature.com/articles/s41586-020-2855-y)
 
 **Alternative Links:**
-[PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8284596) |
-[ZINC](https://zinc.docking.org)
+None
 
 **Tags:**
-data-source, compound, zinc-20
+single-step-synthesis, multi-step-synthesis, template-based, chematica
 
 
 # Abstract
@@ -34,17 +33,18 @@ The new system is freely available at zinc20.docking.org.
 
 # Citation
 ```
-@article {20201029_irwin_j_j_et_al,
-  author       = { John J. Irwin and Khanh G. Tang and Jennifer Young and Chinzorig Dandarchuluun and Benjamin R. Wong and Munkhzul Khurelbaatar and Yurii S. Moroz and John Mayfield and Roger A. Sayle },
-  title        = { ZINC20—A Free Ultralarge-Scale Chemical Database for Ligand Discovery },
-  journal      = { Journal of Chemical Information and Modeling },
+@article {20201013_mikulak_klucznik_b_et_al,
+  author       = { Barbara Mikulak-Klucznik and Patrycja Gołębiowska and Alison A. Bayly and Oskar Popik and Tomasz Klucznik and Sara Szymkuć and Ewa P. Gajewska and Piotr Dittwald and Olga Staszewska-Krajewska and Wiktor Beker and Tomasz Badowski and Karl A. Scheidt and Karol Molga and Jacek Mlynarski and Milan Mrksich and Bartosz A. Grzybowski },
+  title        = { Computational planning of the synthesis of complex natural products },
+  journal      = { Nature },
   year         = { 2020 },
-  note         = { PMID: 33118813 },
-  pages        = { 6065-6073 },
-  volume       = { 60 },
-  number       = { 12 },
-  doi          = { 10.1021/acs.jcim.0c00675 },
-  url          = { https://doi.org/10.1021/acs.jcim.0c00675 },
-  eprint       = { https://doi.org/10.1021/acs.jcim.0c00675 }
+  pages        = { 83-88 },
+  month        = { Dec },
+  volume       = { 588 },
+  number       = { 7836 },
+  day          = { 01 },
+  issn         = { 1476-4687 },
+  doi          = { 10.1038/s41586-020-2855-y },
+  url          = { https://doi.org/10.1038/s41586-020-2855-y }
 }
 ```

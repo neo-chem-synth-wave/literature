@@ -34,7 +34,7 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-380-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-400-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#timeline)
@@ -70,11 +70,11 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2015-5-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2016-9-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2017-13-orange)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2018-20-yellow)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2019-21-yellow)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2020-23-yellow)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2021-33-green)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2022-35-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2018-23-yellow)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2019-29-yellow)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2020-29-yellow)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2021-35-green)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2022-36-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2023-33-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2024-41-blue)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2025-47-blue)](#timeline)

@@ -16,9 +16,6 @@ Struble, T.J. et al.
 [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/125681) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7457232)
 
-**Starred:**
-False
-
 **Tags:**
 perspective
 
@@ -31,7 +28,7 @@ Together, we wrote this perspective to share how we think predictive models can 
 
 # Citation
 ```
-@article {struble2020a,
+@article {20200403_struble_t_j_et_al,
   author       = { Thomas J. Struble and Juan C. Alvarez and Scott P. Brown and Milan Chytil and Justin Cisar and Renee L. DesJarlais and Ola Engkvist and Scott A. Frank and Daniel R. Greve and Daniel J. Griffin and Xinjun Hou and Jeffrey W. Johannes and Constantine Kreatsoulas and Brian Lahue and Miriam Mathea and Georg Mogk and Christos A. Nicolaou and Andrew D. Palmer and Daniel J. Price and Richard I. Robinson and Sebastian Salentin and Li Xing and Tommi Jaakkola and William. H. Green and Regina Barzilay and Connor W. Coley and Klavs F. Jensen },
   title        = { Current and Future Roles of Artificial Intelligence in Medicinal Chemistry Synthesis },
   journal      = { Journal of Medicinal Chemistry },

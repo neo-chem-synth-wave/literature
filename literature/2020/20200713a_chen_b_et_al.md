@@ -17,9 +17,6 @@ Chen, B. et al.
 [arXiv](https://arxiv.org/abs/2006.15820) |
 [GitHub](https://github.com/binghong-ml/retro_star)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, retro*
 
@@ -36,15 +33,15 @@ Experiments on benchmark USPTO datasets show that, our proposed method outperfor
 
 # Citation
 ```
-@inproceedings {chen2020a,
+@inproceedings {20200713a_chen_b_et_al,
   author       = { Binghong Chen and Chengtao Li and Hanjun Dai and Le Song },
   title        = { Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search },
   booktitle    = { Proceedings of the 37th International Conference on Machine Learning },
   year         = { 2020 },
   volume       = { 119 },
   series       = { Proceedings of Machine Learning Research },
-  pages        = { 1608--1616 },
-  month        = { 13--18 Jul },
+  pages        = { 1608-1616 },
+  month        = { 13-18 Jul },
   publisher    = { PMLR },
   editor       = { III, Hal Daumé and Singh, Aarti },
   pdf          = { https://proceedings.mlr.press/v119/chen20k/chen20k.pdf },

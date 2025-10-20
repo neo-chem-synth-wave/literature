@@ -16,9 +16,6 @@ David, L. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7495975) |
 [ResearchGate](https://www.researchgate.net/publication/344805688_Molecular_representations_in_AI-driven_drug_discovery_a_review_and_practical_guide)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -35,7 +32,7 @@ This review serves as a guide for researchers who have little experience with th
 
 # Citation
 ```
-@article {david2020a,
+@article {20200917_david_l_et_al,
   author       = { Laurianne David and Amol Thakkar and Rocío Mercado and Ola Engkvist },
   title        = { Molecular representations in AI-driven drug discovery: a review and practical guide },
   journal      = { Journal of Cheminformatics },

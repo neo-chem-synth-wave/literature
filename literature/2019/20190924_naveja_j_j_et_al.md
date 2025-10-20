@@ -3,8 +3,8 @@
 A General Approach for Retrosynthetic Molecular Core Analysis
 
 **Authors:**
-Jesús Naveja, J., Pilón-Jiménez, B.A., Bajorath, J., and Medina-Franco, J.L. |
-Jesús Naveja, J. et al.
+Naveja, J.J., Pilón-Jiménez, B.A., Bajorath, J., and Medina-Franco, J.L. |
+Naveja, J.J. et al.
 
 **Publication Date:**
 2019/09/24
@@ -14,9 +14,6 @@ Jesús Naveja, J. et al.
 
 **Alternative Links:**
 [ResearchGate](https://www.researchgate.net/publication/336014316_A_general_approach_for_retrosynthetic_molecular_core_analysis)
-
-**Starred:**
-False
 
 **Tags:**
 single-step-retrosynthesis
@@ -39,7 +36,7 @@ Follow-up applications include analog searching and core structure–property re
 
 # Citation
 ```
-@article {naveja2019a,
+@article {20190924_naveja_j_j_et_al,
   author       = { J. Jesús Naveja and B. Angélica Pilón-Jiménez and Jürgen Bajorath and José L. Medina-Franco },
   title        = { A general approach for retrosynthetic molecular core analysis },
   journal      = { Journal of Cheminformatics },

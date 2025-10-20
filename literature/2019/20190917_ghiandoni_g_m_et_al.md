@@ -15,9 +15,6 @@ Ghiandoni, G.M. et al.
 **Alternative Links:**
 [ResearchGate](https://www.researchgate.net/publication/335884361_Development_and_Application_of_a_Data-Driven_Reaction_Classification_Model_Comparison_of_an_ELN_and_the_Medicinal_Chemistry_Literature)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-classification
 
@@ -35,7 +32,7 @@ We show how confidence estimations and class compositions across different level
 
 # Citation
 ```
-@article {ghiandoni2019a,
+@article {20190917_ghiandoni_g_m_et_al,
   author       = { Gian Marco Ghiandoni and Michael J. Bodkin and Beining Chen and Dimitar Hristozov and James E. A. Wallace and James Webster and Valerie J. Gillet },
   title        = { Development and Application of a Data-Driven Reaction Classification Model: Comparison of an Electronic Lab Notebook and Medicinal Chemistry Literature },
   journal      = { Journal of Chemical Information and Modeling },

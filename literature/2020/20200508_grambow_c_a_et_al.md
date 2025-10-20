@@ -18,9 +18,6 @@ Grambow, C.A. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7210263) |
 [ResearchGate](https://www.researchgate.net/publication/341240773_Reactants_products_and_transition_states_of_elementary_chemical_reactions_based_on_quantum_chemistry)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, reaction
 
@@ -36,7 +33,7 @@ We believe that this data will accelerate progress in automated methods for orga
 
 # Citation
 ```
-@article {grambow2020a,
+@article {20200508_grambow_c_a_et_al,
   author       = { Colin A. Grambow and Lagnajit Pattanaik and William H. Green },
   title        = { Reactants, products, and transition states of elementary chemical reactions based on quantum chemistry },
   journal      = { Scientific Data },

@@ -17,9 +17,6 @@ Fortunato, M.E. et al.
 [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/134636) |
 [GitLab](https://gitlab.com/mefortunato/template-relevance)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, optimization
 
@@ -35,7 +32,7 @@ Even on a small data set of well-curated reactions, the data augmentation and pr
 
 # Citation
 ```
-@article {fortunato2020a,
+@article {20200622_fortunato_m_e_at_al,
   author       = { Michael E. Fortunato and Connor W. Coley and Brian C. Barnes and Klavs F. Jensen },
   title        = { Data Augmentation and Pretraining for Template-Based Retrosynthetic Prediction in Computer-Aided Synthesis Planning },
   journal      = { Journal of Chemical Information and Modeling },

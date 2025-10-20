@@ -16,9 +16,6 @@ Ishida, S. et al.
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c742ac702a9b355418a4c7) |
 [GitHub](https://github.com/clinfo/kGCN)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-based, kgcn
 
@@ -34,7 +31,7 @@ Furthermore, IG-based visualization of the GCN prediction successfully highlight
 
 # Citation
 ```
-@article {ishida2019a,
+@article {20191126_ishida_s_et_al,
   author       = { Shoichi Ishida and Kei Terayama and Ryosuke Kojima and Kiyosei Takasu and Yasushi Okuno },
   title        = { Prediction and Interpretable Visualization of Retrosynthetic Reactions Using Graph Convolutional Networks },
   journal      = { Journal of Chemical Information and Modeling },

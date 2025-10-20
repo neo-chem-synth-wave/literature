@@ -17,9 +17,6 @@ Shibukawa, R. et al.
 [GitHub](https://github.com/shibukawar/CompRet) |
 [ResearchGate](https://www.researchgate.net/publication/344038962_CompRet_A_comprehensive_recommendation_framework_for_chemical_synthesis_planning_with_algorithmic_enumeration)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, comp-ret
 
@@ -35,7 +32,7 @@ CompRet is expected to promote desirable enumeration-based chemical synthesis se
 
 # Citation
 ```
-@article {shibukawa2020a,
+@article {20200901_shibukawa_r_et_al,
   author       = { Ryosuke Shibukawa and Shoichi Ishida and Kazuki Yoshizoe and Kunihiro Wasa and Kiyosei Takasu and Yasushi Okuno and Kei Terayama and Koji Tsuda },
   title        = { CompRet: a comprehensive recommendation framework for chemical synthesis planning with algorithmic enumeration },
   journal      = { Journal of Cheminformatics },

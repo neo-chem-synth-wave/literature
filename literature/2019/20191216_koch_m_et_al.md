@@ -16,9 +16,6 @@ Koch, M. et al.
 [bioRxiv](https://www.biorxiv.org/content/10.1101/800474v3) |
 [GitHub](https://github.com/brsynth/RetroPathRL)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, retro-prath-rl
 
@@ -34,7 +31,7 @@ Moreover, we provide a novel feature that suggests potential media supplements t
 
 # Citation
 ```
-@article {koch2019a,
+@article {20191216_koch_m_et_al,
   author       = { Mathilde Koch and Thomas Duigou and Jean-Loup Faulon },
   title        = { Reinforcement Learning for Bioretrosynthesis },
   journal      = { ACS Synthetic Biology },

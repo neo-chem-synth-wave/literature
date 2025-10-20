@@ -15,9 +15,6 @@ Konze, K.D. et al.
 **Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74164702a9b606018a23f)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-based-enumeration, active-learning
 
@@ -37,7 +34,7 @@ The rapid turnaround time, and scale of chemical exploration, suggests that this
 
 # Citation
 ```
-@article {konze2019a,
+@article {20190812_konze_k_d_et_al,
   author       = { Kyle D. Konze and Pieter H. Bos and Markus K. Dahlgren and Karl Leswing and Ivan Tubert-Brohman and Andrea Bortolato and Braxton Robbason and Robert Abel and Sathesh Bhat },
   title        = { Reaction-Based Enumeration, Active Learning, and Free Energy Calculations To Rapidly Explore Synthetically Tractable Chemical Space and Optimize Potency of Cyclin-Dependent Kinase 2 Inhibitors },
   journal      = { Journal of Chemical Information and Modeling },

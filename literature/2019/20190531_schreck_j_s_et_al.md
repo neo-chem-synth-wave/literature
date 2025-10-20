@@ -18,9 +18,6 @@ Schreck, J.S. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6598174) |
 [ResearchGate](https://www.researchgate.net/publication/333529497_Learning_Retrosynthetic_Planning_through_Simulated_Experience)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-synthesis
 
@@ -36,7 +33,7 @@ We discuss how the learned policies described here can be incorporated into exis
 
 # Citation
 ```
-@article {schreck2019a,
+@article {20190531_schreck_j_s_et_al,
   author       = { John S. Schreck and Connor W. Coley and Kyle J. M. Bishop },
   title        = { Learning Retrosynthetic Planning through Simulated Experience },
   journal      = { ACS Central Science },

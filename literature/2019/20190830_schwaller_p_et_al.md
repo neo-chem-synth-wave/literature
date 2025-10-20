@@ -19,9 +19,6 @@ Schwaller, P. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6764164) |
 [ResearchGate](https://www.researchgate.net/publication/328800945_Molecular_Transformer_for_Chemical_Reaction_Prediction_and_Uncertainty_Estimation)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, template-free
 
@@ -39,7 +36,7 @@ Furthermore, we show that the model is able to handle inputs without a reactant‚
 
 # Citation
 ```
-@article {schwaller2019a,
+@article {20190830_schwaller_p_et_al,
   author       = { Philippe Schwaller and Teodoro Laino and Th√©ophile Gaudin and Peter Bolgar and Christopher A. Hunter and Costas Bekas and Alpha A. Lee },
   title        = { Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction },
   journal      = { ACS Central Science },

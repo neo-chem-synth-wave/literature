@@ -18,9 +18,6 @@ Coley, C.W. et al.
 [GitHub](https://github.com/connorcoley/rdchiral) |
 [GitLab](https://gitlab.com/ljn917/rdchiral_cpp)
 
-**Starred:**
-True
-
 **Tags:**
 reaction-template, rdchiral
 
@@ -35,7 +32,7 @@ In this application note, we describe the implementation of these two pieces of 
 
 # Citation
 ```
-@article {coley2019a,
+@article {20190613_coley_c_w_et_al,
   author       = { Connor Coley W. and William H. Green and Klavs F. Jensen },
   title        = { RDChiral: An RDKit Wrapper for Handling Stereochemistry in Retrosynthetic Template Extraction and Application },
   journal      = { Journal of Chemical Information and Modeling },

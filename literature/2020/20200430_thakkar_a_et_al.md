@@ -17,9 +17,6 @@ Thakkar, A. et al.
 [GitHub](https://github.com/reymond-group/RingBreaker) |
 [Elsevier ScienceDirect](https://www.sciencedirect.com/org/science/article/pii/S1520480420001611)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, ring-breaker
 
@@ -34,7 +31,7 @@ These approaches to ring formation and retrosynthetic disconnection offer opport
 
 # Citation
 ```
-@article {thakkar2020a,
+@article {20200430_thakkar_a_et_al,
   author       = { Amol Thakkar and Nidhal Selmi and Jean-Louis Reymond and Ola Engkvist and Esben Jannik Bjerrum },
   title        = { “Ring Breaker”: Neural Network Driven Synthesis Prediction of the Ring System Chemical Space },
   journal      = { Journal of Medicinal Chemistry },

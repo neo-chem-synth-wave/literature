@@ -15,9 +15,6 @@ Batra, R. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 compound-descriptor
 
@@ -35,7 +32,7 @@ Finally, we note that the fingerprint definition presented here has applications
 
 # Citation
 ```
-@article {batra2019a,
+@article {20190606_batra_r_et_al,
   author       = { Rohit Batra and Huan Doan Tran and Chiho Kim and James Chapman and Lihua Chen and Anand Chandrasekaran and Rampi Ramprasad },
   title        = { General Atomic Neighborhood Fingerprint for Machine Learning-Based Methods },
   journal      = { The Journal of Physical Chemistry C },

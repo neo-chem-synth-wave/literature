@@ -17,9 +17,6 @@ Voršilák, M. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7238540) |
 [ResearchGate](https://www.researchgate.net/publication/341524191_SYBA_Bayesian_estimation_of_synthetic_accessibility_of_organic_compounds)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability, synthetic-accessibility, syba
 
@@ -37,7 +34,7 @@ SYBA is publicly available at https://github.com/lich-uct/syba under the GNU Gen
 
 # Citation
 ```
-@article {vorsilak2020a,
+@article {20200520_vorsilak_m_et_al,
   author       = { Milan Voršilák and Michal Kolář and Ivan Čmelo and Daniel Svozil },
   title        = { SYBA: Bayesian estimation of synthetic accessibility of organic compounds },
   journal      = { Journal of Cheminformatics },

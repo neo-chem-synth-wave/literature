@@ -18,9 +18,6 @@ Duan, H. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9047528) |
 [ResearchGate](https://www.researchgate.net/publication/338465368_Retrosynthesis_with_attention-based_NMT_model_and_chemical_analysis_of_wrong_predictions)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free, retrosynthesis-t2t
 
@@ -34,7 +31,7 @@ The effectiveness of our model is found to be underestimated and the "true" top-
 
 # Citation
 ```
-@article {duan2020a,
+@article {20200108_duan_h_et_al,
   author       = { Hongliang Duan and Ling Wang and Chengyun Zhang and Lin Guo and Jianjun Li },
   title        = { Retrosynthesis with attention-based NMT model and chemical analysis of “wrong” predictions },
   journal      = { RSC Adv. },

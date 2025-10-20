@@ -18,9 +18,6 @@ Thakkar, A. et al.
 [PubChem Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7012039) |
 [ResearchGate](https://www.researchgate.net/publication/337034210_Datasets_and_their_influence_on_the_development_of_computer_assisted_synthesis_planning_tools_in_the_pharmaceutical_domain)
 
-**Starred:**
-False
-
 **Tags:**
 data-analysis
 
@@ -37,7 +34,7 @@ This is supplemented by a comparison of the underlying datasets and their corres
 
 # Citation
 ```
-@article {thakkar2019a,
+@article {20191105_thakkar_a_et_al,
   author       = { Amol Thakkar and Thierry Kogej and Jean-Louis Reymond and Ola Engkvist and Esben Jannik Bjerrum },
   title        = { Datasets and their influence on the development of computer assisted synthesis planning tools in the pharmaceutical domain },
   journal      = { Chem. Sci. },

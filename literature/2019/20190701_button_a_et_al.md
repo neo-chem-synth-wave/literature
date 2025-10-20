@@ -16,9 +16,6 @@ Button, A. et al.
 [Code Ocean](https://codeocean.com/capsule/8271554) |
 [ETH Zürich Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/377338)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, template-based, data-source, compound, reaction, dingos
 
@@ -36,7 +33,7 @@ The results of this study demonstrate the capability of machine learning models 
 
 # Citation
 ```
-@article {button2019a,
+@article {20190701_button_a_et_al,
   author       = { Alexander Button and Daniel Merk and Jan A. Hiss and Gisbert Schneider },
   title        = { Automated de novo molecular design by hybrid machine intelligence and rule-driven chemical synthesis },
   journal      = { Nature Machine Intelligence },

@@ -17,9 +17,6 @@ Ricart, E. et al.
 [rBAN](https://norine.univ-lille.fr/rban) |
 [ResearchGate](https://www.researchgate.net/publication/330972010_RBAN_Retro-biosynthetic_analysis_of_nonribosomal_peptides)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, rban
 
@@ -38,7 +35,7 @@ The accuracy, robustness and high-performance of rBAN were demonstrated in bench
 
 # Citation
 ```
-@article {ricart2019,
+@article {20190208_ricart_e_et_al,
   author       = { Emma Ricart and Valérie Leclére and Areski Flissi and Markus Mueller and Maude Pupin and Frédérique Lisacek },
   title        = { rBAN: retro-biosynthetic analysis of nonribosomal peptides },
   journal      = { Journal of Cheminformatics },

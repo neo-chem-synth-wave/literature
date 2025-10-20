@@ -16,9 +16,6 @@ Coley, C.W. et al.
 [arXiv](https://arxiv.org/abs/2003.13754) |
 [ResearchGate](https://www.researchgate.net/publication/336066964_Autonomous_Discovery_in_the_Chemical_Sciences_Part_I_Progress)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -34,7 +31,7 @@ Part two reflects on these case studies and identifies a set of open challenges 
 
 # Citation
 ```
-@article {coley2019b,
+@article {20190925a_coley_c_w_et_al,
   author       = { Connor W. Coley and Natalie S. Eyke and Klavs F. Jensen },
   title        = { Autonomous Discovery in the Chemical Sciences Part I: Progress },
   journal      = { Angewandte Chemie International Edition },
@@ -42,7 +39,7 @@ Part two reflects on these case studies and identifies a set of open challenges 
   pages        = { 22858-22893 },
   volume       = { 59 },
   number       = { 51 },
-  doi          = { https://doi.org/10.1002/anie.201909987 },
+  doi          = { 10.1002/anie.201909987 },
   url          = { https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201909987 },
   eprint       = { https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201909987 }
 }

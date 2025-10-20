@@ -16,9 +16,6 @@ Watson, I.A. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6689887) |
 [ResearchGate](https://www.researchgate.net/publication/330115622_A_retrosynthetic_analysis_algorithm_implementation)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, multi-step-synthesis
 
@@ -32,7 +29,7 @@ Our results indicate that the method, leveraging on reaction transformation rule
 
 # Citation
 ```
-@article {watson2019a,
+@article {20190103_watson_i_a_et_al,
   author       = { Ian A. Watson and Jibo Wang and Christos A. Nicolaou },
   title        = { A retrosynthetic analysis algorithm implementation },
   journal      = { Journal of Cheminformatics },

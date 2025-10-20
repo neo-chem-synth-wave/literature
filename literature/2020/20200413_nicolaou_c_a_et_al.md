@@ -15,9 +15,6 @@ Nicolaou, C.A. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, chemo-print
 
@@ -33,7 +30,7 @@ Results of this in-house computer-aided synthesis platform termed ChemoPrint are
 
 # Citation
 ```
-@article {nicolaou2020a,
+@article {20200413_nicolaou_c_a_et_al,
   author       = { Christos A. Nicolaou and Ian A. Watson and Mark LeMasters and Thierry Masquelin and Jibo Wang },
   title        = { Context Aware Data-Driven Retrosynthetic Analysis },
   journal      = { Journal of Chemical Information and Modeling },

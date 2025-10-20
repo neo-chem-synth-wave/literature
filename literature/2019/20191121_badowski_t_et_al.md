@@ -15,9 +15,6 @@ Badowski, T. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis
 
@@ -30,7 +27,7 @@ This paper shows that expert and ML approaches can be synergistic—specifically
 
 # Citation
 ```
-@article {https://doi.org/10.1002/anie.201912083,
+@article {20191121_badowski_t_et_al,
   author       = { Tomasz Badowski and Ewa P. Gajewska and Karol Molga and Bartosz A. Grzybowski },
   title        = { Synergy Between Expert and Machine-Learning Approaches Allows for Improved Retrosynthetic Planning },
   journal      = { Angewandte Chemie International Edition },
@@ -38,7 +35,7 @@ This paper shows that expert and ML approaches can be synergistic—specifically
   pages        = { 725-730 },
   volume       = { 59 },
   number       = { 2 },
-  doi          = { https://doi.org/10.1002/anie.201912083 },
+  doi          = { 10.1002/anie.201912083 },
   url          = { https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912083 },
   eprint       = { https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201912083 }
 }

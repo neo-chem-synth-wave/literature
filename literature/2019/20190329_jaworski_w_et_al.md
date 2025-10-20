@@ -16,9 +16,6 @@ Jaworski, W. et al.
 [GitHub](https://github.com/w-jaworski/AtomMap) |
 [ResearchGate](https://www.researchgate.net/publication/332078188_Automatic_mapping_of_atoms_across_both_simple_and_complex_chemical_reactions)
 
-**Starred:**
-False
-
 **Tags:**
 atom-to-atom-mapping, mappet
 
@@ -33,7 +30,7 @@ The algorithm performs significantly better than the available state-of-the-art 
 
 # Citation
 ```
-@article {jaworski2019a,
+@article {20190329_jaworski_w_et_al,
   author       = { Wojciech Jaworski and Sara Szymkuć and Barbara Mikulak-Klucznik and Krzysztof Piecuch and Tomasz Klucznik and Michał Kaźmierowski and Jan Rydzewski and Anna Gambin and Bartosz A. Grzybowski },
   title        = { Automatic mapping of atoms across both simple and complex chemical reactions },
   journal      = { Nature Communications },

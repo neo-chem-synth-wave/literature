@@ -16,9 +16,6 @@ Zheng, S. et al.
 [arXiv](https://arxiv.org/abs/1907.01356) |
 [GitHub](https://github.com/Jh-SYSU/SCROP)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free, scrop
 
@@ -34,7 +31,7 @@ More importantly, our method was 1.7 times more accurate than other state-of-the
 
 # Citation
 ```
-@article {zheng2019a,
+@article {20191211_zheng_s_et_al,
   author       = { Shuangjia Zheng and Jiahua Rao and Zhongyue Zhang and Jun Xu and Yuedong Yang },
   title        = { Predicting Retrosynthetic Reactions Using Self-Corrected Transformer Neural Networks },
   journal      = { Journal of Chemical Information and Modeling },

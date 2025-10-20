@@ -18,9 +18,6 @@ Tetko, I.V. et al.
 [GitHub](https://github.com/bigchem/synthesis) |
 [ResearchGate](https://www.researchgate.net/publication/346496604_State-of-the-art_augmented_NLP_transformer_models_for_direct_and_single-step_retrosynthesis)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, template-free
 
@@ -38,7 +35,7 @@ The appearance frequency of the most abundantly generated SMILES was well correl
 
 # Citation
 ```
-@article {tetko2020a,
+@article {20201104_tetko_i_v_et_al,
   author       = { Igor V. Tetko and Pavel Karpov and Ruud Van Deursen and Guillaume Godin },
   title        = { State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis },
   journal      = { Nature Communications },

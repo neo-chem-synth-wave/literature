@@ -18,9 +18,6 @@ Schwaller, P. et al.
 [GitHub](https://github.com/pschwllr/MolecularTransformer) |
 [ResearchGate](https://www.researchgate.net/publication/339673653_Predicting_Retrosynthetic_Pathways_using_Transformer-Based_Models_and_a_Hyper-Graph_Exploration_Strategy)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free
 
@@ -37,7 +34,7 @@ The use of the introduced metrics opens up the possibility to optimize entire re
 
 # Citation
 ```
-@article {schwaller2020a,
+@article {20200303a_schwaller_p_et_al,
   author       = { Philippe Schwaller and Riccardo Petraglia and Valerio Zullo and Vishnu H. Nair and Rico Andreas Haeuselmann and Riccardo Pisoni and Costas Bekas and Anna Iuliano and Teodoro Laino },
   title        = { Predicting retrosynthetic pathways using transformer-based models and a hyper-graph exploration strategy },
   journal      = { Chem. Sci. },

@@ -15,9 +15,6 @@ Baylon, J.L. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, reaction-classification
 
@@ -37,7 +34,7 @@ While our multiscale approach was unable to outperform state-of-the-art rule-bas
 
 # Citation
 ```
-@article {baylon2019a,
+@article {20190114_baylon_j_l_et_al,
   author       = { Javier Baylon L. and Nicholas A. Cilfone and Jeffrey R. Gulcher and Thomas W. Chittenden },
   title        = { Enhancing Retrosynthetic Reaction Prediction with Deep Learning Using Multiscale Reaction Classification },
   journal      = { Journal of Chemical Information and Modeling },

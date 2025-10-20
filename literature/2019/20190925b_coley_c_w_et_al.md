@@ -17,9 +17,6 @@ Coley, C.W. et al.
 [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/133420.2) |
 [ResearchGate](https://www.researchgate.net/publication/336067242_Autonomous_Discovery_in_the_Chemical_Sciences_Part_II_Outlook)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -36,7 +33,7 @@ Addressing these practical and methodological challenges will greatly advance th
 
 # Citation
 ```
-@article {coley2019c,
+@article {20190925b_coley_c_w_et_al,
   author       = { Connor W. Coley and Natalie S. Eyke and Klavs F. Jensen },
   title        = { Autonomous Discovery in the Chemical Sciences Part II: Outlook },
   journal      = { Angewandte Chemie International Edition },
@@ -44,7 +41,7 @@ Addressing these practical and methodological challenges will greatly advance th
   pages        = { 23414-23436 },
   volume       = { 59 },
   number       = { 52 },
-  doi          = { https://doi.org/10.1002/anie.201909989 },
+  doi          = { 10.1002/anie.201909989 },
   url          = { https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201909989 },
   eprint       = { https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201909989 }
 }

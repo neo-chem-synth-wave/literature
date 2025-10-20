@@ -18,9 +18,6 @@ Polykovskiy, D. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775580) |
 [ResearchGate](https://www.researchgate.net/publication/347693628_Molecular_Sets_MOSES_A_Benchmarking_Platform_for_Molecular_Generation_Models)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, compound, moses
 
@@ -38,7 +35,7 @@ The platform and source code are available at https://github.com/molecularsets/m
 
 # Citation
 ```
-@article {polykovskiy2020a,
+@article {20201218_polykovskiy_d_et_al,
   author       = { Daniil Polykovskiy and Alexander Zhebrak and Benjamin Sanchez-Lengeling and Sergey Golovanov and Oktai Tatanov and Stanislav Belyaev and Rauf Kurbanov and Aleksey Artamonov and Vladimir Aladinskiy and Mark Veselov and Artur Kadurin and Simon Johansson and Hongming Chen and Sergey Nikolenko and Alán Aspuru-Guzik and Alex Zhavoronkov },
   title        = { Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models },
   journal      = { Frontiers in Pharmacology },

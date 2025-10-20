@@ -16,9 +16,6 @@ Lin, K. et al.
 [arXiv](https://arxiv.org/abs/1906.02308) |
 [GitHub](https://github.com/PKUMDL-AI/AutoSynRoute)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, template-free, auto-syn-route
 
@@ -38,7 +35,7 @@ The end-to-end model for reaction task prediction can be easily extended to larg
 
 # Citation
 ```
-@article {lin2020a,
+@article {20200303b_lin_k_et_al,
   author       = { Kangjie Lin and Youjun Xu and Jianfeng Pei and Luhua Lai },
   title        = { Automatic retrosynthetic route planning using template-free models },
   journal      = { Chem. Sci. },
