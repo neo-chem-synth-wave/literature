@@ -14,9 +14,6 @@ Motente, M. and Chude-Okonkwo, U.A.K.
 **Alternative Links:**
 [University of Johannesburg Content](https://ujcontent.uj.ac.za/esploro/outputs/journalArticle/Integrating-synthetic-accessibility-scoring-and-AI-based/9955405307691)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability, synthetic-accessibility, sa-score
 
@@ -38,7 +35,7 @@ Conclusions: This strategy enables quick initial screening and more comprehensiv
 
 # Citation
 ```
-@article {motente2025a,
+@article {20250531_motente_m_and_chude_okonkwo_u_a_k,
   author       = { Mokete Motente and Uche A. K. Chude-Okonkwo },
   title        = { Integrating Synthetic Accessibility Scoring and AI-Based Retrosynthesis Analysis to Evaluate AI-Generated Drug Molecules Synthesizability },
   journal      = { Drugs and Drug Candidates },

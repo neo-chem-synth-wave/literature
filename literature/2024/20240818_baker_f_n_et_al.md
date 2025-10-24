@@ -18,9 +18,6 @@ Baker, F.N. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11388466/) |
 [ResearchGate](https://www.researchgate.net/publication/383214478_RLSynC_Offline-Online_Reinforcement_Learning_for_Synthon_Completion)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, semi-template-based, rl-sync
 
@@ -37,7 +34,7 @@ Our results demonstrate that RLSynC can outperform state-of-the-art synthon comp
 
 # Citation
 ```
-@article {baker2024a,
+@article {20240818_baker_f_n_et_al,
   author       = { Frazier N. Baker and Ziqi Chen and Daniel Adu-Ampratwum and Xia Ning },
   title        = { RLSynC: Offline–Online Reinforcement Learning for Synthon Completion },
   journal      = { Journal of Chemical Information and Modeling },

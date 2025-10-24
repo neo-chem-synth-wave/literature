@@ -16,9 +16,6 @@ Raghavan, P. et al.
 [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/158178) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10755851)
 
-**Starred:**
-False
-
 **Tags:**
 data-analysis, reaction
 
@@ -32,7 +29,7 @@ We additionally discuss the experimental constraints associated with generating 
 
 # Citation
 ```
-@article {raghavan2023a,
+@article {20231208_raghavan_p_et_al,
   author       = { Priyanka Raghavan and Brittany C. Haas and Madeline E. Ruos and Jules Schleinitz and Abigail G. Doyle and Sarah E. Reisman and Matthew S. Sigman and Connor W. Coley },
   title        = { Dataset Design for Building Models of Chemical Reactivity },
   journal      = { ACS Central Science },

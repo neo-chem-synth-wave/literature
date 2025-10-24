@@ -17,9 +17,6 @@ Tempke, R. and Musho, T.
 [ResearchGate](https://www.researchgate.net/publication/359404624_Autonomous_design_of_new_chemical_reactions_using_a_variational_autoencoder) |
 [West Virginia University Research Repository](https://researchrepository.wvu.edu/faculty_publications/3103)
 
-**Starred:**
-False
-
 **Tags:**
 chemical-reaction-invention
 
@@ -37,7 +34,7 @@ The generated reactions include molecular species that are larger and more diver
 
 # Citation
 ```
-@article {tempke2022a,
+@article {20220322_tempke_r_and_musho_t,
   author       = { Robert Tempke and Terence Musho },
   title        = { Autonomous design of new chemical reactions using a variational autoencoder },
   journal      = { Communications Chemistry },

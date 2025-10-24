@@ -17,9 +17,6 @@ Zhao, Q. et al.
 [GitHub](https://github.com/Savoie-Research-Group/yarp) |
 [ResearchGate](https://www.researchgate.net/publication/356955599_Conformational_Sampling_for_Transition_State_Searches_on_a_Computational_Budget)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-mechanism
 
@@ -35,7 +32,7 @@ The robust performance of these machine learning classifiers mitigates cost as a
 
 # Citation
 ```
-@article {zhao2022a,
+@article {20220411_zhao_q_et_al,
   author       = { Qiyuan Zhao and Hsuan-Hao Hsu and Brett M. Savoie },
   title        = { Conformational Sampling for Transition State Searches on a Computational Budget },
   journal      = { Journal of Chemical Theory and Computation },

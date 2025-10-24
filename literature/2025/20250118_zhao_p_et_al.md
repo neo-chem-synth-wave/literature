@@ -19,9 +19,6 @@ Zhao, P. et al.
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/373725811_Retro-MTGR_Molecule_Retrosynthesis_Prediction_via_Multi-Task_Graph_Representation_Learning) |
 [ResearchSquare](https://www.researchsquare.com/article/rs-3205328/v1)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, retro-mtgr
 
@@ -42,7 +39,7 @@ The code and data of this study are freely available at https://doi.org/10.5281/
 
 # Citation
 ```
-@article {zhao2025,
+@article {20250118_zhao_p_et_al,
   author       = { Peng-Cheng Zhao and Xue-Xin Wei and Qiong Wang and Qi-Hao Wang and Jia-Ning Li and Jie Shang and Cheng Lu and Jian-Yu Shi },
   title        = { Single-step retrosynthesis prediction via multitask graph representation learning },
   journal      = { Nature Communications },

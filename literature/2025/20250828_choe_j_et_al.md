@@ -15,9 +15,6 @@ Choe, J. et al.
 **Alternative Links:**
 [GitHub](https://github.com/dmis-lab/RetroCrosstalk)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, multi-step-synthesis
 
@@ -35,7 +32,7 @@ These insights contribute to a better understanding of computational retrosynthe
 
 # Citation
 ```
-@article {choe2025a,
+@article {20250828_choe_j_et_al,
   author       = { Junseok Choe and Hajung Kim and Yan Ting Chok and Mogan Gim and Jaewoo Kang },
   title        = { Retrosynthetic crosstalk between single-step reaction and multi-step planning },
   journal      = { Journal of Cheminformatics },

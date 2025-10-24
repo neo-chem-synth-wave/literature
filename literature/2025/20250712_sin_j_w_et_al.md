@@ -17,9 +17,6 @@ Sin, J.W. et al.
 [GitHub](https://github.com/schwallergroup/minerva) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12255721)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-optimization, minerva
 
@@ -35,7 +32,7 @@ For both a Ni-catalysed Suzuki coupling and a Pd-catalysed Buchwald-Hartwig reac
 
 # Citation
 ```
-@article {sin2025a,
+@article {20250712_sin_j_w_et_al,
   author       = { Joshua W. Sin and Siu Lun Chau and Ryan P. Burwood and Kurt Püntener and Raphael Bigler and Philippe Schwaller },
   title        = { Highly parallel optimisation of chemical reactions through automation and machine intelligence },
   journal      = { Nature Communications },

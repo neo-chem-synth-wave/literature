@@ -16,9 +16,6 @@ Probst, D. et al.
 [GitHub](https://github.com/rxn4chemistry/biocatalysis-model) |
 [ResearchGate](https://www.researchgate.net/publication/358713206_Biocatalysed_synthesis_planning_using_data-driven_learning)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis
 
@@ -34,7 +31,7 @@ The forward reaction prediction model (top-1 accuracy of 49.6%), the retrosynthe
 
 # Citation
 ```
-@article {probst2022a,
+@article {20220218_probst_d_et_al,
   author       = { Daniel Probst and Matteo Manica and Yves Gaetan Nana Teukam and Alessandro Castrogiovanni and Federico Paratore and Teodoro Laino },
   title        = { Biocatalysed synthesis planning using data-driven learning },
   journal      = { Nature Communications },

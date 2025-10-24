@@ -17,9 +17,6 @@ Wang, Y. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10547708) |
 [ResearchGate](https://www.researchgate.net/publication/374418524_Retrosynthesis_prediction_with_an_interpretable_deep-learning_framework_based_on_molecular_assembly_tasks)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, semi-template-based, retro-explainer
 
@@ -37,7 +34,7 @@ As a result, RetroExplainer is expected to offer valuable insights for reliable,
 
 # Citation
 ```
-@article {wang2023a,
+@article {20231003_wang_y_et_al,
   author       = { Yu Wang and Chao Pang and Yuzhe Wang and Junru Jin and Jingjie Zhang and Xiangxiang Zeng and Ran Su and Quan Zou and Leyi Wei },
   title        = { Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks },
   journal      = { Nature Communications },

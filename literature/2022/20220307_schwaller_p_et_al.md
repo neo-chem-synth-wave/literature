@@ -16,9 +16,6 @@ Schwaller, P. et al.
 [ETH Zürich Research Collection](https://www.research-collection.ethz.ch/entities/publication/8621f064-60d7-4e61-b313-60bd072fbdc8) |
 [ResearchGate](https://www.researchgate.net/publication/359084047_Machine_intelligence_for_chemical_reaction_space)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -34,7 +31,7 @@ This work will help to clarify the key contributions in the fields and the open 
 
 # Citation
 ```
-@article {schwaller2022a,
+@article {20220307_schwaller_p_et_al,
   author       = { Philippe Schwaller and Alain C. Vaucher and Ruben Laplaza and Charlotte Bunne and Andreas Krause and Clemence Corminboeuf and Teodoro Laino },
   title        = { Machine intelligence for chemical reaction space },
   journal      = { WIREs Computational Molecular Science },
@@ -42,7 +39,7 @@ This work will help to clarify the key contributions in the fields and the open 
   pages        = { e1604 },
   volume       = { 12 },
   number       = { 5 },
-  doi          = { https://doi.org/10.1002/wcms.1604 },
+  doi          = { 10.1002/wcms.1604 },
   url          = { https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1604 },
   eprint       = { https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1604 }
 }

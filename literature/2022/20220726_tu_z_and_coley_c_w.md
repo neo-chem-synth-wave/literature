@@ -15,9 +15,6 @@ Tu, Z. and Coley, C.W.
 [arXiv](https://arxiv.org/abs/2110.09681) |
 [GitHub](https://github.com/coleygroup/Graph2SMILES)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, single-step-retrosynthesis, template-free, graph2smiles
 
@@ -33,7 +30,7 @@ As an end-to-end architecture, Graph2SMILES can be used as a drop-in replacement
 
 # Citation
 ```
-@article {tu2022a,
+@article {20220726_tu_z_and_coley_c_w,
   author       = { Zhengkai Tu and Connor W. Coley },
   title        = { Permutation Invariant Graph-to-Sequence Model for Template-Free Retrosynthesis and Reaction Prediction },
   journal      = { Journal of Chemical Information and Modeling },

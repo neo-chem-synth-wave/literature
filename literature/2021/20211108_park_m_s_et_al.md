@@ -16,9 +16,6 @@ Park, M.S. et al.
 [GitHub](https://github.com/mspark91/Atomic_Mapping/tree/master) |
 [ResearchGate](https://www.researchgate.net/publication/351671144_Efficient_Data_Undersampling_for_Rule-Based_Retrosynthetic_Planning)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, data-sampling
 
@@ -34,7 +31,7 @@ For practical applications, the target-oriented undersampling model is proposed 
 
 # Citation
 ```
-@article {park2021a,
+@article {20211108_park_m_s_et_al,
   author       = { Min Sik Park and Dongseon Lee and Youngchun Kwon and Eunji Kim and Youn-Suk Choi },
   title        = { Data undersampling models for the efficient rule-based retrosynthetic planning },
   journal      = { Phys. Chem. Chem. Phys. },

@@ -15,9 +15,6 @@ Long, L. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 perspective
 
@@ -33,7 +30,7 @@ Herein, we review the recent advancements in AI applications for retrosynthesis 
 
 # Citation
 ```
-@article {long2025a,
+@article {20250130_long_l_et_al,
   author       = { Lanxin Long and Rui Li and Jian Zhang },
   title        = { Artificial Intelligence in Retrosynthesis Prediction and its Applications in Medicinal Chemistry },
   journal      = { Journal of Medicinal Chemistry },

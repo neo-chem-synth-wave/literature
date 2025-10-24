@@ -17,9 +17,6 @@ Irwin, R. et al.
 [GitHub](https://github.com/MolecularAI/Chemformer) |
 [ResearchGate](https://www.researchgate.net/publication/356865938_Chemformer_A_Pre-Trained_Transformer_for_Computational_Chemistry)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-free, chemformer
 
@@ -36,7 +33,7 @@ Models, datasets and code will be made available after publication.
 
 # Citation
 ```
-@article {irwin2022a,
+@article {20220131_irwin_r_et_al,
   author       = { Ross Irwin and Spyridon Dimitriadis and Jiazhen He and Esben Jannik Bjerrum },
   title        = { Chemformer: a pre-trained transformer for computational chemistry },
   journal      = { Machine Learning: Science and Technology },

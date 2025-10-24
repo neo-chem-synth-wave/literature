@@ -98,7 +98,7 @@ All scripts are utilizing a base environment.
 The public [Research Rabbit](https://www.researchrabbitapp.com) literature collections are available as follows:
 - [**Historical Overview (Before 2000)**](https://www.researchrabbitapp.com/collection/public/DLW7X294ZE) - The computer-assisted chemical synthesis literature published before the year 2000.
 - [**Historical Overview (2000 to 2015)**](https://www.researchrabbitapp.com/collection/public/YZ15QP026Q) - The computer-assisted chemical synthesis literature published between the year 2000 and the year 2015.
-- [[_In Progress..._] **Historical Overview (After 2015)**](https://www.researchrabbitapp.com/collection/public/EZR940K7L1) - The computer-assisted chemical synthesis literature published after the year 2015.
+- [**Historical Overview (After 2015)**](https://www.researchrabbitapp.com/collection/public/EZR940K7L1) - The computer-assisted chemical synthesis literature published after the year 2015.
 
 
 ## License Information

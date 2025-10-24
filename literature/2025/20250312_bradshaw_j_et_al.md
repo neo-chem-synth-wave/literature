@@ -17,9 +17,6 @@ Bradshaw, J. et al.
 [GitHub (Data)](https://github.com/john-bradshaw/rxn-splits) |
 [GitHub (Model)](https://github.com/john-bradshaw/rxn-lm)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-synthesis, benchmarking
 
@@ -37,7 +34,7 @@ This panel of tasks can reveal the capabilities and limitations of today’s rea
 
 # Citation
 ```
-@article {bradshaw2025,
+@article {20250312_bradshaw_j_et_al,
   author       = { John Bradshaw and Anji Zhang and Babak Mahjour and David E. Graff and Marwin H. S. Segler and Connor W. Coley },
   title        = { Challenging Reaction Prediction Models to Generalize to Novel Chemistry },
   journal      = { ACS Central Science },

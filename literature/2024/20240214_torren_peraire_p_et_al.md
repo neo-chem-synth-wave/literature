@@ -16,9 +16,6 @@ Torren-Peraire, P. et al.
 [GitHub](https://github.com/AlanHassen/modelsmatter) |
 [ResearchGate](https://www.researchgate.net/publication/378228992_Models_Matter_The_Impact_of_Single-Step_Retrosynthesis_on_Synthesis_Planning)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, evaluation
 
@@ -36,7 +33,7 @@ Finally, we show that each single-step model finds unique synthesis routes, and 
 
 # Citation
 ```
-@article {torren_perraire2024a,
+@article {20240214_torren_peraire_p_et_al,
   author       = { Paula Torren-Peraire and Alan Kai Hassen and Samuel Genheden and Jonas Verhoeven and Djork-Arné Clevert and Mike Preuss and Igor V. Tetko },
   title        = { Models Matter: the impact of single-step retrosynthesis on synthesis planning },
   journal      = { Digital Discovery },

@@ -18,9 +18,6 @@ Ucak, U.V. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8897428) |
 [ResearchGate](https://www.researchgate.net/publication/359023755_Retrosynthetic_reaction_pathway_prediction_through_neural_machine_translation_of_atomic_environments)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, retro-trae
 
@@ -37,7 +34,7 @@ Our methodology introduces a novel scheme for fragmental and topological descrip
 
 # Citation
 ```
-@article {ucak2022a,
+@article {20220304_ucak_u_v_et_al,
   author       = { Umit V. Ucak and Islambek Ashyrmamatov and Junsu Ko and Juyong Lee },
   title        = { Retrosynthetic reaction pathway prediction through neural machine translation of atomic environments },
   journal      = { Nature Communications },

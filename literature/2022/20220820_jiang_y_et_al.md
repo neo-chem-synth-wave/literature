@@ -15,9 +15,6 @@ Jiang, Y. et al.
 **Alternative Links:**
 [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/158188)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -35,7 +32,7 @@ We conclude by discussing promising areas for future research.
 
 # Citation
 ```
-@article {jiang2022a,
+@article {20220820_jiang_y_et_al,
   author       = { Yinjie Jiang and Yemin Yu and Ming Kong and Yu Mei and Luotian Yuan and Zhengxing Huang and Kun Kuang and Zhihua Wang and Huaxiu Yao and James Zou and Connor W. Coley and Ying Wei },
   title        = { Artificial Intelligence for Retrosynthesis Prediction },
   journal      = { Engineering },
@@ -43,7 +40,7 @@ We conclude by discussing promising areas for future research.
   pages        = { 32-50 },
   volume       = { 25 },
   issn         = { 2095-8099 },
-  doi          = { https://doi.org/10.1016/j.eng.2022.04.021 },
+  doi          = { 10.1016/j.eng.2022.04.021 },
   url          = { https://www.sciencedirect.com/science/article/pii/S2095809922005665 }
 }
 ```

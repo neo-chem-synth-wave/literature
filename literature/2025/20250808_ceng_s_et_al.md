@@ -17,9 +17,6 @@ Cong, S. et al.
 [GitHub](https://github.com/momozhangcn/GSETRetro) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12365517)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free, gset-retro
 
@@ -35,7 +32,7 @@ Its potential applications extend beyond retrosynthesis, encompassing enzyme eng
 
 # Citation
 ```
-@article {cong2025a,
+@article {20250808_ceng_s_et_al,
   author       = { Shan Cong and Meng Zhang and Yu Song and Sihao Chang and Jing Tian and Hongji Zeng and Hongchao Ji },
   title        = { Graph-sequence enhanced transformer for template-free prediction of natural product biosynthesis },
   journal      = { Patterns },

@@ -17,9 +17,6 @@ Raghavan, P. et al.
 [GitHub](https://github.com/priyanka-rag/suzuki_yield_predict_external) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11157529)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability, synthetic-accessibility
 
@@ -37,7 +34,7 @@ The yield prediction model was used to select similar monomers predicted to have
 
 # Citation
 ```
-@article {raghavan2024a,
+@article {20240520_raghavan_p_et_al,
   author       = { Priyanka Raghavan and Alexander J. Rago and Pritha Verma and Majdi M. Hassan and Gashaw M. Goshu and Amanda W. Dombrowski and Abhishek Pandey and Connor W. Coley and Ying Wang },
   title        = { Incorporating Synthetic Accessibility in Drug Design: Predicting Reaction Yields of Suzuki Cross-Couplings by Leveraging AbbVie’s 15-Year Parallel Library Data Set },
   journal      = { Journal of the American Chemical Society },

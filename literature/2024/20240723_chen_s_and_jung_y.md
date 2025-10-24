@@ -15,9 +15,6 @@ Chen, S. and Jung, Y.
 [GitHub](https://github.com/snu-micc/BR-SAScore) |
 [ResearchGate](https://www.researchgate.net/publication/382491574_Estimating_the_synthetic_accessibility_of_molecules_with_building_block_and_reaction-aware_SAScore)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability, synthetic-accessibility, br-sa-score
 
@@ -34,7 +31,7 @@ Moreover, we illustrate how BR-SAScore provides chemically interpretable results
 
 # Citation
 ```
-@article {chen2024d,
+@article {20240723_chen_s_and_jung_y,
   author       = { Shuan Chen and Yousung Jung },
   title        = { Estimating the synthetic accessibility of molecules with building block and reaction-aware SAScore },
   journal      = { Journal of Cheminformatics },

@@ -19,9 +19,6 @@ Mastrolorito, F. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11779804) |
 [ResearchGate](https://www.researchgate.net/publication/388491417_fragSMILES_as_a_chemical_string_notation_for_advanced_fragment_and_chirality_representation)
 
-**Starred:**
-False
-
 **Tags:**
 compound-description, frag-smiles
 
@@ -40,7 +37,7 @@ When compared with SMILES, SELFIES and t-SMILES for de novo design, the fragSMIL
 
 # Citation
 ```
-@article {mastrolorito2025a,
+@article {20250129_mastrolorito_f_et_al,
   author       = { Fabrizio Mastrolorito and Fulvio Ciriaco and Maria Vittoria Togo and Nicola Gambacorta and Daniela Trisciuzzi and Cosimo Damiano Altomare and Nicola Amoroso and Francesca Grisoni and Orazio Nicolotti },
   title        = { fragSMILES as a chemical string notation for advanced fragment and chirality representation },
   journal      = { Communications Chemistry },

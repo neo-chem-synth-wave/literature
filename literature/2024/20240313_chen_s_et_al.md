@@ -17,9 +17,6 @@ Chen, S. et al.
 [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10937625) |
 [ResearchGate](https://www.researchgate.net/publication/378939425_Precise_atom-to-atom_mapping_for_organic_reactions_via_human-in-the-loop_machine_learning)
 
-**Starred:**
-False
-
 **Tags:**
 atom-to-atom-mapping, local-retro
 
@@ -37,7 +34,7 @@ We expect LocalMapper can be used to generate more precise reaction AAM and impr
 
 # Citation
 ```
-@article {chen2024b,
+@article {20240313_chen_s_et_al,
   author       = { Shuan Chen and Sunggi An and Ramil Babazade and Yousung Jung },
   title        = { Precise atom-to-atom mapping for organic reactions via human-in-the-loop machine learning },
   journal      = { Nature Communications },

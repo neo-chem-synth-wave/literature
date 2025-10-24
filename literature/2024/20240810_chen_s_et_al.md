@@ -16,9 +16,6 @@ Chen, S. et al.
 [GitHub](https://github.com/snu-micc/MechFinder) |
 [ResearchGate](https://www.researchgate.net/publication/383023679_A_large-scale_reaction_dataset_of_mechanistic_pathways_of_organic_reactions)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, reaction, mech-uspto-31k
 
@@ -32,7 +29,7 @@ We envision this dataset curated by applying a simple and flexible method that a
 
 # Citation
 ```
-@article {chen2024e,
+@article {20240810_chen_s_et_al,
   author       = { Shuan Chen and Ramil Babazade and Taewan Kim and Sunkyu Han and Yousung Jung },
   title        = { A large-scale reaction dataset of mechanistic pathways of organic reactions },
   journal      = { Scientific Data },

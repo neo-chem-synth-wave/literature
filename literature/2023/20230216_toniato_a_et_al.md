@@ -17,9 +17,6 @@ Toniato, A. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10087060) |
 [ResearchGate](https://www.researchgate.net/publication/368590182_Enhancing_diversity_in_language_based_models_for_single-step_retrosynthesis)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free, optimization
 
@@ -38,7 +35,7 @@ We show that the diversity of the predictions improves consistently, which enabl
 
 # Citation
 ```
-@article {toniato2023a,
+@article {20230216_toniato_a_et_al,
   author       = { Alessandra Toniato and Alain C. Vaucher and Philippe Schwaller and Teodoro Laino },
   title        = { Enhancing diversity in language based models for single-step retrosynthesis },
   journal      = { Digital Discovery },

@@ -16,9 +16,6 @@ Qiao, H. et al.
 [GitHub](https://github.com/qiaohaoran/MFRPT-and-RFRPT) |
 [ResearchGate](https://www.researchgate.net/publication/365257056_Transformer-based_multitask_learning_for_reaction_prediction_under_low-resource_circumstances)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, template-free
 
@@ -35,7 +32,7 @@ Both RFRPT and MFRPT methods significantly improve the predictive performance of
 
 # Citation
 ```
-@article {qiao2022a,
+@article {20221108_qiao_h_et_al,
   author       = { Haoran Qiao and Yejian Wu and Yun Zhang and Chengyun Zhang and Xinyi Wu and Zhipeng Wu and Qingjie Zhao and Xinqiao Wang and Huiyu Li and Hongliang Duan },
   title        = { Transformer-based multitask learning for reaction prediction under low-resource circumstances },
   journal      = { RSC Adv. },

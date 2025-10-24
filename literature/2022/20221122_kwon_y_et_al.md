@@ -15,9 +15,6 @@ Kwon, Y. et al.
 **Alternative Links:**
 [GitHub](https://github.com/seokhokang/reaction_condition_vae)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-condition-determination
 
@@ -36,7 +33,7 @@ Through experimental investigation on the reaction datasets of four major types 
 
 # Citation
 ```
-@article {kwon2022a,
+@article {20221122_kwon_y_et_al,
   author       = { Youngchun Kwon and Sun Kim and Youn-Suk Choi and Seokho Kang },
   title        = { Generative Modeling to Predict Multiple Suitable Conditions for Chemical Reactions },
   journal      = { Journal of Chemical Information and Modeling },

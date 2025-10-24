@@ -17,9 +17,6 @@ Armstrong, D. et al.
 [ResearchGate](https://www.researchgate.net/publication/394493004_Tango_constrained_synthesis_planning_using_chemically_informed_value_functions) |
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/386454783_Tango_Constrained_synthesis_planning_using_chemically_informed_value_functions)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, template-free, tango*
 
@@ -34,12 +31,12 @@ We also highlight the effectiveness of our computed node cost function in steeri
 
 # Citation
 ```
-@article {armstrong2025a,
+@article {20250811_armstrong_d_et_al,
   author       = { Daniel Armstrong and Zlatko Jončev and Jeff Guo‡ and Philippe Schwaller },
   title        = { Tango*: constrained synthesis planning using chemically informed value functions },
   journal      = { Digital Discovery },
   year         = { 2025 },
-  pages        = { - },
+  pages        = { },
   publisher    = { RSC },
   doi          = { 10.1039/D5DD00130G },
   url          = { https://dx.doi.org/10.1039/D5DD00130G }

@@ -17,9 +17,6 @@ Zhong, W. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10209957) |
 [ResearchGate](https://www.researchgate.net/publication/371040452_Retrosynthesis_prediction_using_an_end-to-end_graph_generative_architecture_for_molecular_graph_editing)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, semi-template-based, graph2edits
 
@@ -36,7 +33,7 @@ Evaluated on the standard benchmark dataset USPTO-50k, our model achieves the st
 
 # Citation
 ```
-@article {zhong2023a,
+@article {20230525_zhong_w_et_al,
   author       = { Weihe Zhong and Ziduo Yang and Calvin Yu-Chian Chen },
   title        = { Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing },
   journal      = { Nature Communications },

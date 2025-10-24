@@ -16,9 +16,6 @@ Tavakoli, M. et al.
 [arXiv](https://arxiv.org/abs/2103.14536) |
 [ResearchGate](https://www.researchgate.net/publication/350457036_Quantum_Mechanics_and_Machine_Learning_Synergies_Graph_Attention_Neural_Networks_to_Predict_Chemical_Reactivity)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis
 
@@ -37,7 +34,7 @@ The curated data sets of MCA* and MAA* scores is available through the ChemDB ch
 
 # Citation
 ```
-@article {tavakoli2022a,
+@article {20220112_tavakoli_m_et_al,
   author       = { Mohammadamin Tavakoli and Aaron Mood and David Van Vranken and Pierre Baldi },
   title        = { Quantum Mechanics and Machine Learning Synergies: Graph Attention Neural Networks to Predict Chemical Reactivity },
   journal      = { Journal of Chemical Information and Modeling },

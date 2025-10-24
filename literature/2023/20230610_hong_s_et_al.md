@@ -15,9 +15,6 @@ Hong, S., Zhuo, H.H., Jin, K., Shao, G., and Zhou, Z.
 [arXiv](https://arxiv.org/abs/2112.06028) |
 [GitHub](https://github.com/jjljkjljk/EG-MCTS)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, eg-mcts
 
@@ -35,7 +32,7 @@ Routes designed for real drug compounds exhibit the effectiveness of EG-MCTS on 
 
 # Citation
 ```
-@article {hong2023a,
+@article {20230610_hong_s_et_al,
   author       = { Siqi Hong and Hankz Hankui Zhuo and Kebing Jin and Guang Shao and Zhanwen Zhou },
   title        = { Retrosynthetic planning with experience-guided Monte Carlo tree search },
   journal      = { Communications Chemistry },

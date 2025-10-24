@@ -17,9 +17,6 @@ Tavakoli, M. et al.
 [ResearchGate](https://www.researchgate.net/publication/368607017_RMechDB_A_Public_Database_of_Elementary_Radical_Reaction_Steps) |
 [RMechDB](https://deeprxn.ics.uci.edu/rmechdb)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, reaction, rmechdb
 
@@ -40,7 +37,7 @@ We believe that this open access to this data and platform enables the extension
 
 # Citation
 ```
-@article {tavakoli2023a,
+@article {20230217_tavakoli_m_et_al,
   author       = { Mohammadamin Tavakoli and Yin Ting T. Chiu and Pierre Baldi and Ann Marie Carlton and David Van Vranken },
   title        = { RMechDB: A Public Database of Elementary Radical Reaction Steps },
   journal      = { Journal of Chemical Information and Modeling },

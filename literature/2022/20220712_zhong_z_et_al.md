@@ -18,9 +18,6 @@ Zhong, Z. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9365080) |
 [ResearchGate](https://www.researchgate.net/publication/361926668_Root-aligned_SMILES_A_Tight_Representation_for_Chemical_Reaction_Prediction)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-free, r-smiles
 
@@ -36,7 +33,7 @@ We compare the proposed R-SMILES with various state-of-the-art baselines and sho
 
 # Citation
 ```
-@article {zhong2022a,
+@article {20220712b_zhong_z_et_al,
   author       = { Zipeng Zhong and Jie Song and Zunlei Feng and Tiantao Liu and Lingxiang Jia and Shaolun Yao and Min Wu and Tingjun Hou and Mingli Song },
   title        = { Root-aligned SMILES: a tight representation for chemical reaction prediction },
   journal      = { Chem. Sci. },

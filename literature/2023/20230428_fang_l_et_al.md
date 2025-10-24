@@ -17,9 +17,6 @@ Fang, L. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10147675) |
 [ResearchGate](https://www.researchgate.net/publication/370370868_Single-step_retrosynthesis_prediction_by_leveraging_commonly_preserved_substructures)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free, retrosub
 
@@ -36,7 +33,7 @@ Analyzing substructures extracted from our machine learning model can provide hu
 
 # Citation
 ```
-@article {fang2023a,
+@article {20230428_fang_l_et_al,
   author       = { Lei Fang and Junren Li and Ming Zhao and Li Tan and Jian-Guang Lou },
   title        = { Single-step retrosynthesis prediction by leveraging commonly preserved substructures },
   journal      = { Nature Communications },

@@ -18,9 +18,6 @@ Skoraczyński, G. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9840255) |
 [ResearchGate](https://www.researchgate.net/publication/367149981_Critical_assessment_of_synthetic_accessibility_scores_in_computer-assisted_synthesis_planning)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability, synthetic-accessibility, analysis
 
@@ -43,7 +40,7 @@ The source code of this work is publicly available at https://github.com/grzsko/
 
 # Citation
 ```
-@article {skoraczynski2023a,
+@article {20230114_skoraczynski_g_et_al,
   author       = { Grzegorz Skoraczyński and Mateusz Kitlas and Błażej Miasojedow and Anna Gambin },
   title        = { Critical assessment of synthetic accessibility scores in computer-assisted synthesis planning },
   journal      = { Journal of Cheminformatics },

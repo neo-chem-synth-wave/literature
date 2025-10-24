@@ -17,9 +17,6 @@ Antoniuk, E.R. et al.
 [ResearchGate](https://www.researchgate.net/publication/373414047_Predicting_the_synthesizability_of_crystalline_inorganic_materials_from_the_data_of_known_material_compositions) |
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/369341260_Predicting_the_Synthesizability_of_Crystalline_Inorganic_Materials_from_the_Data_of_Known_Material_Compositions)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability
 
@@ -35,7 +32,7 @@ The development of SynthNN will allow for synthesizability constraints to be sea
 
 # Citation
 ```
-@article {antoniuk2023a,
+@article {20230825_antoniuk_e_r_et_al,
   author       = { Evan R. Antoniuk and Gowoon Cheon and George Wang and Daniel Bernstein and William Cai and Evan J. Reed },
   title        = { Predicting the synthesizability of crystalline inorganic materials from the data of known material compositions },
   journal      = { npj Computational Materials },

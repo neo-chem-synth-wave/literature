@@ -18,9 +18,6 @@ Seidl, P. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9092346) |
 [Johannes Kepler University Linz Library ePub Repository](https://epub.jku.at/obvulioa/content/titleinfo/8307162)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-based, mhn-react
 
@@ -36,7 +33,7 @@ Code to reproduce the results is available at github.com/ml-jku/mhn-react.
 
 # Citation
 ```
-@article {seidl2022a,
+@article {20220115_seidl_p_et_al,
   author       = { Philipp Seidl and Philipp Renz and Natalia Dyubankova and Paulo Neves and Jonas Verhoeven and Jörg K. Wegner and Marwin Segler and Sepp Hochreiter and Günter Klambauer },
   title        = { Improving Few- and Zero-Shot Reaction Template Prediction Using Modern Hopfield Networks },
   journal      = { Journal of Chemical Information and Modeling },

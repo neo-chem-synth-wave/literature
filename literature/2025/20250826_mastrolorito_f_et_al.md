@@ -16,9 +16,6 @@ Mastrolorito, F. et al.
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6808e79750018ac7c5c7dec9) |
 [GitHub](https://github.com/molML/fragSMILES4reaction)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, frag-smiles4reactions
 
@@ -32,12 +29,12 @@ Our results demonstrate that chirality-aware and fragment-level representations 
 
 # Citation
 ```
-@article {mastrolorito2025b,
+@article {20250826_mastrolorito_f_et_al,
   author       = { Fabrizio Mastrolorito and Fulvio Ciriaco and Orazio Nicolotti and Francesca Grisoni },
   title        = { Enhancing deep chemical reaction prediction with advanced chirality and fragment representation },
   journal      = { Chem. Commun. },
   year         = { 2025 },
-  pages        = { - },
+  pages        = { },
   publisher    = { The Royal Society of Chemistry },
   doi          = { 10.1039/D5CC02641E },
   url          = { https://dx.doi.org/10.1039/D5CC02641E }

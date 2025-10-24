@@ -17,9 +17,6 @@ Andronov, M. et al.
 [GitHub](https://github.com/Academich/translation-transformer) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11895308)
 
-**Starred:**
-False
-
 **Tags:**
 optimization
 
@@ -35,7 +32,7 @@ Our methods aim to improve transformer-based models’ scalability and industria
 
 # Citation
 ```
-@article {andronov2025a,
+@article {20250310_andronov_m_et_al,
   author       = { Mikhail Andronov and Natalia Andronova and Michael Wand and Jürgen Schmidhuber and Djork-Arné Clevert },
   title        = { Accelerating the inference of string generation-based chemical reaction models for industrial applications },
   journal      = { Journal of Cheminformatics },

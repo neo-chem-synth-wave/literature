@@ -14,9 +14,6 @@ Mahjour, B.A. and Coley, C.W.
 **Alternative Links:**
 [GitHub](https://github.com/coleygroup/rdcanon)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-pattern, rdcanon
 
@@ -33,7 +30,7 @@ Several case studies are provided to showcase improved efficiency in substructur
 
 # Citation
 ```
-@article {mahjour2024a,
+@article {20240315_mahjour_b_a_and_coley_c_w,
   author       = { Babak A. Mahjour and Connor W. Coley },
   title        = { RDCanon: A Python Package for Canonicalizing the Order of Tokens in SMARTS Queries },
   journal      = { Journal of Chemical Information and Modeling },

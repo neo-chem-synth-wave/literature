@@ -15,9 +15,6 @@ Westerlund, A.M. et al.
 **Alternative Links:**
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/650c0ffced7d0eccc3f32d7f)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-free, chemformer
 
@@ -38,7 +35,7 @@ The conclusions drawn from this work allow for the design of a synthesis plannin
 
 # Citation
 ```
-@article {westerlund2024a,
+@article {20240411_westerlund_a_m_et_al,
   author       = { Annie M. Westerlund and Siva Manohar Koki and Supriya Kancharla and Alessandro Tibo and Lakshidaa Saigiridharan and Mikhail Kabeshov and Rocío Mercado and Samuel Genheden },
   title        = { Do Chemformers Dream of Organic Matter? Evaluating a Transformer Model for Multistep Retrosynthesis },
   journal      = { Journal of Chemical Information and Modeling },

@@ -17,9 +17,6 @@ Ishida, S. et al.
 [Kyoto University Research Information Repository](https://repository.kulib.kyoto-u.ac.jp/items/85034ae6-fa6a-4504-8971-7e71a88efbe4) |
 [ResearchGate](https://www.researchgate.net/publication/359096803_AI-Driven_Synthetic_Route_Design_Incorporated_with_Retrosynthesis_Knowledge)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, template-based, retrek
 
@@ -35,7 +32,7 @@ The concept of integrating retrosynthesis knowledge as adjustable parameters int
 
 # Citation
 ```
-@article {ishida2022a,
+@article {20220308_ishida_s_et_al,
   author       = { Shoichi Ishida and Kei Terayama and Ryosuke Kojima and Kiyosei Takasu and Yasushi Okuno },
   title        = { AI-Driven Synthetic Route Design Incorporated with Retrosynthesis Knowledge },
   journal      = { Journal of Chemical Information and Modeling },

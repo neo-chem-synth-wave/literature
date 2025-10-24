@@ -3,7 +3,7 @@
 Simultaneously Improving Reaction Coverage and Computational Cost in Automated Reaction Prediction Tasks
 
 **Authors:**
-Zhao, Q., and Savoie, B.M.
+Zhao, Q. and Savoie, B.M.
 
 **Publication Date:**
 2021/07/22
@@ -15,9 +15,6 @@ Zhao, Q., and Savoie, B.M.
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c750b8567dfe44aeec58f9) |
 [GitHub](https://github.com/Savoie-Research-Group/yarp) |
 [ResearchGate](https://www.researchgate.net/publication/346194411_More_and_Faster_Simultaneously_Improving_Reaction_Coverage_and_Computational_Cost_in_Automated_Reaction_Prediction_Tasks)
-
-**Starred:**
-False
 
 **Tags:**
 multi-step-synthesis, yarp
@@ -33,7 +30,7 @@ This combination of ultra-low cost and high reaction coverage creates opportunit
 
 # Citation
 ```
-@article {zhao2021a,
+@article {20210722_zhao_q_and_savoie_b_m,
   author       = { Qiyuan Zhao and Brett M. Savoie },
   title        = { Simultaneously improving reaction coverage and computational cost in automated reaction prediction tasks },
   journal      = { Nature Computational Science },

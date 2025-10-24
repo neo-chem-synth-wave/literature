@@ -16,9 +16,6 @@ Türtscher, P.L. and Reiher, M.
 [GitHub](https://github.com/qcscine) |
 [ResearchGate](https://www.researchgate.net/publication/366305226_Pathfinder_Navigating_and_Analyzing_Chemical_Reaction_Networks_with_an_Efficient_Graph-Based_Approach)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-synthesis
 
@@ -42,7 +39,7 @@ Both processes are analyzed within the same CRN, which we construct with our aut
 
 # Citation
 ```
-@article {turtscher2022a,
+@article {20221214_turtscher_p_l_and_reiher_m,
   author       = { Paul L. Türtscher and Markus Reiher },
   title        = { Pathfinder─Navigating and Analyzing Chemical Reaction Networks with an Efficient Graph-Based Approach },
   journal      = { Journal of Chemical Information and Modeling },

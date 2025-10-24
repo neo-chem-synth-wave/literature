@@ -17,9 +17,6 @@ Mrugalla, F. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12076909) |
 [ResearchGate](https://www.researchgate.net/publication/391706317_Generating_diversity_and_securing_completeness_in_algorithmic_retrosynthesis)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, template-based, dfpn*
 
@@ -35,7 +32,7 @@ Our experiments show that our algorithm outperforms the algorithm predominantly 
 
 # Citation
 ```
-@article {mrugalla2025,
+@article {20250513_mrugalla_f_et_al,
   author       = { Florian Mrugalla and Christopher Franz and Yannic Alber and Georg Mogk and Martín Villalba and Thomas Mrziglod and Kevin Schewior },
   title        = { Generating diversity and securing completeness in algorithmic retrosynthesis },
   journal      = { Journal of Cheminformatics },

@@ -17,9 +17,6 @@ Kozlov, K.S. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11911446) |
 [ResearchGate](https://www.researchgate.net/publication/389889638_Discovering_organic_reactions_with_a_machine-learning-powered_deciphering_of_tera-scale_mass_spectrometry_data)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, reaction
 
@@ -36,7 +33,7 @@ Among these, the heterocycle-vinyl coupling process within the Mizoroki-Heck rea
 
 # Citation
 ```
-@article {kozlov2025a,
+@article {20250316_kozlov_k_s_et_al,
   author       = { Konstantin S. Kozlov and Daniil A. Boiko and Julia V. Burykina and Valentina V. Ilyushenkova and Alexander Y. Kostyukovich and Ekaterina D. Patil and Valentine P. Ananikov },
   title        = { Discovering organic reactions with a machine-learning-powered deciphering of tera-scale mass spectrometry data },
   journal      = { Nature Communications },

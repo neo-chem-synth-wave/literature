@@ -17,9 +17,6 @@ Neeser, R.M. et al.
 [GitHub](https://github.com/schwallergroup/fsscore) |
 [ResearchGate](https://www.researchgate.net/publication/385041564_FSscore_A_Personalized_Machine_Learning-Based_Synthetic_Feasibility_Score)
 
-**Starred:**
-True
-
 **Tags:**
 synthesizability, synthetic-feasibility, fs-score
 
@@ -35,7 +32,7 @@ The FSscore showcases how a human-in-the-loop framework can be utilized to optim
 
 # Citation
 ```
-@article {neeser2024a,
+@article {20241018_neeser_r_m_et_al,
   author       = { Rebecca M. Neeser and Bruno Correia and Philippe Schwaller },
   title        = { FSscore: A Personalized Machine Learning-Based Synthetic Feasibility Score },
   journal      = { Chemistry–Methods },
@@ -43,7 +40,7 @@ The FSscore showcases how a human-in-the-loop framework can be utilized to optim
   pages        = { e202400024 },
   volume       = { 4 },
   number       = { 11 },
-  doi          = { https://doi.org/10.1002/cmtd.202400024 },
+  doi          = { 10.1002/cmtd.202400024 },
   url          = { https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmtd.202400024 },
   eprint       = { https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/cmtd.202400024 }
 }

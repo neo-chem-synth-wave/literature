@@ -18,9 +18,6 @@ Keto, A. et al.
 [GitHub (Diels-Adler)](https://github.com/angusketo/DA_DataExtraction) |
 [ResearchGate](https://www.researchgate.net/publication/390279413_Improving_reaction_prediction_through_chemically_aware_transfer_learning)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, template-based
 
@@ -36,7 +33,7 @@ These small bespoke datasets were more efficient in both low re-training and low
 
 # Citation
 ```
-@article {keto2025a,
+@article {20250328_keto_a_et_al,
   author       = { Angus Keto and Taicheng Guo and Nils Gönnheimer and Xiangliang Zhang and Elizabeth H. Krenske and Olaf Wiest },
   title        = { Improving reaction prediction through chemically aware transfer learning },
   journal      = { Digital Discovery },

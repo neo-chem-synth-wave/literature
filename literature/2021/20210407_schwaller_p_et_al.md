@@ -19,9 +19,6 @@ Schwaller, P. et al.
 [ResearchGate](https://www.researchgate.net/publication/350712225_Extraction_of_organic_chemistry_grammar_from_unsupervised_learning_of_chemical_reactions) |
 [RXNMapper](https://rxnmapper.ai)
 
-**Starred:**
-True
-
 **Tags:**
 atom-to-atom-mapping, rxnmapper
 
@@ -38,7 +35,7 @@ It provides the missing link between data-driven and rule-based approaches for n
 
 # Citation
 ```
-@article {schwaller2021b,
+@article {20210407_schwaller_p_et_al,
   author       = { Philippe Schwaller and Benjamin Hoover and Jean-Louis Reymond and Hendrik Strobelt and Teodoro Laino },
   title        = { Extraction of organic chemistry grammar from unsupervised learning of chemical reactions },
   journal      = { Science Advances },

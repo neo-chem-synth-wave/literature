@@ -16,9 +16,6 @@ Chung, Y. and Green, W.H.
 [GitHub](https://github.com/yunsiechung/chemprop/tree/RxnSolvKSE_ML) |
 [ResearchGate](https://www.researchgate.net/publication/377314920_Machine_learning_from_quantum_chemistry_to_predict_experimental_solvent_effects_on_reaction_rates)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-solvent-effects
 
@@ -34,7 +31,7 @@ The presented model can provide nearly instantaneous predictions of kinetic solv
 
 # Citation
 ```
-@article {chung2024a,
+@article {20240110_chung_y_and_green_w_h,
   author       = { Yunsie Chung and William H. Green },
   title        = { Machine learning from quantum chemistry to predict experimental solvent effects on reaction rates },
   journal      = { Chem. Sci. },

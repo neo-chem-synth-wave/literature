@@ -16,9 +16,6 @@ Sagawa, T. and Kojima, R.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12366004) |
 [ResearchGate](https://www.researchgate.net/publication/394681140_ReactionT5_a_pre-trained_transformer_model_for_accurate_chemical_reaction_prediction_with_limited_data)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, single-step-retrosynthesis, reaction-yield, reaction-t5
 
@@ -34,7 +31,7 @@ Additionally, the visualization of ReactionT5 embeddings illustrates that the mo
 
 # Citation
 ```
-@article {sagawa2025a,
+@article {20250819_sagawa_t_and_kojima_r,
   author       = { Tatsuya Sagawa and Ryosuke Kojima },
   title        = { ReactionT5: a pre-trained transformer model for accurate chemical reaction prediction with limited data },
   journal      = { Journal of Cheminformatics },

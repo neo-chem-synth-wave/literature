@@ -15,9 +15,6 @@ Wang, W. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 reaction-classification
 
@@ -35,7 +32,7 @@ Finally, representative reactions from the testing dataset are provided to illus
 
 # Citation
 ```
-@article {wang2024a,
+@article {20240614_wang_w_et_al,
   author       = { Wenlong Wang and Chenyang Xu and Jian Du and Lei Zhang },
   title        = { Developing deep learning-based large-scale organic reaction classification model via sigma-profiles },
   journal      = { Green Chemical Engineering },
@@ -44,7 +41,7 @@ Finally, representative reactions from the testing dataset are provided to illus
   volume       = { 6 },
   number       = { 2 },
   issn         = { 2666-9528 },
-  doi          = { https://doi.org/10.1016/j.gce.2024.06.003 },
+  doi          = { 10.1016/j.gce.2024.06.003 },
   url          = { https://www.sciencedirect.com/science/article/pii/S2666952824000396 }
 }
 ```

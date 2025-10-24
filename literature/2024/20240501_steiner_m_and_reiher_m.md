@@ -16,9 +16,6 @@ Steiner, M. and Reiher, M.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11063077) |
 [ResearchGate](https://www.researchgate.net/publication/380265298_A_human-machine_interface_for_automatic_exploration_of_chemical_reaction_networks)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-network, steering-wheel
 
@@ -37,7 +34,7 @@ The exploration objectives are fully adjustable, allowing one to harness the STE
 
 # Citation
 ```
-@article {steiner2024a,
+@article {20240501_steiner_m_and_reiher_m,
   author       = { Miguel Steiner and Markus Reiher },
   title        = { A human-machine interface for automatic exploration of chemical reaction networks },
   journal      = { Nature Communications },

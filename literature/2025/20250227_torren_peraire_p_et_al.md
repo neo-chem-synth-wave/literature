@@ -16,9 +16,6 @@ Torren-Peraire, P. et al.
 [GitHub](https://github.com/aidd-msca/convergent_routes) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11869726)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, optimization
 
@@ -34,7 +31,7 @@ We find that over 70% of all reactions are involved in convergent synthesis, cov
 
 # Citation
 ```
-@article {torrenperaire2025a,
+@article {20250227_torren_peraire_p_et_al,
   author       = { Paula Torren-Peraire and Jonas Verhoeven and Dorota Herman and Hugo Ceulemans and Igor V. Tetko and Jörg K. Wegner },
   title        = { Improving route development using convergent retrosynthesis planning },
   journal      = { Journal of Cheminformatics },

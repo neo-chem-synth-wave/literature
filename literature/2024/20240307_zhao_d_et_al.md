@@ -17,9 +17,6 @@ Zhao, D. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10920677) |
 [ResearchGate](https://www.researchgate.net/publication/378802747_Efficient_retrosynthetic_planning_with_MCTS_exploration_enhanced_A_search)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, meea*
 
@@ -37,7 +34,7 @@ Moreover, for natural products, MEEA* successfully identifies bio-retrosynthetic
 
 # Citation
 ```
-@article {zhao2024a,
+@article {20240307_zhao_d_et_al,
   author       = { Dengwei Zhao and Shikui Tu and Lei Xu },
   title        = { Efficient retrosynthetic planning with MCTS exploration enhanced A* search },
   journal      = { Communications Chemistry },

@@ -16,9 +16,6 @@ Spiekermann, K. et al.
 [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/144281) |
 [ResearchGate](https://www.researchgate.net/publication/362068912_High_accuracy_barrier_heights_enthalpies_and_rate_coefficients_for_chemical_reactions)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, reaction, rdb7
 
@@ -35,7 +32,7 @@ We believe this data will accelerate development of automated and reliable metho
 
 # Citation
 ```
-@article {spiekermann2022a,
+@article {20220718_spiekermann_k_et_al,
   author       = { Kevin Spiekermann and Lagnajit Pattanaik and William H. Green },
   title        = { High accuracy barrier heights, enthalpies, and rate coefficients for chemical reactions },
   journal      = { Scientific Data },

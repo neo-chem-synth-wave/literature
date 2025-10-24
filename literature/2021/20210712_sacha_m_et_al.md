@@ -16,9 +16,6 @@ Sacha, M. et al.
 [arXiv](https://arxiv.org/abs/2006.15426v2) |
 [GitHub](https://github.com/molecule-one/megan)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free, graph, megan
 
@@ -35,7 +32,7 @@ Code and trained models are made available online at https://github.com/molecule
 
 # Citation
 ```
-@article {sacha2021a,
+@article {20210712_sacha_m_et_al,
   author       = { Mikołaj Sacha and Mikołaj Błaż and Piotr Byrski and Paweł Dąbrowski-Tumański and Mikołaj Chromiński and Rafał Loska and Paweł Włodarczyk-Pruszyński and Stanisław Jastrzębski },
   title        = { Molecule Edit Graph Attention Network: Modeling Chemical Reactions as Sequences of Graph Edits },
   journal      = { Journal of Chemical Information and Modeling },

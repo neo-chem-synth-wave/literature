@@ -16,9 +16,6 @@ Tavakoli, M. et al.
 [PMechDB](https://deeprxn.ics.uci.edu/pmechdb) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10966657)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, reaction, p-mech-db
 
@@ -38,7 +35,7 @@ PMechDB platform is accessible online at https://deeprxn.ics.uci.edu/pmechdb.
 
 # Citation
 ```
-@article {tavakoli2024a,
+@article {20240314_tavakoli_m_et_al,
   author       = { Mohammadamin Tavakoli and Ryan J. Miller and Mirana Claire Angel and Michael A. Pfeiffer and Eugene S. Gutman and Aaron D. Mood and David Van Vranken and Pierre Baldi },
   title        = { PMechDB: A Public Database of Elementary Polar Reaction Steps },
   journal      = { Journal of Chemical Information and Modeling },

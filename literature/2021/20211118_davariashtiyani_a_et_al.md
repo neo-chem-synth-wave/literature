@@ -15,9 +15,6 @@ Davariashtiyani, A. et al.
 **Alternative Links:**
 [GitHub](https://github.com/kadkhodaei-research-group/XIE-SPP)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability
 
@@ -35,7 +32,7 @@ We illustrate the usefulness of the model by predicting the synthesizability of 
 
 # Citation
 ```
-@article {davariashtiyani2021a,
+@article {20211118_davariashtiyani_a_et_al,
   author       = { Ali Davariashtiyani and Zahra Kadkhodaie and Sara Kadkhodaei },
   title        = { Predicting synthesizability of crystalline materials via deep learning },
   journal      = { Communications Materials },

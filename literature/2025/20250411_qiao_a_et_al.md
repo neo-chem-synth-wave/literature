@@ -15,9 +15,6 @@ Qiao, A. et al.
 **Alternative Links:**
 [GitHub](https://github.com/anjie-qiao/RARB)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free, rarb
 
@@ -35,7 +32,7 @@ These strengths make RARB highly valuable for real-world retrosynthesis applicat
 
 # Citation
 ```
-@article {qiao2025a,
+@article {20250411_qiao_a_et_al,
   author       = { Anjie Qiao and Zhen Wang and Jiahua Rao and Yuedong Yang and Zhewei Wei },
   title        = { Advancing Retrosynthesis with Retrieval-Augmented Graph Generation },
   journal      = { Proceedings of the AAAI Conference on Artificial Intelligence },

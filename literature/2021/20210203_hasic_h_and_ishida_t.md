@@ -15,9 +15,6 @@ Hasic, H. and Ishida, T.
 [GitHub](https://github.com/hasic-haris/one_step_retrosynth_ai) |
 [ResearchGate](https://www.researchgate.net/publication/349040662_Single-Step_Retrosynthesis_Prediction_Based_on_the_Identification_of_Potential_Disconnection_Sites_Using_Molecular_Substructure_Fingerprints)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, semi-template-based, fingerprint
 
@@ -38,7 +35,7 @@ Furthermore, if the predicted reaction class is used to narrow down the reactant
 
 # Citation
 ```
-@article {hasic2021a,
+@article {20210203_hasic_h_and_ishida_t,
   author       = { Haris Hasic and Takashi Ishida },
   title        = { Single-Step Retrosynthesis Prediction Based on the Identification of Potential Disconnection Sites Using Molecular Substructure Fingerprints },
   journal      = { Journal of Chemical Information and Modeling },

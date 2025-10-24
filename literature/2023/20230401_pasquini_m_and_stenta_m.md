@@ -17,9 +17,6 @@ Pasquini, M. and Stenta, M.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10067316/) |
 [ResearchGate](https://www.researchgate.net/publication/369750453_LinChemIn_SynGraph-a_data_model_and_a_toolkit_to_analyze_and_compare_synthetic_routes)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-synthesis, multi-step-retrosynthesis, analysis
 
@@ -48,7 +45,7 @@ LinChemIn is freely available at https://github.com/syngenta/linchemin.
 
 # Citation
 ```
-@article {pasquini2023a,
+@article {20230401_pasquini_m_and_stenta_m,
   author       = { Marta Pasquini and Marco Stenta },
   title        = { LinChemIn: SynGraph - a data model and a toolkit to analyze and compare synthetic routes },
   journal      = { Journal of Cheminformatics },

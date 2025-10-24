@@ -19,9 +19,6 @@ Vargas, S. et al.
 [GitHub (Reaction Property Machine Learning)](https://github.com/santi921/bondnet) |
 [ResearchGate](https://www.researchgate.net/publication/379673630_High-throughput_quantum_theory_of_atoms_in_molecules_QTAIM_for_geometric_deep_learning_of_molecular_and_reaction_properties)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-property
 
@@ -41,7 +38,7 @@ Combined, we hope that this framework could enable QTAIM-enhanced structure-to-p
 
 # Citation
 ```
-@article {vargas2024a,
+@article {20240408_vargas_s_et_al,
   author       = { Santiago Vargas and Winston Gee and Anastassia Alexandrova },
   title        = { High-throughput quantum theory of atoms in molecules (QTAIM) for geometric deep learning of molecular and reaction properties },
   journal      = { Digital Discovery },

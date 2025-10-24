@@ -1,6 +1,6 @@
 # Overview
 **Title:**
-Improving the Performance of Models for One-Step Retrosynthesis Through Re-ranking
+Improving the Performance of Models for One-Step Retrosynthesis Through Re-Ranking
 
 **Authors:**
 Lin, M.H., Tu, Z., and Coley, C.W. |
@@ -16,9 +16,6 @@ Lin, M.H. et al.
 [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/141316) |
 [GitHub](https://github.com/coleygroup/rxn-ebm) |
 [ResearchGate](https://www.researchgate.net/publication/359248622_Improving_the_performance_of_models_for_one-step_retrosynthesis_through_re-ranking)
-
-**Starred:**
-False
 
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, optimization
@@ -37,7 +34,7 @@ However, the state-of-the-art top-1 accuracy is not improved by this method.
 
 # Citation
 ```
-@article {lin2022a,
+@article {20220315_lin_m_h_et_al,
   author       = { Min Htoo Lin and Zhengkai Tu and Connor W. Coley },
   title        = { Improving the performance of models for one-step retrosynthesis through re-ranking },
   journal      = { Journal of Cheminformatics },

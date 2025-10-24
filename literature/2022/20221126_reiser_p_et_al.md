@@ -17,9 +17,6 @@ Reiser, P. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9702700) |
 [ResearchGate](https://www.researchgate.net/publication/365778808_Graph_neural_networks_for_materials_science_and_chemistry)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -33,7 +30,7 @@ In this Review, we provide an overview of the basic principles of GNNs, widely u
 
 # Citation
 ```
-@article {reiser2022a,
+@article {20221126_reiser_p_et_al,
   author       = { Patrick Reiser and Marlen Neubert and André Eberhard and Luca Torresi and Chen Zhou and Chen Shao and Houssam Metni and Clint van Hoesel and Henrik Schopmans and Timo Sommer and Pascal Friederich },
   title        = { Graph neural networks for materials science and chemistry },
   journal      = { Communications Materials },

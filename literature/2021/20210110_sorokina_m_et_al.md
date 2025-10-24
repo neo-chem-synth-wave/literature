@@ -18,9 +18,6 @@ Sorokina, M. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7798278) |
 [ResearchGate](https://www.researchgate.net/publication/348377123_COCONUT_online_Collection_of_Open_Natural_Products_database)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, compound, coconut
 
@@ -35,7 +32,7 @@ COCONUT web is freely available at https://coconut.naturalproducts.net.
 
 # Citation
 ```
-@article {sorokina2021a,
+@article {20210110_sorokina_m_et_al,
   author       = { Maria Sorokina and Peter Merseburger and Kohulan Rajan and Mehmet Aziz Yirik and Christoph Steinbeck },
   title        = { COCONUT online: Collection of Open Natural Products database },
   journal      = { Journal of Cheminformatics },

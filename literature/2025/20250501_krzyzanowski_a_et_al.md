@@ -17,9 +17,6 @@ Krzyzanowski, A. et al.
 [GitHub](https://github.com/gskcheminformatics/SynthCoder) |
 [ResearchGate](https://www.researchgate.net/publication/389133742_Exploring_BERT_for_Reaction_Yield_Prediction_Evaluating_the_Impact_of_Tokenization_Molecular_Representation_and_Pre-training_Data_Augmentation)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-yield-prediction, synth-coder
 
@@ -40,7 +37,7 @@ GSK's BERT training code base is made available to the community with this work.
 
 # Citation
 ```
-@article {krzyzanowski2025a,
+@article {20250501_krzyzanowski_a_et_al,
   author       = { Adrian Krzyzanowski and Stephen D. Pickett and Peter Pogány },
   title        = { Exploring BERT for Reaction Yield Prediction: Evaluating the Impact of Tokenization, Molecular Representation, and Pretraining Data Augmentation },
   journal      = { Journal of Chemical Information and Modeling },

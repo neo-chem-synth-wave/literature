@@ -16,9 +16,6 @@ Wang, Z. et al.
 [GitHub](https://github.com/wzhstat/Reaction-Condition-Selector) |
 [ResearchGate](https://www.researchgate.net/publication/386504658_Reacon_a_template-_and_cluster-based_framework_for_reaction_condition_prediction)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-free, reacon
 
@@ -35,7 +32,7 @@ Finally, by applying the method to recently published molecule synthesis routes 
 
 # Citation
 ```
-@article {wang2024a,
+@article {20241206_wang_z_et_al,
   author       = { Zihan Wang and Kangjie Lin and Jianfeng Pei and Luhua Lai },
   title        = { Reacon: a template- and cluster-based framework for reaction condition prediction },
   journal      = { Chem. Sci. },

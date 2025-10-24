@@ -18,9 +18,6 @@ Blackshaw, T.M. et al.
 [GitHub](https://github.com/AI4Green/AI4Green) |
 [GitHub (API)](https://github.com/AI4Green/retrosynthesis-api)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, duct, ai4green
 
@@ -39,7 +36,7 @@ When limited to a 150 s time constraint, dUCT-v1 solved ∼5 million more routes
 
 # Citation
 ```
-@article {blackshaw2025a,
+@article {20250613_blackshaw_t_m_et_al,
   author       = { Ton M. Blackshaw and Joseph C. Davies and Kristian T. Spoerer and Jonathan D. Hirst },
   title        = { Enhancing Monte Carlo Tree Search for Retrosynthesis },
   journal      = { Journal of Chemical Information and Modeling },

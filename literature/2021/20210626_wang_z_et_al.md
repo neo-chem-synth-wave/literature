@@ -15,9 +15,6 @@ Wang, Z. et al.
 **Alternative Links:**
 [ResearchGate](https://www.researchgate.net/publication/352765387_Computational_Analysis_of_Synthetic_Planning_Past_and_Future)
 
-**Starred:**
-False
-
 **Tags:**
 review
 
@@ -31,7 +28,7 @@ In this article, we review the progress in computational analysis of synthetic p
 
 # Citation
 ```
-@article {wang2021a,
+@article {20210626_wang_z_et_al,
   author       = { Zhuang Wang and Wenhan Zhang and Bo Liu },
   title        = { Computational Analysis of Synthetic Planning: Past and Future },
   journal      = { Chinese Journal of Chemistry },
@@ -39,7 +36,7 @@ In this article, we review the progress in computational analysis of synthetic p
   pages        = { 3127-3143 },
   volume       = { 39 },
   number       = { 11 },
-  doi          = { https://doi.org/10.1002/cjoc.202100273 },
+  doi          = { 10.1002/cjoc.202100273 },
   url          = { https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202100273 },
   eprint       = { https://onlinelibrary.wiley.com/doi/pdf/10.1002/cjoc.202100273 }
 }

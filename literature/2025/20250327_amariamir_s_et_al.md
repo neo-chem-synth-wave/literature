@@ -18,9 +18,6 @@ Amariamir, S. et al.
 [ResearchGate](https://www.researchgate.net/publication/390246824_SynCoTrain_a_dual_classifier_PU-learning_framework_for_synthesizability_prediction) |
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/385944576_SynCoTrain_A_Dual_Classifier_PU-learning_Framework_for_Synthesizability_Prediction)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability, syn-co-train
 
@@ -41,7 +38,7 @@ This work highlights the potential of co-training to advance high-throughput mat
 
 # Citation
 ```
-@article {amariamir2025a,
+@article {20250327_amariamir_s_et_al,
   author       = { Sasan Amariamir and Janine George and Philipp Benner },
   title        = { SynCoTrain: a dual classifier PU-learning framework for synthesizability prediction },
   journal      = { Digital Discovery },

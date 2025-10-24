@@ -18,9 +18,6 @@ Wang, Z. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9132903) |
 [ResearchGate](https://www.researchgate.net/publication/360837368_Dataset_of_solution-based_inorganic_materials_synthesis_procedures_extracted_from_the_scientific_literature)
 
-**Starred:**
-False
-
 **Tags:**
 data-set, reaction
 
@@ -37,7 +34,7 @@ Through this work, we are making freely available the first large dataset of sol
 
 # Citation
 ```
-@article {wang2022a,
+@article {20220525_wang_z_et_al,
   author       = { Zheren Wang and Olga Kononova and Kevin Cruse and Tanjin He and Haoyan Huo and Yuxing Fei and Yan Zeng and Yingzhi Sun and Zijian Cai and Wenhao Sun and Gerbrand Ceder },
   title        = { Dataset of solution-based inorganic materials synthesis procedures extracted from the scientific literature },
   journal      = { Scientific Data },

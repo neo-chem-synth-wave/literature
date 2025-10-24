@@ -17,9 +17,6 @@ Dobbelaere, M.R. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10980627) |
 [ResearchGate](https://www.researchgate.net/publication/379407518_Rxn-INSIGHT_fast_chemical_reaction_analysis_using_bond-electron_matrices)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-analysis, rxn-insight
 
@@ -41,7 +38,7 @@ Furthermore, Rxn-INSIGHT is proficient in suggesting appropriate choices for sol
 
 # Citation
 ```
-@article {dobbelaere2024a,
+@article {20240329_dobbelaere_m_r_et_al,
   author       = { Maarten R. Dobbelaere and István Lengyel and Christian V. Stevens and Kevin M. Van Geem },
   title        = { Rxn-INSIGHT: fast chemical reaction analysis using bond-electron matrices },
   journal      = { Journal of Cheminformatics },

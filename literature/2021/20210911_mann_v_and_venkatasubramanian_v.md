@@ -16,9 +16,6 @@ Mann, V. and Venkatasubramanian, V.
 [GitHub](https://github.com/vupil/grammarTransformerReactionPrediction) |
 [ResearchGate](https://www.researchgate.net/publication/354525382_Retrosynthesis_Prediction_using_Grammar-based_Neural_Machine_Translation_An_Information-Theoretic_Approach)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free
 
@@ -34,7 +31,7 @@ Fewer invalid predictions for both known and unknown reaction class scenarios de
 
 # Citation
 ```
-@article {mann2021a,
+@article {20210911_mann_v_and_venkatasubramanian_v,
   author       = { Vipul Mann and Venkat Venkatasubramanian },
   title        = { Retrosynthesis prediction using grammar-based neural machine translation: An information-theoretic approach },
   journal      = { Computers & Chemical Engineering },
@@ -42,7 +39,7 @@ Fewer invalid predictions for both known and unknown reaction class scenarios de
   pages        = { 107533 },
   volume       = { 155 },
   issn         = { 0098-1354 },
-  doi          = { https://doi.org/10.1016/j.compchemeng.2021.107533 },
+  doi          = { 10.1016/j.compchemeng.2021.107533 },
   url          = { https://www.sciencedirect.com/science/article/pii/S0098135421003112 }
 }
 ```

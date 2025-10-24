@@ -17,9 +17,6 @@ Toniato, A. et al.
 [ChemRiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c754c8337d6c2710e28ac2) |
 [GitHub](https://github.com/rxn4chemistry/OpenNMT-py/tree/noise_reduction)
 
-**Starred:**
-False
-
 **Tags:**
 data-analysis, optimization
 
@@ -38,7 +35,7 @@ The proposed strategy is the first unassisted rule-free technique to address aut
 
 # Citation
 ```
-@article {toniato2021a,
+@article {20210329_toniato_a_et_al,
   author       = { Alessandra Toniato and Philippe Schwaller and Antonio Cardinale and Joppe Geluykens and Teodoro Laino },
   title        = { Unassisted noise reduction of chemical reaction datasets },
   journal      = { Nature Machine Intelligence },

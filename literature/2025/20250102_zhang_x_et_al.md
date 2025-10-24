@@ -16,9 +16,6 @@ Zhang, X. et al.
 [GitHub](https://github.com/osu-zxf/DreamRetroer) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11695995)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis
 
@@ -36,7 +33,7 @@ Our algorithm outperforms existing methods, discovers chemistry patterns, and si
 
 # Citation
 ```
-@article {zhang2025a,
+@article {20250102_zhang_x_et_al,
   author       = { Xuefeng Zhang and Haowei Lin and Muhan Zhang and Yuan Zhou and Jianzhu Ma },
   title        = { A data-driven group retrosynthesis planning model inspired by neurosymbolic programming },
   journal      = { Nature Communications },

@@ -15,9 +15,6 @@ Dolfus, U. et al.
 **Alternative Links:**
 None
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, synthesia
 
@@ -34,7 +31,7 @@ This paper describes the functionality of Synthesia, its basic concepts, and sev
 
 # Citation
 ```
-@article {dolfus2023a,
+@article {20231101_dolfus_u_et_al,
   author       = { Uschi Dolfus and Hans Briem and Torben Gutermuth and Matthias Rarey },
   title        = { Full Modification Control over Retrosynthetic Routes for Guided Optimization of Lead Structures },
   journal      = { Journal of Chemical Information and Modeling },

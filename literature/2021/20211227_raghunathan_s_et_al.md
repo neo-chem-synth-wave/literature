@@ -3,7 +3,7 @@
 Molecular Representations for Machine Learning Applications in Chemistry
 
 **Authors:**
-Raghunathan, S., and Priyakumar, U.D.
+Raghunathan, S. and Priyakumar, U.D.
 
 **Publication Date:**
 2021/12/27
@@ -13,9 +13,6 @@ Raghunathan, S., and Priyakumar, U.D.
 
 **Alternative Links:**
 None
-
-**Starred:**
-False
 
 **Tags:**
 compound-descriptor, review
@@ -33,7 +30,7 @@ We discuss their diverse applications how they have been instrumental in harness
 
 # Citation
 ```
-@article {raghunathan2021a,
+@article {20211227_raghunathan_s_et_al,
   author       = { Shampa Raghunathan and U. Deva Priyakumar },
   title        = { Molecular representations for machine learning applications in chemistry },
   journal      = { International Journal of Quantum Chemistry },
@@ -41,7 +38,7 @@ We discuss their diverse applications how they have been instrumental in harness
   pages        = { e26870 },
   volume       = { 122 },
   number       = { 7 },
-  doi          = { https://doi.org/10.1002/qua.26870 },
+  doi          = { 10.1002/qua.26870 },
   url          = { https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26870 },
   eprint       = { https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.26870 }
 }

@@ -18,9 +18,6 @@ Zeng, K. et al.
 [ResearchGate](https://www.researchgate.net/publication/382270476_Ualign_pushing_the_limit_of_template-free_retrosynthesis_prediction_with_unsupervised_SMILES_alignment) |
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/380084278_UAlign_Pushing_the_Limit_of_Template-free_Retrosynthesis_Prediction_with_Unsupervised_SMILES_Alignment)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-free, ualign
 
@@ -43,7 +40,7 @@ Importantly, our template-free method achieves effectiveness comparable to, or e
 
 # Citation
 ```
-@article {zeng2024a,
+@article {20240715_zeng_k_et_al,
   author       = { Kaipeng Zeng and Bo Yang and Xin Zhao and Yu Zhang and Fan Nie and Xiaokang Yang and Yaohui Jin and Yanyan Xu },
   title        = { Ualign: pushing the limit of template-free retrosynthesis prediction with unsupervised SMILES alignment },
   journal      = { Journal of Cheminformatics },

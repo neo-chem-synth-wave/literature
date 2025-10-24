@@ -17,9 +17,6 @@ Joung, J.F. et al.
 [GitHub](https://github.com/FongMunHong/FlowER) |
 [GitHub (Data)](https://github.com/jfjoung/Mechanistic_dataset)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-mechanism, flower
 
@@ -35,7 +32,7 @@ This inherently interpretable framework represents an important step in bridging
 
 # Citation
 ```
-@article {joung2025a,
+@article {20250820_joung_j_f_et_al,
   author       = { Joonyoung F. Joung and Mun Hong Fong and Nicholas Casetti and Jordan P. Liles and Ne S. Dassanayake and Connor W. Coley },
   title        = { Electron flow matching for generative reaction mechanism prediction },
   journal      = { Nature },

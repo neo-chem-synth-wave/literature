@@ -16,9 +16,6 @@ Genheden, S. and Howell, G.P.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12368604) |
 [ResearchGate](https://www.researchgate.net/publication/394813240_Measuring_the_efficiency_of_synthetic_routes_and_transformations_using_vectors_derived_from_similarity_and_complexity)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, optimization
 
@@ -33,12 +30,12 @@ Three applications of the methodology are demonstrated: a comparison of CASP per
 
 # Citation
 ```
-@article {genheden2025a,
+@article {20250821_genheden_s_and_howell_g_p,
   author       = { Samuel Genheden and Gareth P. Howell },
   title        = { Measuring the efficiency of synthetic routes and transformations using vectors derived from similarity and complexity },
   journal      = { Chem. Sci. },
   year         = { 2025 },
-  pages        = { - },
+  pages        = { },
   publisher    = { The Royal Society of Chemistry },
   doi          = { 10.1039/D5SC06089C },
   url          = { https://dx.doi.org/10.1039/D5SC06089C }

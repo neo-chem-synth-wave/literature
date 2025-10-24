@@ -15,9 +15,6 @@ Seo, S. et al.
 **Alternative Links:**
 [GitHub](https://github.com/sw32-seo/GTA)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-based, graph, gta
 
@@ -36,7 +33,7 @@ The GTA model surpasses prior graph-based template-free models by 2% and 7% in t
 
 # Citation
 ```
-@article {seo2021a,
+@article {20210518_seo_s_w_et_al,
   author       = { Seung-Woo Seo and You Young Song and June Yong Yang and Seohui Bae and Hankook Lee and Jinwoo Shin and Sung Ju Hwang and Eunho Yang },
   title        = { GTA: Graph Truncated Attention for Retrosynthesis },
   journal      = { Proceedings of the AAAI Conference on Artificial Intelligence },

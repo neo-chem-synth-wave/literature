@@ -17,9 +17,6 @@ Phan, T. et al.
 [GitHub](https://github.com/TieuLongPhan/SynTemp) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11938280) |
 
-**Starred:**
-False
-
 **Tags:**
 reaction-template-extraction, syn-temp
 
@@ -35,7 +32,7 @@ Hierarchical clustering of the extended reaction centers based on topological fe
 
 # Citation
 ```
-@article {phan2025a,
+@article {20250228_phan_t_et_al,
   author       = { Tieu-Long Phan and Klaus Weinbauer and Marcos E. González Laffitte and Yingjie Pan and Daniel Merkle and Jakob L. Andersen and Rolf Fagerberg and Christoph Flamm and Peter F. Stadler },
   title        = { SynTemp: Efficient Extraction of Graph-Based Reaction Rules from Large-Scale Reaction Databases },
   journal      = { Journal of Chemical Information and Modeling },

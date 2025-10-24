@@ -16,9 +16,6 @@ Maziarz, K. et al.
 [arXiv](https://arxiv.org/abs/2310.19796) |
 [GitHub](https://github.com/microsoft/syntheseus)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, evaluation, syntheseus
 
@@ -33,7 +30,7 @@ We end with guidance for future works in this area, and call on the community to
 
 # Citation
 ```
-@article {maziarz2024a,
+@article {20240805_maziarz_k_et_al,
   author       = { Krzysztof Maziarz and Austin Tripp and Guoqing Liu and Megan Stanley and Shufang Xie and Piotr Gaiński and Philipp Seidl and Marwin H. S. Segler },
   title        = { Re-evaluating retrosynthesis algorithms with Syntheseus },
   journal      = { Faraday Discuss. },

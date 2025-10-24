@@ -18,9 +18,6 @@ Thakkar, A. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8179384) |
 [ResearchGate](https://www.researchgate.net/publication/348706627_Retrosynthetic_accessibility_score_RAscore_-_rapid_machine_learned_synthesizability_classification_from_AI_driven_retrosynthetic_planning)
 
-**Starred:**
-True
-
 **Tags:**
 synthesizability, retrosynthetic-accessibility, ra-score
 
@@ -35,7 +32,7 @@ The RAscore should be useful for pre-screening millions of virtual molecules fro
 
 # Citation
 ```
-@article {thakkar2021a,
+@article {20210122_thakkar_a_et_al,
   author       = { Amol Thakkar and Veronika Chadimová and Esben Jannik Bjerrum and Ola Engkvist and Jean-Louis Reymond },
   title        = { Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning },
   journal      = { Chem. Sci. },

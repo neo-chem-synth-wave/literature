@@ -16,9 +16,6 @@ Konrad, J. and Meißner, R.
 [ResearchGate](https://www.researchgate.net/publication/389581087_Smart_Reaction_Templating_A_Graph-Based_Method_for_Automated_Molecular_Dynamics_Input_Generation) |
 [Technical University Hamburg GitLab](https://collaborating.tuhh.de/m-29/software/templater)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-template
 
@@ -34,7 +31,7 @@ Future work will focus on extending the method to mixed organic–inorganic syst
 
 # Citation
 ```
-@article {konrad2025a,
+@article {20250606_konrad_j_and_meisner_r,
   author       = { Julian Konrad and Robert Meißner },
   title        = { Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation },
   journal      = { Journal of Chemical Information and Modeling },

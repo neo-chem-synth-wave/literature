@@ -17,9 +17,6 @@ Jaume-Santero, F. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10091402) |
 [University of Genève](https://archive-ouverte.unige.ch/unige:169342)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis, analysis
 
@@ -38,7 +35,7 @@ This demonstrates the usefulness of more elaborate metrics in complex predictive
 
 # Citation
 ```
-@article {jaumesantero2023a,
+@article {20230323_jaume_santero_f_et_al,
   author       = { Fernando Jaume-Santero and Alban Bornet and Alain Valery and Nona Naderi and David Vicente Alvarez and Dimitrios Proios and Anthony Yazdani and Colin Bournez and Thomas Fessard and Douglas Teodoro },
   title        = { Transformer Performance for Chemical Reactions: Analysis of Different Predictive and Evaluation Scenarios },
   journal      = { Journal of Chemical Information and Modeling },

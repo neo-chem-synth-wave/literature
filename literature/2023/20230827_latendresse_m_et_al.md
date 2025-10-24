@@ -15,9 +15,6 @@ Latendresse, M. et al.
 **Alternative Links:**
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498441)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis, synroute
 
@@ -32,7 +29,7 @@ SynRoute was able to find routes for an average of 83% of compounds based on sel
 
 # Citation
 ```
-@article {latendresse2023a,
+@article {20230827_latendresse_m_et_al,
   author       = { Mario Latendresse and Jeremiah P. Malerich and James Herson and Markus Krummenacker and Judy Szeto and Vi-Anh Vu and Nathan Collins and Peter B. Madrid },
   title        = { SynRoute: A Retrosynthetic Planning Software },
   journal      = { Journal of Chemical Information and Modeling },

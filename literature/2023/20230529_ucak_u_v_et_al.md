@@ -20,9 +20,6 @@ Ucak, U.V. et al.
 [ResearchGate](https://www.researchgate.net/publication/371135876_Improving_the_quality_of_chemical_language_model_outcomes_with_atom-in-SMILES_tokenization) |
 [ResearchGate Correction](https://www.researchgate.net/publication/372784168_Correction_Improving_the_quality_of_chemical_language_model_outcomes_with_atom-in-SMILES_tokenization)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free
 
@@ -40,7 +37,7 @@ We believe that the atom-in-SMILES tokenization has a great potential to be adop
 
 # Citation
 ```
-@article {ucak2023a,
+@article {20230529_ucak_u_v_et_al,
   author       = { Umit V. Ucak and Islambek Ashyrmamatov and Juyong Lee },
   title        = { Improving the quality of chemical language model outcomes with atom-in-SMILES tokenization },
   journal      = { Journal of Cheminformatics },

@@ -17,9 +17,6 @@ Tavakoli, M. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11815866) |
 [RMechRP](https://deeprxn.ics.uci.edu/rmechrp)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, r-mech-rp
 
@@ -37,7 +34,7 @@ RMechRP is publicly available online at https://deeprxn.ics.uci.edu/rmechrp/.
 
 # Citation
 ```
-@article {tavakoli2025a,
+@article {20250128_tavakoli_m_et_al,
   author       = { Mohammadamin Tavakoli and Yin Ting T. Chiu and Ann Marie Carlton and David Van Vranken and Pierre Baldi },
   title        = { Chemically Informed Deep Learning for Interpretable Radical Reaction Prediction },
   journal      = { Journal of Chemical Information and Modeling },

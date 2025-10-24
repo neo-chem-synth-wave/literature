@@ -19,9 +19,6 @@ Schwaller, P. et al.
 [ResearchGate](https://www.researchgate.net/publication/348851156_Mapping_the_space_of_chemical_reactions_using_attention-based_neural_networks) |
 [Springer Nature SharedIt](http://rdcu.be/cenmd)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-classification, fingerprint, rxnfp, data-source, reaction-pattern, uspto-1k-tpl
 
@@ -39,7 +36,7 @@ The insights into chemical reaction space enabled by our learned fingerprints ar
 
 # Citation
 ```
-@article {schwaller2021a,
+@article {20210128_schwaller_p_et_al,
   author       = { Philippe Schwaller and Daniel Probst and Alain C. Vaucher and Vishnu H. Nair and David Kreutter and Teodoro Laino and Jean-Louis Reymond },
   title        = { Mapping the space of chemical reactions using attention-based neural networks },
   journal      = { Nature Machine Intelligence },

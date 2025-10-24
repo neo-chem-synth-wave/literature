@@ -17,9 +17,6 @@ Chen, L. and Li, Y.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11212196) |
 [ResearchGate](https://www.researchgate.net/publication/381795697_AutoTemplate_enhancing_chemical_reaction_datasets_for_machine_learning_applications_in_organic_chemistry)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, optimization, auto-template
 
@@ -42,7 +39,7 @@ AutoTemplate marks a significant progression in the preprocessing of chemical re
 
 # Citation
 ```
-@article {chen2024c,
+@article {20240627_chen_l_and_li_y,
   author       = { Lung-Yi Chen and Yi-Pei Li },
   title        = { AutoTemplate: enhancing chemical reaction datasets for machine learning applications in organic chemistry },
   journal      = { Journal of Cheminformatics },

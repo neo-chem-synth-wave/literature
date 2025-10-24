@@ -15,9 +15,6 @@ Mann, V. and Venkatasubramanian, V.
 [arXiv](https://arxiv.org/abs/2208.01647) |
 [ResearchGate](https://www.researchgate.net/publication/362466763_AI-driven_Hypernetwork_of_Organic_Chemistry_Network_Statistics_and_Applications_in_Reaction_Classification)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-classification, hypergraph
 
@@ -35,7 +32,7 @@ We conclude that the hypergraph representation is flexible, preserves reaction c
 
 # Citation
 ```
-@article {mann2022a,
+@article {20221130_mann_v_and_venkatasubramanian_v,
   author       = { Vipul Mann and Venkat Venkatasubramanian },
   title        = { AI-driven hypergraph network of organic chemistry: network statistics and applications in reaction classification },
   journal      = { React. Chem. Eng. },

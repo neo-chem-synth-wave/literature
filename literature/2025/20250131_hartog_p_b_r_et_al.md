@@ -17,9 +17,6 @@ Hartog, P.B.R. et al.
 [GitHub](https://github.com/PeterHartog/fast-retro) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11863376)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, fast-retro
 
@@ -38,7 +35,7 @@ However, in Monte Carlo-based (MC) multi-step retrosynthesis, other factors play
 
 # Citation
 ```
-@article {hartog2025a,
+@article {20250131_hartog_p_b_r_et_al,
   author       = { Peter B.R. Hartog and Annie M. Westerlund and Igor V. Tetko and Samuel Genheden },
   title        = { Investigations into the Efficiency of Computer-Aided Synthesis Planning },
   journal      = { Journal of Chemical Information and Modeling },

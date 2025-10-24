@@ -20,9 +20,6 @@ McDermott, M.J. et al.
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/342582491_A_graph-based_network_for_predicting_chemical_reaction_pathways_in_solid-state_materials_synthesis) |
 [ResearchSquare](https://www.researchsquare.com/article/rs-38000/v1)
 
-**Starred:**
-False
-
 **Tags:**
 multi-step-retrosynthesis
 
@@ -37,7 +34,7 @@ The reaction network presents opportunities for enabling reaction pathway predic
 
 # Citation
 ```
-@article {mcdermott2021a,
+@article {20210525_mcdermott_m_j_et_al,
   author       = { Matthew J. McDermott and Shyam S. Dwaraknath and Kristin A. Persson },
   title        = { A graph-based network for predicting chemical reaction pathways in solid-state materials synthesis },
   journal      = { Nature Communications },

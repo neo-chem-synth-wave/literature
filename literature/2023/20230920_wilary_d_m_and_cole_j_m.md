@@ -16,9 +16,6 @@ Wilary, D.M. and Cole, J.M.
 [GitHub](https://github.com/dmw51/reactiondataextractor) |
 [ReactionDataExtractor](http://www.reactiondataextractor.org)
 
-**Starred:**
-False
-
 **Tags:**
 reaction-extraction, reaction-data-extractor
 
@@ -36,7 +33,7 @@ The system architecture of our tool is modular, which allows it to balance speed
 
 # Citation
 ```
-@article {wilary2023a,
+@article {20230920_wilary_d_m_and_cole_j_m,
   author       = { Damian M. Wilary and Jacqueline M. Cole },
   title        = { ReactionDataExtractor 2.0: A Deep Learning Approach for Data Extraction from Chemical Reaction Schemes },
   journal      = { Journal of Chemical Information and Modeling },

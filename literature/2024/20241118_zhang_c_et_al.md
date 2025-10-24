@@ -18,9 +18,6 @@ Zhang, C. et al.
 [ResearchGate (Pre-print)](https://www.researchgate.net/publication/381294388_SynAsk_Unleashing_the_Power_of_Large_Language_Models_in_Organic_Synthesis) |
 [SynAsk](https://synask.aichemeco.com)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, multi-step-synthesis, single-step-retrosynthesis, multi-step-retrosynthesis, template-free, syn-ask
 
@@ -37,7 +34,7 @@ Accessible at https://synask.aichemeco.com, SynAsk represents a significant adva
 
 # Citation
 ```
-@article {zhang2024a,
+@article {20241118_zhang_c_et_al,
   author       = { Chonghuan Zhang and Qianghua Lin and Biwei Zhu and Haopeng Yang and Xiao Lian and Hao Deng and Jiajun Zheng and Kuangbiao Liao },
   title        = { SynAsk: unleashing the power of large language models in organic synthesis },
   journal      = { Chem. Sci. },

@@ -19,9 +19,6 @@ Heid, E. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8757433) |
 [ResearchGate](https://www.researchgate.net/publication/354943117_On_the_influence_of_template_size_canonicalization_and_exclusivity_for_retrosynthesis_and_reaction_prediction_applications)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis, single-step-retrosynthesis, analysis
 
@@ -39,7 +36,7 @@ The canonicalization and correction code is made freely available.
 
 # Citation
 ```
-@article {heid2021a,
+@article {20211223_heid_e_et_al,
   author       = { Esther Heid and Jiannan Liu and Andrea Aude and William H. Green },
   title        = { Influence of Template Size, Canonicalization, and Exclusivity for Retrosynthesis and Reaction Prediction Applications },
   journal      = { Journal of Chemical Information and Modeling },

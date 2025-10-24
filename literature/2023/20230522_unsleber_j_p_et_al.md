@@ -17,9 +17,6 @@ Unsleber, J.P.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC10268957) |
 [scine](https://scine.ethz.ch/download)
 
-**Starred:**
-False
-
 **Tags:**
 reaction, reaction-pattern, scine
 
@@ -37,7 +34,7 @@ The resulting simple filtering mechanism for autonomous reaction network investi
 
 # Citation
 ```
-@article {unsleber2023a,
+@article {20230522_unsleber_j_p_et_al,
   author       = { Jan P. Unsleber },
   title        = { Accelerating Reaction Network Explorations with Automated Reaction Template Extraction and Application },
   journal      = { Journal of Chemical Information and Modeling },

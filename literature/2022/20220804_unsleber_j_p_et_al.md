@@ -16,9 +16,6 @@ Unsleber, J.P. et al.
 [arXiv](https://arxiv.org/abs/2202.13011) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11516015)
 
-**Starred:**
-False
-
 **Tags:**
 chemical-reaction-network, chemoton
 
@@ -38,7 +35,7 @@ We provide the resulting data, including large numbers of reactions that were no
 
 # Citation
 ```
-@article {unsleber2022a,
+@article {20220804_unsleber_j_p_et_al,
   author       = { Jan P. Unsleber and Stephanie A. Grimmel and Markus Reiher },
   title        = { Chemoton 2.0: Autonomous Exploration of Chemical Reaction Networks },
   journal      = { Journal of Chemical Theory and Computation },

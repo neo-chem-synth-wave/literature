@@ -15,9 +15,6 @@ Ismail, I. et al.
 **Alternative Links:**
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9574932)
 
-**Starred:**
-False
-
 **Tags:**
 compound-descriptor, graph
 
@@ -32,7 +29,7 @@ Finally, we highlight where challenges remain, including issues of chemical accu
 
 # Citation
 ```
-@article {ismail2022a,
+@article {20221003_ismail_i_et_al,
   author       = { Idil Ismail and Raphael Chantreau Majerus and Scott Habershon },
   title        = { Graph-Driven Reaction Discovery: Progress, Challenges, and Future Opportunities },
   journal      = { The Journal of Physical Chemistry A },

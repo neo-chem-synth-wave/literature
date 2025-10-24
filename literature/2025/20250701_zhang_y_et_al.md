@@ -15,9 +15,6 @@ Zhang, Y. et al.
 **Alternative Links:**
 [arXiv](https://arxiv.org/abs/2504.18340)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-synthesis
 
@@ -37,7 +34,7 @@ This work opens avenues for accelerating organic chemistry synthesis with adapte
 
 # Citation
 ```
-@article {zhang2025,
+@article {20250701_zhang_y_et_al,
   author       = { Yu Zhang and Yang Han and Shuai Chen and Ruijie Yu and Xin Zhao and Xianbin Liu and Kaipeng Zeng and Mengdi Yu and Jidong Tian and Feng Zhu and Xiaokang Yang and Yaohui Jin and Yanyan Xu },
   title        = { Large language models to accelerate organic chemistry synthesis },
   journal      = { Nature Machine Intelligence },

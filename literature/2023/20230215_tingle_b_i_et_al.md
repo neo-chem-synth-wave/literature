@@ -16,9 +16,6 @@ Tingle, B.I. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC9976280) |
 [ResearchGate](https://www.researchgate.net/publication/364600619_ZINC-22_-_A_Free_Multi-Billion-Scale_Database_of_Tangible_Compounds_for_Ligand_Discovery)
 
-**Starred:**
-False
-
 **Tags:**
 data-source, compound, zinc-22
 
@@ -37,7 +34,7 @@ ZINC is freely available to everyone and may be accessed at cartblanche22.dockin
 
 # Citation
 ```
-@article {tingle2023a,
+@article {20230215_tingle_b_i_et_al,
   author       = { Benjamin I. Tingle and Khanh G. Tang and Mar Castanon and John J. Gutierrez and Munkhzul Khurelbaatar and Chinzorig Dandarchuluun and Yurii S. Moroz and John J. Irwin },
   title        = { ZINC-22─A Free Multi-Billion-Scale Database of Tangible Compounds for Ligand Discovery },
   journal      = { Journal of Chemical Information and Modeling },

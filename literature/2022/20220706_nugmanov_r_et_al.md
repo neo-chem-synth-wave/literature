@@ -16,9 +16,6 @@ Nugmanov, R. et al.
 [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/62348dd0a4ed957158249609) |
 [GitHub](https://github.com/chython/chytorch-rxnmap)
 
-**Starred:**
-False
-
 **Tags:**
 atom-to-atom-mapping, rxn-map
 
@@ -32,7 +29,7 @@ In a benchmarking study with IBM RxnMapper, which is the best AAM algorithm acco
 
 # Citation
 ```
-@article {nugmanov2022a,
+@article {20220706_nugmanov_r_et_al,
   author       = { Ramil Nugmanov and Natalia Dyubankova and Andrey Gedich and Joerg Kurt Wegner },
   title        = { Bidirectional Graphormer for Reactivity Understanding: Neural Network Trained to Reaction Atom-to-Atom Mapping Task },
   journal      = { Journal of Chemical Information and Modeling },

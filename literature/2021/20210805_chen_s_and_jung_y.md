@@ -16,9 +16,6 @@ Chen, S. and Jung, Y.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8549044) |
 [ResearchGate](https://www.researchgate.net/publication/353723283_Deep_Retrosynthetic_Reaction_Prediction_using_Local_Reactivity_and_Global_Attention)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-based, graph, local-retro
 
@@ -38,7 +35,7 @@ The practical application of the model is also demonstrated by correctly predict
 
 # Citation
 ```
-@article {chen2021a,
+@article {20210805_chen_s_and_jung_y,
   author       = { Shuan Chen and Yousung Jung },
   title        = { Deep Retrosynthetic Reaction Prediction using Local Reactivity and Global Attention },
   journal      = { JACS Au },

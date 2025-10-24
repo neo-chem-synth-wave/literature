@@ -16,9 +16,6 @@ Li, B. and Chen, H.
 [GitHub](https://github.com/jidushanbojue/YaSAScore) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8838603)
 
-**Starred:**
-False
-
 **Tags:**
 synthesizability, synthetic-accessibility, cmpnn
 
@@ -34,7 +31,7 @@ The forward reaction prediction model (top-1 accuracy of 49.6%), the retrosynthe
 
 # Citation
 ```
-@article {li2022a,
+@article {20220203_li_b_and_chen_h,
   author       = { Baiqing Li and Hongming Chen },
   title        = { Prediction of Compound Synthesis Accessibility Based on Reaction Knowledge Graph },
   journal      = { Molecules },

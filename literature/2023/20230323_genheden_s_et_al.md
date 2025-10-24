@@ -17,9 +17,6 @@ Genheden, S. et al.
 [GitHub](https://github.com/MolecularAI/aizynthtrain) |
 [ResearchGate](https://www.researchgate.net/publication/365796363_AiZynthTrain_robust_reproducible_and_extensible_pipelines_for_training_synthesis_prediction_models)
 
-**Starred:**
-True
-
 **Tags:**
 single-step-retrosynthesis, multi-step-retrosynthesis, template-based, aizynthtrain
 
@@ -35,7 +32,7 @@ We envisage that this framework will be extended with other synthesis models in 
 
 # Citation
 ```
-@article {genheden2023a,
+@article {20230323_genheden_s_et_al,
   author       = { Samuel Genheden and Per-Ola Norrby and Ola Engkvist },
   title        = { AiZynthTrain: Robust, Reproducible, and Extensible Pipelines for Training Synthesis Prediction Models },
   journal      = { Journal of Chemical Information and Modeling },

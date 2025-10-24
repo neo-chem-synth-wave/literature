@@ -16,9 +16,6 @@ Lu, J. and Zhang, Y.
 [Multi-task Reaction Predictions](https://yzhang.hpc.nyu.edu/T5Chem) |
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8960360)
 
-**Starred:**
-False
-
 **Tags:**
 multi-task, template-free, t5-chem
 
@@ -36,7 +33,7 @@ T5Chem is accessible through https://yzhang.hpc.nyu.edu/T5Chem.
 
 # Citation
 ```
-@article {lu2022a,
+@article {20220310_lu_j_and_zhang_y,
   author       = { Jieyu Lu and Yingkai Zhang },
   title        = { Unified Deep Learning Model for Multitask Reaction Predictions with Explanation },
   journal      = { Journal of Chemical Information and Modeling },

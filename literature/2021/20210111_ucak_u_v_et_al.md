@@ -18,9 +18,6 @@ Ucak, U.V. et al.
 [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7802345) |
 [ResearchGate](https://www.researchgate.net/publication/348399059_Substructure-based_neural_machine_translation_for_retrosynthetic_prediction)
 
-**Starred:**
-False
-
 **Tags:**
 single-step-retrosynthesis, template-free
 
@@ -39,7 +36,7 @@ In addition, our method yields more robust predictions than existing methods.
 
 # Citation
 ```
-@article {ucak2021a,
+@article {20210111_ucak_u_v_et_al,
   author       = { Umit V. Ucak and Taek Kang and Junsu Ko and Juyong Lee },
   title        = { Substructure-based neural machine translation for retrosynthetic prediction },
   journal      = { Journal of Cheminformatics },

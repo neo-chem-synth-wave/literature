@@ -15,9 +15,6 @@ Gimadiev, T.R. et al.
 **Alternative Links:**
 [GitHub](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)
 
-**Starred:**
-False
-
 **Tags:**
 data-cleaning, compound, reaction
 
@@ -32,7 +29,7 @@ The curated USPTO database is available in the GitHub repository (Laboratoire-de
 
 # Citation
 ```
-@article {gimadiev2021a,
+@article {20210824_gimadiev_t_r_et_al,
   author       = { Timur R. Gimadiev and Arkadii Lin and Valentina A. Afonina and Dinar Batyrshin and Ramil I. Nugmanov and Tagir Akhmetshin and Pavel Sidorov and Natalia Duybankova and Jonas Verhoeven and Joerg Wegner and Hugo Ceulemans and Andrey Gedich and Timur I. Madzhidov and Alexandre Varnek },
   title        = { Reaction Data Curation I: Chemical Structures and Transformations Standardization },
   journal      = { Molecular Informatics },
@@ -40,7 +37,7 @@ The curated USPTO database is available in the GitHub repository (Laboratoire-de
   pages        = { 2100119 },
   volume       = { 40 },
   number       = { 12 },
-  doi          = { https://doi.org/10.1002/minf.202100119 },
+  doi          = { 10.1002/minf.202100119 },
   url          = { https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202100119 },
   eprint       = { https://onlinelibrary.wiley.com/doi/pdf/10.1002/minf.202100119 }
 }
