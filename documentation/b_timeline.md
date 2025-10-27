@@ -1,5 +1,5 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-410-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-415-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
 [![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
@@ -10,12 +10,12 @@
 [![Static Badge](https://img.shields.io/badge/1980-5-red)](#1980)
 [![Static Badge](https://img.shields.io/badge/1981-1-red)](#1981)
 [![Static Badge](https://img.shields.io/badge/1984-1-red)](#1984)
-[![Static Badge](https://img.shields.io/badge/1985-2-red)](#1985)
+[![Static Badge](https://img.shields.io/badge/1985-3-red)](#1985)
 [![Static Badge](https://img.shields.io/badge/1987-1-red)](#1987)
 [![Static Badge](https://img.shields.io/badge/1988-2-red)](#1988)
 [![Static Badge](https://img.shields.io/badge/1989-2-red)](#1989)
-[![Static Badge](https://img.shields.io/badge/1990-3-red)](#1990)
-[![Static Badge](https://img.shields.io/badge/1992-3-red)](#1992)
+[![Static Badge](https://img.shields.io/badge/1990-5-red)](#1990)
+[![Static Badge](https://img.shields.io/badge/1992-5-red)](#1992)
 [![Static Badge](https://img.shields.io/badge/1993-1-red)](#1993)
 [![Static Badge](https://img.shields.io/badge/1995-1-red)](#1995)
 [![Static Badge](https://img.shields.io/badge/1996-1-red)](#1996)
@@ -546,19 +546,23 @@
 
 
 ### 1992
-| Publication Date | Publication                                                                                                                                                                                                                    |      Tags      |
-|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
-|    1992/11/01    | [Sello, G. Reaction Prediction: The Suggestions of the Beppe Program](../literature/1992/19921101_sello_g.md)                                                                                                                  |    history     |
-|    1992/06/01    | [Johnson, A.P. et al. Some Recent Progress in the Development of the LHASA Computer System for Organic Synthesis Design: Starting-Material-Oriented Retrosynthetic Analysis](../literature/1992/19920601_johnson_a_p_et_al.md) | history, lhasa |
-|    1992/02/01    | [Fontain, E. and Reitsam, K. The Generation of Reaction Networks With RAIN. 1. The Reaction Generator](../literature/1992/19920201_fontain_e_and_reitsam_k.md)                                                                 | history, rain  |
+| Publication Date | Publication                                                                                                                                                                                                                    |       Tags       |
+|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------:|
+|    1992/11/01    | [Sello, G. Reaction Prediction: The Suggestions of the Beppe Program](../literature/1992/19921101_sello_g.md)                                                                                                                  |     history      |
+|    1992/06/01    | [Johnson, A.P. et al. Some Recent Progress in the Development of the LHASA Computer System for Organic Synthesis Design: Starting-Material-Oriented Retrosynthetic Analysis](../literature/1992/19920601_johnson_a_p_et_al.md) |  history, lhasa  |
+|    1992/05/01    | [Hendrickson, J.B. and Parks, C.A. A Program for the FORWARD Generation of Synthetic Routes](../literature/1992/19920501_hendrickson_j_b_and_parks_c_a.md)                                                                     | history, forward |
+|    1992/02/01    | [Fontain, E. and Reitsam, K. The Generation of Reaction Networks With RAIN. 1. The Reaction Generator](../literature/1992/19920201_fontain_e_and_reitsam_k.md)                                                                 |  history, rain   |
+|    1992/01/01    | [Gasteiger, J. et al. A Collection of Computer Methods for Synthesis Design and Reaction Prediction](../literature/1992/19920101_gasteiger_j_et_al.md)                                                                         |     history      |
 
 
 ### 1990
 | Publication Date | Publication                                                                                                                                                                                                      |                    Tags                     |
 |:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------:|
-|    1990/11/01    | [Hendrickson, J.B. Organic Synthesis in the Age of Computers](../literature/1990/19901101c_hendrickson_j_b.md)                                                                                                   |               history, review               |
-|    1990/11/01    | [Gelernter, H. et al. Building and Refining a Knowledge Base for Synthetic Organic Chemistry via the Methodology of Inductive and Deductive Machine Learning](../literature/1990/19901101a_gelernter_h_et_al.md) | history, synchem, tristan, isolde, brangane |
-|    1990/11/01    | [Blurock, E.S. Computer-Aided Synthesis Design at RISC-Linz: Automatic Extraction and Use of Reaction Classes](../literature/1990/19901101b_blurock_e_s.md)                                                      |              history, retrosyn              |
+|    1990/11/01    | [Hendrickson, J.B. Organic Synthesis in the Age of Computers](../literature/1990/19901101d_hendrickson_j_b.md)                                                                                                   |               history, review               |
+|    1990/11/01    | [Hanessian, S. et al. Computer-Assisted Analysis and Perception of Stereochemical Features in Organic Molecules Using the CHIRON Program](../literature/1990/19901101a_hanessian_s_et_al.md)                     |               history, chiron               |
+|    1990/11/01    | [Gelernter, H. et al. Building and Refining a Knowledge Base for Synthetic Organic Chemistry via the Methodology of Inductive and Deductive Machine Learning](../literature/1990/19901101b_gelernter_h_et_al.md) | history, synchem, tristan, isolde, brangane |
+|    1990/11/01    | [Blurock, E.S. Computer-Aided Synthesis Design at RISC-Linz: Automatic Extraction and Use of Reaction Classes](../literature/1990/19901101c_blurock_e_s.md)                                                      |              history, retrosyn              |
+|    1990/01/01    | [Jorgensen, W.L. et al. CAMEO: A Program for the Logical Prediction of the Products of Organic Reactions](../literature/1990/19900101_jorgensen_w_l_et_al.md)                                                    |               history, cameo                |
 
 
 ### 1989
@@ -582,10 +586,11 @@
 
 
 ### 1985
-| Publication Date | Publication                                                                                                                                                                |  Tags   |
-|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
-|    1985/05/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Selection of Protective Groups for Multistep Organic Syntheses.](../literature/1985/19850501_corey_e_j_et_al.md) | history |
-|    1985/04/26    | [Corey, E.J. et al. Computer-Assisted Analysis in Organic Synthesis](../literature/1985/19850426_corey_e_j_et_al.md)                                                       | history |
+| Publication Date | Publication                                                                                                                                                                |          Tags           |
+|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------:|
+|    1985/09/01    | [Hendrickson, J.B. et al. A Logic-Based Program for Synthesis Design](../literature/1985/19850901_hendrickson_j_b_et_al.md)                                                | history, syngen, synout |
+|    1985/05/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Selection of Protective Groups for Multistep Organic Syntheses.](../literature/1985/19850501_corey_e_j_et_al.md) |         history         |
+|    1985/04/26    | [Corey, E.J. et al. Computer-Assisted Analysis in Organic Synthesis](../literature/1985/19850426_corey_e_j_et_al.md)                                                       |         history         |
 
 
 ### 1984
@@ -665,6 +670,6 @@
 
 
 ### 1969
-| Publication Date | Publication                                                                                                                                 |  Tags   |
-|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
-|    1969/10/10    | [Corey, E.J. and Wipke, W.T. Computer-Assisted Design of Complex Organic Syntheses](../literature/1969/19691010_corey_e_j_and_wipke_w_t.md) | history |
+| Publication Date | Publication                                                                                                                                 |                               Tags                                |
+|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------:|
+|    1969/10/10    | [Corey, E.J. and Wipke, W.T. Computer-Assisted Design of Complex Organic Syntheses](../literature/1969/19691010_corey_e_j_and_wipke_w_t.md) | single-step-synthesis, multi-step-synthesis, template-based, ocss |

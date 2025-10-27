@@ -28,7 +28,7 @@ Further uses and organizations of reaction classes for use in synthetic analysis
 
 # Citation
 ```
-@article {19901101b_blurock_e_s,
+@article {19901101c_blurock_e_s,
   author       = { Edward S. Blurock },
   title        = { Computer-aided synthesis design at RISC-Linz: automatic extraction and use of reaction classes },
   journal      = { Journal of Chemical Information and Computer Sciences },

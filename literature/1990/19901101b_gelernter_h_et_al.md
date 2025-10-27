@@ -29,7 +29,7 @@ Since the individual reaction entries in most computer-readable databases are of
 
 # Citation
 ```
-@article {19901101a_gelernter_h_et_al,
+@article {19901101b_gelernter_h_et_al,
   author       = { Herbert Gelernter and J. Royce Rose and Chyouhwa Chen },
   title        = { Building and refining a knowledge base for synthetic organic chemistry via the methodology of inductive and deductive machine learning },
   journal      = { Journal of Chemical Information and Computer Sciences },
