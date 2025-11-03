@@ -38,7 +38,7 @@ The source code, model checkpoints, and datasets developed in this work are rele
   title        = { Towards large-scale chemical reaction image parsing via a multimodal large language model },
   journal      = { Chem. Sci. },
   year         = { 2025 },
-  pages        = { },
+  pages        = { - },
   publisher    = { The Royal Society of Chemistry },
   doi          = { 10.1039/D5SC04173B },
   url          = { https://dx.doi.org/10.1039/D5SC04173B }

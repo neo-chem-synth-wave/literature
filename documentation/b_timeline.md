@@ -1,8 +1,9 @@
 # Timeline
-[![Static Badge](https://img.shields.io/badge/total-415-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-420-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#1969)
+[![Static Badge](https://img.shields.io/badge/1971-1-red)](#1971)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#1972)
-[![Static Badge](https://img.shields.io/badge/1974-1-red)](#1974)
+[![Static Badge](https://img.shields.io/badge/1974-2-red)](#1974)
 [![Static Badge](https://img.shields.io/badge/1975-1-red)](#1975)
 [![Static Badge](https://img.shields.io/badge/1976-3-red)](#1976)
 [![Static Badge](https://img.shields.io/badge/1977-11-orange)](#1977)
@@ -42,12 +43,15 @@
 [![Static Badge](https://img.shields.io/badge/2022-36-green)](#2022)
 [![Static Badge](https://img.shields.io/badge/2023-33-green)](#2023)
 [![Static Badge](https://img.shields.io/badge/2024-41-blue)](#2024)
-[![Static Badge](https://img.shields.io/badge/2025-55-blue)](#2025)
+[![Static Badge](https://img.shields.io/badge/2025-58-purple)](#2025)
 
 
 ### 2025
 | Publication Date | Publication                                                                                                                                                                                                                                         |                                                            Tags                                                            |
 |:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------:|
+|    2025/10/29    | [Lu, Y. et al. Improving Reaction Yield Prediction with Chemical Atom-Level Reaction Learning](../literature/2025/20251029_lu_y_et_al.md)                                                                                                           |                                              reaction-yield-prediction, carl                                               |
+|    2025/10/17    | [Ismail, A. et al. Automating Deep Learning-Based Generation and Evaluation of De Novo Chemical Reaction with ChemRxnSAGE](../literature/2025/20251017_ismail_a_et_al.md)                                                                           |                                                           other                                                            |
+|    2025/10/09    | [Han, D.B. et al. Learning Multidimensional Electronegativity of Selected Atom Types in Organic Molecules Using Graph Neural Networks](../literature/2025/20251009_han_d_b_et_al.md)                                                                |                                                           other                                                            |
 |    2025/10/07    | [Chen, Y. et al. Towards Large-Scale Chemical Reaction Image Parsing via a Multimodal Large Language Model](../literature/2025/20251007_chen_y_et_al.md)                                                                                            |                                                 reaction-extraction, rxnim                                                 |
 |    2025/10/01    | [Mungall, C.J. et al. Chemical Classification Program Synthesis Using Generative Artificial Intelligence](../literature/2025/20251001_mungall_c_j_et_al.md)                                                                                         |                                               reaction-classification, c3po                                                |
 |    2025/09/29    | [Hastedt, F. et al. MolPrice: Assessing Synthetic Accessibility of Molecules Based on Market Value](../literature/2025/20250929_hastedt_f_et_al.md)                                                                                                 |                                                synthesizability, mol-price                                                 |
@@ -655,18 +659,25 @@
 
 
 ### 1974
-| Publication Date | Publication                                                                                                                                                                                         |      Tags      |
-|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
-|    1974/12/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Methods for Machine Generation of Synthetic Intermediates Involving Multistep Look-Ahead](../literature/1974/19741201_corey_e_j_et_al.md) | history, lhasa |
+| Publication Date | Publication                                                                                                                                                                                         |                                Tags                                |
+|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|
+|    1974/12/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Methods for Machine Generation of Synthetic Intermediates Involving Multistep Look-Ahead](../literature/1974/19741201_corey_e_j_et_al.md) | single-step-synthesis, multi-step-synthesis, template-based, lhasa |
+|    1974/07/01    | [Wipke, W.T. and Dyott, T.M. Simulation and Evaluation of Chemical Synthesis. Computer Representation and Manipulation of Stereochemistry](../literature/1974/19740701_wipke_w_t_and_dyott_t_m.md)  | single-step-synthesis, multi-step-synthesis, template-based, secs  |
 
 
 ### 1972
-| Publication Date | Publication                                                                                                                                                                                                |  Tags   |
-|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
-|    1972/01/01    | [Corey, E.J. et al. Techniques for Perception by a Computer of Synthetically Significant Structural Features in Complex Molecules](../literature/1972/19720101b_corey_e_j_et_al.md)                        | history |
-|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Facile Man-Machine Communication of Chemical Structure by Interactive Computer Graphics](../literature/1972/19720101a_corey_e_j_et_al.md)        | history |
-|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis for Complex Molecules. Methods and Procedures for Machine Generation of Synthetic Intermediates](../literature/1972/19720101c_corey_e_j_et_al.md) | history |
-|    1972/01/01    | [Corey, E.J. and Petersson, G.A. Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures](../literature/1972/19720101d_corey_e_j_and_petersson_g_a.md)    | history |
+| Publication Date | Publication                                                                                                                                                                                                |                                            Tags                                             |
+|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------:|
+|    1972/01/01    | [Corey, E.J. et al. Techniques for Perception by a Computer of Synthetically Significant Structural Features in Complex Molecules](../literature/1972/19720101b_corey_e_j_et_al.md)                        |                                compound-featurization, lhasa                                |
+|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis. Facile Man-Machine Communication of Chemical Structure by Interactive Computer Graphics](../literature/1972/19720101a_corey_e_j_et_al.md)        |          single-step-synthesis, multi-step-synthesis, template-based, ocss, lhasa           |
+|    1972/01/01    | [Corey, E.J. et al. Computer-Assisted Synthetic Analysis for Complex Molecules. Methods and Procedures for Machine Generation of Synthetic Intermediates](../literature/1972/19720101c_corey_e_j_et_al.md) | reaction-classification, single-step-synthesis, multi-step-synthesis, template-based, lhasa |
+|    1972/01/01    | [Corey, E.J. and Petersson, G.A. Algorithm for Machine Perception of Synthetically Significant Rings in Complex Cyclic Organic Structures](../literature/1972/19720101d_corey_e_j_and_petersson_g_a.md)    |                                   compound-featurization                                    |
+
+
+### 1971
+| Publication Date | Publication                                                                                                                                              | Tags  |
+|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|
+|    1971/12/01    | [Hendrickson, J.B. Systematic Characterization of Structures and Reactions for Use in Organic Synthesis](../literature/1971/19711201_hendrickson_j_b.md) | other |
 
 
 ### 1969

@@ -34,10 +34,11 @@ All scripts are utilizing a base environment.
 
 
 ## Timeline
-[![Static Badge](https://img.shields.io/badge/total-415-white)](#timeline)
+[![Static Badge](https://img.shields.io/badge/total-420-white)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1969-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1971-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1972-4-red)](#timeline)
-[![Static Badge](https://img.shields.io/badge/1974-1-red)](#timeline)
+[![Static Badge](https://img.shields.io/badge/1974-2-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1975-1-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1976-3-red)](#timeline)
 [![Static Badge](https://img.shields.io/badge/1977-11-orange)](#timeline)
@@ -77,28 +78,21 @@ All scripts are utilizing a base environment.
 [![Static Badge](https://img.shields.io/badge/2022-36-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2023-33-green)](#timeline)
 [![Static Badge](https://img.shields.io/badge/2024-41-blue)](#timeline)
-[![Static Badge](https://img.shields.io/badge/2025-55-blue)](#timeline)
+[![Static Badge](https://img.shields.io/badge/2025-58-purple)](#timeline)
 
-| Publication Date | Publication                                                                                                                                                                                                  |                                  Tags                                  |
-|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------:|
-|    2025/10/07    | [Chen, Y. et al. Towards Large-Scale Chemical Reaction Image Parsing via a Multimodal Large Language Model](literature/2025/20251007_chen_y_et_al.md)                                                        |                       reaction-extraction, rxnim                       |
-|    2025/10/01    | [Mungall, C.J. et al. Chemical Classification Program Synthesis Using Generative Artificial Intelligence](literature/2025/20251001_mungall_c_j_et_al.md)                                                     |                     reaction-classification, c3po                      |
-|    2025/09/29    | [Hastedt, F. et al. MolPrice: Assessing Synthetic Accessibility of Molecules Based on Market Value](literature/2025/20250929_hastedt_f_et_al.md)                                                             |                      synthesizability, mol-price                       |
-|    2025/09/26    | [Sheshanarayana, R. and You, F. Rethinking Retrosynthesis: Curriculum Learning Reshapes Transformer-Based Small-Molecule Reaction Prediction](literature/2025/20250926a_sheshanarayana_r_and_you_f.md)       |                       single-step-retrosynthesis                       |
-|    2025/09/26    | [Kapeliukha, A. et al. Freedom Space 3.0: ML-Assisted Selection of Synthetically Accessible Small Molecules](literature/2025/20250926b_kapeliukha_a_et_al.md)                                                |             synthesizability, chemspace-freedom-space-3.0              |
-|    2025/08/28    | [Choe, J. et al. Retrosynthetic Crosstalk Between Single-Step Reaction and Multi-step Planning](literature/2025/20250828_choe_j_et_al.md)                                                                    |              single-step-synthesis, multi-step-synthesis               |
-|    2025/08/26    | [Mastrolorito, F. et al. Enhancing Deep Chemical Reaction Prediction With Advanced Chirality and Fragment Representation](literature/2025/20250826_mastrolorito_f_et_al.md)                                  |              single-step-synthesis, frag-smiles4reactions              |
-|    2025/08/21    | [Genheden, S. and Howell, G.P. Measuring the Efficiency of Synthetic Routes and Transformations Using Vectors Derived From Similarity and Complexity](literature/2025/20250821_genheden_s_and_howell_g_p.md) |                multi-step-retrosynthesis, optimization                 |
-|    2025/08/20    | [Joung, J.F. et al. Electron Flow Matching for Generative Reaction Mechanism Prediction](literature/2025/20250820_joung_j_f_et_al.md)                                                                        |                       reaction-mechanism, flower                       |
-|    2025/08/19    | [Xu, L. et al. A Unified Pre-trained Deep Learning Framework for Cross-Task Reaction Performance Prediction and Synthesis Planning](literature/2025/20250819_xu_l_et_al.md)                                  | single-step-retrosynthesis, multi-step-retrosynthesis, rxn-graphformer |
-|       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                      |                                  ...                                   |
-
-
-## Collections
-The public [Research Rabbit](https://www.researchrabbitapp.com) literature collections are available as follows:
-- [**Historical Overview (Before 2000)**](https://www.researchrabbitapp.com/collection/public/DLW7X294ZE) - The computer-assisted chemical synthesis literature published before the year 2000.
-- [**Historical Overview (2000 to 2015)**](https://www.researchrabbitapp.com/collection/public/YZ15QP026Q) - The computer-assisted chemical synthesis literature published between the year 2000 and the year 2015.
-- [**Historical Overview (After 2015)**](https://www.researchrabbitapp.com/collection/public/EZR940K7L1) - The computer-assisted chemical synthesis literature published after the year 2015.
+| Publication Date | Publication                                                                                                                                                                                            |                     Tags                      |
+|:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------:|
+|    2025/10/29    | [Lu, Y. et al. Improving Reaction Yield Prediction with Chemical Atom-Level Reaction Learning](literature/2025/20251029_lu_y_et_al.md)                                                                 |        reaction-yield-prediction, carl        |
+|    2025/10/17    | [Ismail, A. et al. Automating Deep Learning-Based Generation and Evaluation of De Novo Chemical Reaction with ChemRxnSAGE](literature/2025/20251017_ismail_a_et_al.md)                                 |                     other                     |
+|    2025/10/09    | [Han, D.B. et al. Learning Multidimensional Electronegativity of Selected Atom Types in Organic Molecules Using Graph Neural Networks](literature/2025/20251009_han_d_b_et_al.md)                      |                     other                     |
+|    2025/10/07    | [Chen, Y. et al. Towards Large-Scale Chemical Reaction Image Parsing via a Multimodal Large Language Model](literature/2025/20251007_chen_y_et_al.md)                                                  |          reaction-extraction, rxnim           |
+|    2025/10/01    | [Mungall, C.J. et al. Chemical Classification Program Synthesis Using Generative Artificial Intelligence](literature/2025/20251001_mungall_c_j_et_al.md)                                               |         reaction-classification, c3po         |
+|    2025/09/29    | [Hastedt, F. et al. MolPrice: Assessing Synthetic Accessibility of Molecules Based on Market Value](literature/2025/20250929_hastedt_f_et_al.md)                                                       |          synthesizability, mol-price          |
+|    2025/09/26    | [Sheshanarayana, R. and You, F. Rethinking Retrosynthesis: Curriculum Learning Reshapes Transformer-Based Small-Molecule Reaction Prediction](literature/2025/20250926a_sheshanarayana_r_and_you_f.md) |          single-step-retrosynthesis           |
+|    2025/09/26    | [Kapeliukha, A. et al. Freedom Space 3.0: ML-Assisted Selection of Synthetically Accessible Small Molecules](literature/2025/20250926b_kapeliukha_a_et_al.md)                                          | synthesizability, chemspace-freedom-space-3.0 |
+|    2025/08/28    | [Choe, J. et al. Retrosynthetic Crosstalk Between Single-Step Reaction and Multi-step Planning](literature/2025/20250828_choe_j_et_al.md)                                                              |  single-step-synthesis, multi-step-synthesis  |
+|    2025/08/26    | [Mastrolorito, F. et al. Enhancing Deep Chemical Reaction Prediction With Advanced Chirality and Fragment Representation](literature/2025/20250826_mastrolorito_f_et_al.md)                            | single-step-synthesis, frag-smiles4reactions  |
+|       ...        | [See All](/documentation/b_timeline.md)                                                                                                                                                                |                      ...                      |
 
 
 ## License Information

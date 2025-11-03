@@ -16,7 +16,7 @@ Corey, E.J. et al.
 None
 
 **Tags:**
-history
+reaction-classification, single-step-synthesis, multi-step-synthesis, template-based, lhasa
 
 
 # Abstract
