@@ -133,7 +133,8 @@ if __name__ == "__main__":
                 "orange" if 10 <= len(timeline_table_rows) < 20 else
                 "yellow" if 20 <= len(timeline_table_rows) < 30 else
                 "green" if 30 <= len(timeline_table_rows) < 40 else
-                "blue"
+                "blue" if 40 <= len(timeline_table_rows) < 50 else
+                "purple"
             )
         ))
 
@@ -168,7 +169,8 @@ if __name__ == "__main__":
                 "orange" if 10 <= len(timeline_table_rows) < 20 else
                 "yellow" if 20 <= len(timeline_table_rows) < 30 else
                 "green" if 30 <= len(timeline_table_rows) < 40 else
-                "blue"
+                "blue" if 40 <= len(timeline_table_rows) < 50 else
+                "purple"
             )
         ))
 
